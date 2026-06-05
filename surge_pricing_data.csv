@@ -1,0 +1,4695 @@
+Hour,Day_Type,Weather,Location,Local_Event,Demand_Score,Price_Multiplier
+20,Weekday,Sunny,Madhapur,0,5,1.14
+3,Weekday,Windy,Hitech City,0,2,0.94
+16,Weekday,Rainy,Dilsukhnagar,1,7,1.58
+8,Weekday,Rainy,Kukatpally,1,10,1.91
+10,Weekday,Sunny,Kukatpally,0,4,1.35
+19,Weekend,Sunny,Kukatpally,0,7,1.43
+9,Weekend,Rainy,Hitech City,0,9,2.34
+2,Weekday,Sunny,Kukatpally,1,6,1.65
+11,Weekday,Cloudy,Madhapur,0,4,1.31
+21,Weekday,Rainy,Dilsukhnagar,0,7,1.58
+8,Weekday,Cloudy,Hitech City,0,5,1.34
+12,Weekend,Sunny,Banjara Hills,1,10,2.26
+12,Weekend,Rainy,Madhapur,0,9,2.32
+17,Weekend,Windy,Dilsukhnagar,1,6,1.49
+4,Weekend,Sunny,Hitech City,0,4,1.29
+21,Weekend,Sunny,Kukatpally,1,10,2.17
+17,Weekday,Sunny,Dilsukhnagar,1,5,1.13
+13,Weekday,Windy,Hitech City,1,9,2.16
+3,Weekend,Rainy,Banjara Hills,1,10,2.18
+16,Weekday,Cloudy,Kukatpally,0,1,1.09
+9,Weekday,Sunny,Banjara Hills,0,4,1.32
+2,Weekday,Rainy,Kukatpally,0,5,1.26
+19,Weekend,Rainy,Dilsukhnagar,0,9,2.08
+21,Weekend,Windy,Dilsukhnagar,1,7,1.5
+2,Weekend,Sunny,Dilsukhnagar,0,2,0.9
+22,Weekday,Rainy,Hitech City,0,7,1.43
+7,Weekend,Windy,Banjara Hills,0,6,1.5
+15,Weekend,Rainy,Hitech City,0,9,2.05
+13,Weekend,Sunny,Hitech City,0,9,2.31
+3,Weekday,Rainy,Banjara Hills,1,9,2.1
+8,Weekend,Rainy,Hitech City,1,11,1.84
+17,Weekday,Sunny,Banjara Hills,0,5,1.25
+6,Weekend,Sunny,Banjara Hills,1,6,1.79
+8,Weekend,Cloudy,Kukatpally,1,8,1.48
+6,Weekday,Sunny,Madhapur,0,1,1.02
+16,Weekday,Sunny,Dilsukhnagar,0,1,0.91
+2,Weekday,Windy,Hitech City,0,2,1.02
+13,Weekend,Cloudy,Banjara Hills,1,11,1.99
+4,Weekend,Windy,Madhapur,0,2,0.99
+18,Weekday,Sunny,Dilsukhnagar,0,2,0.93
+11,Weekday,Rainy,Madhapur,1,8,1.58
+17,Weekend,Sunny,Dilsukhnagar,1,4,1.38
+4,Weekend,Sunny,Hitech City,0,5,1.18
+6,Weekend,Rainy,Madhapur,1,10,2.43
+1,Weekday,Windy,Madhapur,0,1,0.97
+4,Weekend,Rainy,Kukatpally,1,7,1.44
+22,Weekday,Sunny,Madhapur,0,4,1.14
+9,Weekend,Sunny,Madhapur,0,5,1.3
+11,Weekend,Rainy,Banjara Hills,0,7,1.75
+0,Weekday,Cloudy,Kukatpally,0,3,1.15
+22,Weekday,Windy,Hitech City,1,6,1.48
+14,Weekend,Cloudy,Banjara Hills,0,7,1.66
+12,Weekend,Cloudy,Hitech City,1,12,2.25
+12,Weekend,Sunny,Hitech City,1,10,2.21
+8,Weekday,Sunny,Dilsukhnagar,1,7,1.69
+10,Weekend,Sunny,Kukatpally,0,5,1.11
+13,Weekday,Rainy,Madhapur,1,10,2.46
+10,Weekend,Sunny,Madhapur,1,10,2.03
+22,Weekend,Rainy,Banjara Hills,1,12,2.27
+5,Weekend,Windy,Dilsukhnagar,0,3,1.19
+13,Weekend,Windy,Kukatpally,1,8,1.6
+23,Weekday,Sunny,Madhapur,1,4,1.35
+7,Weekend,Rainy,Banjara Hills,0,6,1.42
+15,Weekday,Windy,Kukatpally,0,3,1.25
+7,Weekday,Sunny,Hitech City,1,6,1.47
+22,Weekend,Sunny,Dilsukhnagar,0,1,0.99
+14,Weekend,Windy,Dilsukhnagar,1,10,2.43
+23,Weekend,Windy,Madhapur,0,4,1.33
+16,Weekend,Rainy,Madhapur,1,8,1.69
+7,Weekend,Cloudy,Madhapur,0,4,1.15
+12,Weekday,Rainy,Hitech City,1,14,2.03
+14,Weekend,Sunny,Banjara Hills,1,12,2.43
+18,Weekday,Windy,Kukatpally,0,2,0.96
+12,Weekend,Rainy,Kukatpally,0,9,2.11
+0,Weekend,Cloudy,Kukatpally,0,5,1.38
+19,Weekday,Windy,Dilsukhnagar,0,3,1.29
+4,Weekend,Rainy,Hitech City,1,12,2.03
+14,Weekend,Cloudy,Kukatpally,1,11,1.98
+2,Weekend,Sunny,Dilsukhnagar,0,3,1.17
+2,Weekday,Sunny,Banjara Hills,0,2,1.02
+7,Weekday,Windy,Hitech City,0,5,1.31
+11,Weekday,Sunny,Banjara Hills,1,5,1.27
+9,Weekend,Windy,Banjara Hills,0,6,1.44
+9,Weekday,Sunny,Madhapur,1,8,1.43
+20,Weekend,Sunny,Kukatpally,1,7,1.57
+11,Weekend,Rainy,Kukatpally,0,6,1.65
+17,Weekend,Windy,Kukatpally,1,6,1.74
+2,Weekend,Windy,Banjara Hills,1,9,2.04
+15,Weekend,Rainy,Kukatpally,0,6,1.72
+10,Weekend,Cloudy,Dilsukhnagar,0,5,1.13
+23,Weekend,Windy,Dilsukhnagar,0,4,1.29
+15,Weekend,Sunny,Hitech City,1,7,1.56
+7,Weekend,Cloudy,Kukatpally,1,8,1.8
+17,Weekend,Cloudy,Kukatpally,1,7,1.5
+3,Weekday,Cloudy,Hitech City,0,4,1.16
+15,Weekend,Cloudy,Hitech City,0,6,1.49
+5,Weekend,Sunny,Dilsukhnagar,0,3,1.11
+1,Weekend,Rainy,Kukatpally,0,4,1.27
+15,Weekend,Windy,Madhapur,0,2,0.95
+15,Weekday,Sunny,Kukatpally,1,3,1.27
+21,Weekday,Rainy,Banjara Hills,1,11,2.5
+3,Weekend,Rainy,Dilsukhnagar,1,10,2.44
+9,Weekend,Cloudy,Dilsukhnagar,0,4,1.38
+6,Weekday,Cloudy,Hitech City,0,4,1.15
+2,Weekday,Sunny,Kukatpally,1,6,1.52
+7,Weekend,Cloudy,Kukatpally,0,3,1.38
+20,Weekday,Windy,Hitech City,0,6,1.76
+4,Weekday,Sunny,Banjara Hills,1,7,1.58
+14,Weekend,Windy,Madhapur,1,11,1.86
+1,Weekend,Cloudy,Dilsukhnagar,1,5,1.13
+21,Weekday,Cloudy,Dilsukhnagar,0,5,1.24
+20,Weekend,Cloudy,Banjara Hills,1,13,2.48
+15,Weekend,Windy,Madhapur,1,5,1.36
+10,Weekend,Windy,Madhapur,1,7,1.58
+10,Weekend,Cloudy,Hitech City,1,9,2.26
+17,Weekend,Windy,Hitech City,0,5,1.29
+15,Weekend,Sunny,Banjara Hills,1,7,1.77
+14,Weekend,Sunny,Hitech City,0,7,1.52
+0,Weekend,Sunny,Banjara Hills,0,6,1.78
+20,Weekday,Windy,Madhapur,1,10,2.38
+15,Weekday,Windy,Dilsukhnagar,0,3,1.16
+19,Weekday,Sunny,Madhapur,1,9,2.45
+16,Weekend,Sunny,Madhapur,1,8,1.75
+14,Weekend,Cloudy,Madhapur,1,12,2.45
+6,Weekday,Windy,Banjara Hills,1,5,1.2
+15,Weekend,Windy,Banjara Hills,1,6,1.45
+18,Weekend,Sunny,Kukatpally,0,4,1.1
+4,Weekend,Rainy,Hitech City,1,11,2.04
+22,Weekend,Sunny,Madhapur,1,7,1.65
+15,Weekday,Sunny,Banjara Hills,1,6,1.7
+13,Weekday,Sunny,Kukatpally,0,5,1.37
+1,Weekend,Sunny,Madhapur,1,7,1.57
+7,Weekend,Rainy,Banjara Hills,0,6,1.64
+12,Weekday,Windy,Dilsukhnagar,0,4,1.24
+8,Weekend,Cloudy,Hitech City,1,11,2.27
+5,Weekday,Windy,Madhapur,1,7,1.68
+14,Weekend,Rainy,Kukatpally,1,10,1.97
+18,Weekend,Cloudy,Madhapur,0,6,1.51
+18,Weekday,Windy,Madhapur,0,3,1.17
+6,Weekend,Rainy,Hitech City,0,8,1.72
+1,Weekend,Rainy,Hitech City,1,11,2.32
+5,Weekday,Rainy,Dilsukhnagar,1,8,1.73
+8,Weekend,Cloudy,Madhapur,0,8,1.79
+4,Weekday,Windy,Dilsukhnagar,1,3,1.34
+0,Weekend,Sunny,Kukatpally,1,6,1.63
+20,Weekend,Sunny,Banjara Hills,1,9,2.23
+17,Weekend,Rainy,Hitech City,1,11,2.25
+3,Weekday,Sunny,Hitech City,1,8,1.45
+7,Weekday,Windy,Kukatpally,1,6,1.63
+23,Weekday,Windy,Hitech City,1,8,1.78
+8,Weekday,Cloudy,Banjara Hills,1,11,2.47
+11,Weekday,Cloudy,Dilsukhnagar,1,4,1.22
+6,Weekday,Windy,Hitech City,0,2,0.91
+10,Weekday,Rainy,Dilsukhnagar,0,5,1.35
+17,Weekday,Rainy,Banjara Hills,1,9,2.35
+19,Weekday,Cloudy,Banjara Hills,0,8,1.72
+3,Weekday,Rainy,Hitech City,1,9,2.21
+0,Weekday,Cloudy,Hitech City,0,6,1.61
+23,Weekday,Windy,Kukatpally,1,3,1.24
+7,Weekday,Cloudy,Kukatpally,0,1,1.1
+12,Weekend,Sunny,Kukatpally,1,7,1.76
+10,Weekday,Sunny,Banjara Hills,1,9,2.07
+19,Weekend,Windy,Dilsukhnagar,1,7,1.72
+3,Weekday,Windy,Kukatpally,0,3,1.2
+14,Weekend,Windy,Hitech City,1,12,2.02
+8,Weekend,Rainy,Kukatpally,0,6,1.73
+2,Weekend,Sunny,Madhapur,0,2,1.02
+17,Weekend,Sunny,Kukatpally,1,7,1.75
+23,Weekday,Cloudy,Dilsukhnagar,1,6,1.44
+16,Weekday,Rainy,Kukatpally,0,3,1.21
+17,Weekend,Sunny,Madhapur,0,5,1.35
+19,Weekday,Cloudy,Hitech City,0,8,1.68
+9,Weekend,Cloudy,Hitech City,0,7,1.63
+12,Weekday,Rainy,Hitech City,0,9,2.06
+14,Weekend,Rainy,Madhapur,1,13,2.34
+18,Weekday,Sunny,Banjara Hills,0,2,1.03
+8,Weekend,Windy,Kukatpally,1,9,1.99
+16,Weekday,Cloudy,Kukatpally,0,3,1.3
+18,Weekend,Cloudy,Hitech City,0,7,1.79
+1,Weekday,Rainy,Madhapur,0,5,1.33
+9,Weekend,Sunny,Hitech City,1,11,1.92
+12,Weekday,Cloudy,Hitech City,1,9,2.11
+14,Weekday,Cloudy,Dilsukhnagar,1,10,2.3
+13,Weekend,Sunny,Kukatpally,0,6,1.47
+19,Weekend,Cloudy,Hitech City,1,10,1.97
+18,Weekend,Sunny,Kukatpally,1,6,1.49
+5,Weekday,Sunny,Dilsukhnagar,0,2,0.97
+20,Weekday,Rainy,Hitech City,0,10,1.94
+19,Weekday,Sunny,Banjara Hills,1,11,2.33
+18,Weekend,Cloudy,Madhapur,0,6,1.43
+14,Weekend,Cloudy,Dilsukhnagar,0,7,1.6
+9,Weekend,Windy,Hitech City,0,7,1.73
+2,Weekday,Windy,Kukatpally,0,3,1.37
+18,Weekday,Cloudy,Dilsukhnagar,1,5,1.39
+14,Weekday,Cloudy,Hitech City,0,6,1.5
+14,Weekend,Rainy,Madhapur,1,13,2.07
+10,Weekday,Cloudy,Hitech City,1,8,1.62
+12,Weekend,Cloudy,Dilsukhnagar,0,7,1.43
+21,Weekday,Cloudy,Madhapur,1,9,2.22
+2,Weekend,Windy,Madhapur,0,2,1.03
+13,Weekend,Sunny,Madhapur,1,9,2.47
+10,Weekend,Rainy,Banjara Hills,0,9,1.85
+3,Weekday,Cloudy,Dilsukhnagar,0,4,1.15
+5,Weekday,Windy,Hitech City,1,7,1.67
+7,Weekend,Cloudy,Kukatpally,0,3,1.19
+15,Weekday,Cloudy,Dilsukhnagar,1,7,1.71
+12,Weekend,Rainy,Banjara Hills,0,11,1.84
+15,Weekend,Sunny,Dilsukhnagar,0,3,1.13
+5,Weekend,Windy,Dilsukhnagar,0,4,1.13
+7,Weekend,Cloudy,Hitech City,1,7,1.56
+11,Weekday,Windy,Hitech City,1,6,1.41
+3,Weekend,Rainy,Banjara Hills,0,8,1.77
+15,Weekday,Windy,Kukatpally,0,0,0.9
+6,Weekday,Windy,Hitech City,1,6,1.52
+1,Weekday,Windy,Dilsukhnagar,1,3,1.13
+15,Weekday,Rainy,Banjara Hills,1,11,1.8
+11,Weekday,Windy,Banjara Hills,0,4,1.12
+16,Weekday,Windy,Kukatpally,0,3,1.39
+8,Weekday,Cloudy,Hitech City,1,9,2.31
+20,Weekday,Cloudy,Banjara Hills,0,8,1.62
+20,Weekday,Windy,Kukatpally,0,4,1.12
+14,Weekday,Cloudy,Banjara Hills,0,7,1.75
+10,Weekend,Windy,Dilsukhnagar,1,8,1.41
+20,Weekday,Cloudy,Madhapur,0,7,1.51
+11,Weekend,Windy,Kukatpally,1,6,1.79
+15,Weekend,Cloudy,Dilsukhnagar,1,5,1.32
+2,Weekend,Rainy,Dilsukhnagar,1,9,1.87
+10,Weekend,Cloudy,Kukatpally,1,8,1.68
+11,Weekend,Sunny,Madhapur,1,7,1.66
+1,Weekday,Windy,Madhapur,0,1,0.93
+19,Weekend,Sunny,Banjara Hills,0,7,1.71
+11,Weekend,Windy,Dilsukhnagar,0,2,1.04
+11,Weekend,Windy,Hitech City,0,5,1.22
+20,Weekend,Rainy,Hitech City,0,10,2.15
+12,Weekday,Cloudy,Madhapur,1,9,2.5
+9,Weekend,Rainy,Hitech City,0,8,1.58
+22,Weekend,Sunny,Madhapur,1,5,1.26
+9,Weekend,Rainy,Banjara Hills,1,12,1.88
+6,Weekday,Rainy,Kukatpally,0,5,1.27
+11,Weekend,Rainy,Dilsukhnagar,0,4,1.19
+22,Weekend,Windy,Kukatpally,0,2,1.09
+20,Weekday,Windy,Kukatpally,1,7,1.75
+17,Weekday,Rainy,Kukatpally,0,3,1.26
+9,Weekday,Rainy,Madhapur,0,8,1.78
+16,Weekend,Sunny,Madhapur,0,4,1.14
+9,Weekday,Rainy,Dilsukhnagar,0,6,1.66
+23,Weekend,Sunny,Hitech City,0,3,1.38
+18,Weekend,Rainy,Dilsukhnagar,1,7,1.6
+20,Weekend,Cloudy,Kukatpally,0,8,1.52
+2,Weekday,Rainy,Kukatpally,1,9,2.13
+10,Weekday,Cloudy,Madhapur,1,10,1.89
+11,Weekday,Cloudy,Banjara Hills,1,6,1.51
+7,Weekday,Sunny,Hitech City,1,8,1.75
+13,Weekday,Rainy,Madhapur,1,11,2.33
+15,Weekend,Windy,Madhapur,1,5,1.13
+12,Weekend,Rainy,Banjara Hills,1,12,1.84
+15,Weekend,Cloudy,Dilsukhnagar,0,2,0.99
+8,Weekend,Windy,Madhapur,0,7,1.42
+17,Weekday,Cloudy,Dilsukhnagar,1,4,1.22
+14,Weekend,Sunny,Banjara Hills,0,9,2.06
+10,Weekend,Rainy,Banjara Hills,1,11,1.83
+4,Weekend,Windy,Dilsukhnagar,1,5,1.28
+16,Weekday,Cloudy,Dilsukhnagar,1,5,1.22
+19,Weekend,Cloudy,Dilsukhnagar,1,10,2.13
+0,Weekend,Cloudy,Hitech City,1,9,2.36
+23,Weekday,Windy,Madhapur,0,1,1.02
+5,Weekend,Rainy,Banjara Hills,0,6,1.48
+14,Weekend,Windy,Banjara Hills,1,10,2.09
+19,Weekend,Sunny,Banjara Hills,0,8,1.8
+15,Weekend,Cloudy,Banjara Hills,1,9,2.18
+21,Weekend,Windy,Banjara Hills,0,8,1.62
+7,Weekend,Cloudy,Banjara Hills,1,9,2.14
+17,Weekend,Cloudy,Hitech City,1,10,2.37
+4,Weekend,Sunny,Madhapur,0,4,1.38
+20,Weekend,Windy,Banjara Hills,0,8,1.77
+22,Weekend,Rainy,Hitech City,0,7,1.42
+16,Weekday,Rainy,Hitech City,0,8,1.53
+15,Weekday,Rainy,Hitech City,0,8,1.66
+15,Weekend,Rainy,Madhapur,1,10,2.25
+2,Weekday,Sunny,Banjara Hills,1,6,1.77
+1,Weekend,Windy,Banjara Hills,1,6,1.4
+18,Weekday,Cloudy,Madhapur,1,8,1.76
+4,Weekend,Cloudy,Banjara Hills,0,6,1.46
+14,Weekend,Rainy,Hitech City,1,14,2.2
+6,Weekday,Windy,Kukatpally,1,3,1.22
+3,Weekday,Rainy,Kukatpally,1,7,1.4
+12,Weekday,Windy,Madhapur,1,9,2.21
+18,Weekday,Cloudy,Madhapur,0,2,1.03
+14,Weekend,Rainy,Kukatpally,1,10,2.25
+9,Weekend,Rainy,Banjara Hills,0,11,1.91
+23,Weekend,Windy,Dilsukhnagar,1,5,1.33
+21,Weekday,Windy,Dilsukhnagar,1,6,1.77
+3,Weekday,Rainy,Dilsukhnagar,0,4,1.2
+16,Weekend,Sunny,Banjara Hills,1,6,1.76
+14,Weekday,Windy,Banjara Hills,1,11,2.19
+17,Weekend,Cloudy,Hitech City,1,9,2.37
+23,Weekday,Sunny,Hitech City,1,7,1.68
+17,Weekday,Sunny,Kukatpally,0,2,0.98
+4,Weekend,Cloudy,Kukatpally,1,8,1.55
+21,Weekday,Cloudy,Hitech City,0,9,2.17
+23,Weekday,Sunny,Hitech City,1,8,1.67
+17,Weekend,Windy,Banjara Hills,0,6,1.54
+8,Weekday,Sunny,Hitech City,1,7,1.5
+2,Weekday,Sunny,Kukatpally,0,1,1.05
+12,Weekend,Rainy,Dilsukhnagar,0,7,1.46
+9,Weekday,Cloudy,Dilsukhnagar,1,7,1.52
+4,Weekday,Windy,Madhapur,1,4,1.27
+18,Weekday,Windy,Dilsukhnagar,1,3,1.39
+20,Weekend,Cloudy,Kukatpally,1,9,2.01
+5,Weekend,Rainy,Banjara Hills,1,10,2.36
+1,Weekend,Windy,Dilsukhnagar,0,4,1.17
+6,Weekend,Sunny,Kukatpally,1,4,1.26
+6,Weekday,Cloudy,Kukatpally,0,1,0.94
+18,Weekday,Windy,Banjara Hills,1,7,1.78
+0,Weekday,Rainy,Hitech City,1,9,2.29
+22,Weekday,Windy,Banjara Hills,1,7,1.55
+17,Weekend,Cloudy,Madhapur,1,9,2.13
+23,Weekend,Cloudy,Banjara Hills,1,9,2.09
+18,Weekday,Rainy,Hitech City,1,11,2.01
+6,Weekend,Rainy,Kukatpally,0,7,1.62
+21,Weekend,Cloudy,Kukatpally,1,11,1.92
+11,Weekday,Rainy,Dilsukhnagar,1,7,1.77
+17,Weekday,Sunny,Hitech City,0,2,0.98
+20,Weekday,Sunny,Banjara Hills,0,6,1.6
+11,Weekday,Windy,Kukatpally,0,0,1.01
+13,Weekday,Sunny,Dilsukhnagar,1,8,1.41
+22,Weekend,Rainy,Hitech City,0,7,1.5
+19,Weekend,Cloudy,Madhapur,1,9,2.06
+12,Weekend,Rainy,Banjara Hills,1,12,2.26
+20,Weekday,Sunny,Kukatpally,1,9,2.19
+1,Weekday,Rainy,Hitech City,1,11,2.25
+10,Weekday,Sunny,Banjara Hills,0,7,1.51
+2,Weekend,Sunny,Banjara Hills,1,6,1.78
+18,Weekday,Windy,Hitech City,1,6,1.63
+18,Weekend,Cloudy,Kukatpally,0,2,1.0
+11,Weekday,Sunny,Kukatpally,0,0,0.97
+19,Weekend,Cloudy,Hitech City,1,13,2.14
+11,Weekend,Windy,Banjara Hills,1,6,1.71
+9,Weekday,Sunny,Hitech City,1,8,1.55
+20,Weekday,Windy,Madhapur,1,7,1.44
+9,Weekend,Cloudy,Madhapur,0,6,1.43
+13,Weekend,Windy,Hitech City,0,6,1.54
+2,Weekend,Windy,Hitech City,1,9,2.07
+2,Weekday,Rainy,Kukatpally,0,4,1.18
+8,Weekend,Rainy,Hitech City,0,11,1.99
+9,Weekend,Sunny,Madhapur,1,8,1.69
+15,Weekday,Windy,Hitech City,0,4,1.1
+12,Weekend,Windy,Madhapur,1,10,2.1
+20,Weekday,Cloudy,Madhapur,0,8,1.53
+12,Weekend,Cloudy,Kukatpally,0,7,1.55
+12,Weekend,Sunny,Dilsukhnagar,0,5,1.3
+17,Weekday,Windy,Banjara Hills,1,7,1.73
+2,Weekend,Windy,Banjara Hills,1,7,1.5
+4,Weekend,Windy,Hitech City,1,9,2.21
+17,Weekend,Sunny,Madhapur,0,2,1.05
+21,Weekend,Rainy,Dilsukhnagar,0,10,2.48
+10,Weekend,Sunny,Hitech City,0,7,1.49
+23,Weekday,Windy,Madhapur,1,7,1.71
+18,Weekday,Cloudy,Hitech City,1,6,1.52
+2,Weekday,Rainy,Madhapur,1,9,2.12
+6,Weekend,Cloudy,Kukatpally,0,5,1.32
+14,Weekend,Sunny,Madhapur,0,5,1.11
+10,Weekday,Rainy,Banjara Hills,0,8,1.53
+13,Weekend,Rainy,Kukatpally,0,8,1.66
+13,Weekend,Sunny,Dilsukhnagar,0,7,1.64
+12,Weekday,Rainy,Banjara Hills,1,11,2.2
+17,Weekday,Cloudy,Madhapur,0,5,1.13
+21,Weekend,Cloudy,Dilsukhnagar,1,11,2.21
+11,Weekend,Windy,Dilsukhnagar,0,3,1.38
+18,Weekday,Rainy,Madhapur,0,5,1.19
+5,Weekend,Rainy,Dilsukhnagar,1,10,2.22
+18,Weekend,Windy,Banjara Hills,1,7,1.62
+15,Weekend,Rainy,Banjara Hills,1,12,2.23
+11,Weekday,Windy,Banjara Hills,0,5,1.39
+16,Weekend,Windy,Kukatpally,1,7,1.6
+2,Weekday,Rainy,Madhapur,0,6,1.49
+9,Weekday,Windy,Dilsukhnagar,1,5,1.27
+8,Weekend,Sunny,Kukatpally,0,6,1.44
+20,Weekday,Cloudy,Hitech City,1,11,2.04
+2,Weekend,Sunny,Banjara Hills,0,5,1.36
+19,Weekend,Rainy,Dilsukhnagar,0,8,1.73
+1,Weekend,Cloudy,Dilsukhnagar,0,4,1.39
+9,Weekend,Cloudy,Dilsukhnagar,0,5,1.39
+13,Weekday,Cloudy,Banjara Hills,0,7,1.46
+10,Weekday,Windy,Kukatpally,0,4,1.29
+12,Weekend,Sunny,Hitech City,1,11,2.29
+11,Weekend,Windy,Madhapur,0,2,1.05
+14,Weekend,Sunny,Dilsukhnagar,1,8,1.79
+6,Weekend,Cloudy,Madhapur,1,8,1.62
+4,Weekend,Cloudy,Hitech City,0,4,1.29
+14,Weekday,Sunny,Banjara Hills,1,11,1.8
+13,Weekday,Rainy,Madhapur,0,9,1.87
+11,Weekend,Sunny,Madhapur,0,2,0.98
+9,Weekday,Windy,Hitech City,0,4,1.16
+2,Weekday,Rainy,Dilsukhnagar,1,6,1.4
+10,Weekday,Windy,Banjara Hills,1,7,1.49
+2,Weekday,Sunny,Madhapur,1,6,1.45
+4,Weekday,Sunny,Dilsukhnagar,0,1,0.99
+23,Weekday,Rainy,Kukatpally,1,7,1.43
+3,Weekday,Sunny,Dilsukhnagar,1,5,1.39
+10,Weekday,Rainy,Madhapur,0,7,1.62
+19,Weekend,Sunny,Madhapur,0,6,1.7
+9,Weekday,Rainy,Kukatpally,1,8,1.5
+20,Weekday,Sunny,Madhapur,1,8,1.55
+18,Weekend,Cloudy,Dilsukhnagar,0,5,1.39
+2,Weekday,Sunny,Hitech City,1,6,1.42
+1,Weekend,Cloudy,Dilsukhnagar,1,8,1.68
+2,Weekday,Cloudy,Hitech City,1,6,1.6
+6,Weekday,Cloudy,Kukatpally,0,3,1.31
+23,Weekday,Sunny,Banjara Hills,0,5,1.13
+19,Weekday,Cloudy,Banjara Hills,0,6,1.68
+22,Weekday,Rainy,Kukatpally,1,8,1.47
+4,Weekend,Sunny,Hitech City,1,9,1.99
+2,Weekend,Sunny,Kukatpally,1,6,1.42
+18,Weekday,Cloudy,Banjara Hills,1,6,1.76
+21,Weekday,Rainy,Dilsukhnagar,0,6,1.74
+0,Weekday,Sunny,Kukatpally,1,6,1.77
+5,Weekday,Windy,Banjara Hills,1,6,1.57
+23,Weekend,Cloudy,Hitech City,1,7,1.6
+1,Weekday,Rainy,Dilsukhnagar,0,6,1.43
+14,Weekend,Cloudy,Madhapur,0,9,1.81
+6,Weekend,Cloudy,Dilsukhnagar,0,5,1.21
+15,Weekday,Rainy,Banjara Hills,0,8,1.41
+17,Weekend,Sunny,Madhapur,0,5,1.35
+23,Weekend,Sunny,Banjara Hills,0,6,1.6
+1,Weekday,Cloudy,Hitech City,0,4,1.37
+16,Weekend,Cloudy,Kukatpally,0,2,1.0
+20,Weekend,Sunny,Dilsukhnagar,0,7,1.66
+4,Weekday,Cloudy,Madhapur,1,8,1.68
+23,Weekend,Cloudy,Kukatpally,1,6,1.43
+6,Weekday,Sunny,Banjara Hills,0,3,1.23
+10,Weekend,Sunny,Dilsukhnagar,1,7,1.58
+14,Weekend,Sunny,Hitech City,0,8,1.73
+22,Weekday,Rainy,Madhapur,0,4,1.31
+11,Weekend,Sunny,Madhapur,1,6,1.41
+12,Weekend,Rainy,Hitech City,1,12,2.36
+4,Weekday,Sunny,Hitech City,0,3,1.16
+12,Weekend,Sunny,Dilsukhnagar,1,7,1.41
+2,Weekday,Windy,Banjara Hills,0,4,1.14
+14,Weekday,Rainy,Dilsukhnagar,1,12,2.15
+12,Weekend,Rainy,Madhapur,0,9,1.99
+14,Weekday,Sunny,Dilsukhnagar,0,5,1.25
+17,Weekend,Sunny,Hitech City,1,9,1.9
+6,Weekday,Sunny,Kukatpally,1,6,1.62
+15,Weekend,Cloudy,Kukatpally,1,6,1.41
+19,Weekday,Sunny,Madhapur,0,7,1.61
+18,Weekday,Rainy,Hitech City,0,6,1.51
+23,Weekday,Rainy,Dilsukhnagar,1,8,1.77
+5,Weekday,Rainy,Dilsukhnagar,1,8,1.77
+0,Weekend,Rainy,Dilsukhnagar,0,7,1.62
+5,Weekend,Sunny,Hitech City,0,4,1.28
+0,Weekend,Sunny,Madhapur,0,3,1.2
+5,Weekend,Sunny,Hitech City,0,4,1.33
+16,Weekend,Sunny,Madhapur,1,5,1.2
+10,Weekday,Rainy,Kukatpally,1,10,1.92
+17,Weekend,Rainy,Dilsukhnagar,0,7,1.52
+22,Weekend,Rainy,Banjara Hills,0,9,2.4
+18,Weekday,Rainy,Dilsukhnagar,1,7,1.66
+3,Weekend,Rainy,Madhapur,0,6,1.54
+10,Weekday,Sunny,Madhapur,1,6,1.51
+7,Weekday,Cloudy,Madhapur,0,2,0.91
+14,Weekend,Rainy,Kukatpally,1,13,2.05
+12,Weekday,Windy,Dilsukhnagar,0,4,1.24
+1,Weekend,Sunny,Madhapur,1,5,1.12
+5,Weekend,Rainy,Hitech City,0,8,1.64
+19,Weekend,Sunny,Kukatpally,0,7,1.46
+3,Weekend,Rainy,Banjara Hills,1,11,2.26
+9,Weekday,Sunny,Hitech City,1,10,1.91
+11,Weekday,Windy,Hitech City,1,8,1.48
+0,Weekday,Rainy,Madhapur,0,7,1.74
+9,Weekend,Windy,Kukatpally,1,6,1.66
+12,Weekday,Cloudy,Kukatpally,1,8,1.58
+8,Weekend,Windy,Madhapur,0,6,1.63
+4,Weekday,Sunny,Madhapur,1,5,1.27
+12,Weekend,Windy,Dilsukhnagar,0,7,1.52
+12,Weekday,Rainy,Hitech City,1,12,2.46
+5,Weekday,Rainy,Banjara Hills,0,8,1.43
+21,Weekend,Rainy,Banjara Hills,1,14,2.44
+2,Weekday,Windy,Dilsukhnagar,1,5,1.36
+16,Weekend,Sunny,Dilsukhnagar,1,4,1.22
+4,Weekday,Sunny,Dilsukhnagar,0,2,1.07
+11,Weekend,Cloudy,Kukatpally,1,8,1.41
+8,Weekend,Rainy,Dilsukhnagar,1,9,2.08
+10,Weekday,Sunny,Kukatpally,1,7,1.41
+9,Weekend,Cloudy,Kukatpally,0,5,1.14
+23,Weekend,Cloudy,Madhapur,1,6,1.48
+6,Weekend,Windy,Dilsukhnagar,1,4,1.25
+5,Weekday,Cloudy,Dilsukhnagar,1,5,1.33
+16,Weekday,Rainy,Banjara Hills,0,5,1.17
+14,Weekday,Cloudy,Banjara Hills,1,11,2.38
+16,Weekend,Sunny,Hitech City,0,5,1.25
+14,Weekday,Windy,Dilsukhnagar,1,8,1.47
+8,Weekday,Cloudy,Hitech City,1,8,1.47
+18,Weekday,Rainy,Banjara Hills,0,7,1.66
+16,Weekday,Sunny,Kukatpally,0,1,1.02
+0,Weekday,Cloudy,Dilsukhnagar,1,6,1.57
+12,Weekend,Windy,Madhapur,0,8,1.52
+16,Weekend,Sunny,Hitech City,1,8,1.52
+3,Weekend,Sunny,Madhapur,1,7,1.74
+8,Weekend,Rainy,Banjara Hills,0,8,1.72
+19,Weekend,Cloudy,Banjara Hills,0,10,2.5
+8,Weekend,Windy,Kukatpally,0,4,1.2
+22,Weekday,Windy,Madhapur,1,5,1.35
+17,Weekday,Cloudy,Hitech City,1,7,1.7
+23,Weekday,Cloudy,Hitech City,0,5,1.17
+9,Weekend,Cloudy,Madhapur,1,10,2.12
+3,Weekend,Sunny,Dilsukhnagar,0,4,1.37
+16,Weekday,Windy,Dilsukhnagar,1,6,1.42
+4,Weekday,Rainy,Madhapur,1,10,1.9
+22,Weekday,Sunny,Kukatpally,1,4,1.19
+1,Weekday,Windy,Madhapur,0,2,1.02
+5,Weekend,Sunny,Banjara Hills,1,9,2.08
+15,Weekend,Sunny,Hitech City,0,5,1.39
+10,Weekday,Sunny,Hitech City,0,5,1.31
+11,Weekend,Rainy,Hitech City,1,11,1.92
+1,Weekend,Cloudy,Kukatpally,1,8,1.76
+4,Weekend,Windy,Madhapur,0,3,1.38
+12,Weekday,Rainy,Banjara Hills,0,9,2.31
+18,Weekday,Sunny,Madhapur,0,4,1.36
+8,Weekday,Sunny,Hitech City,0,4,1.31
+13,Weekend,Windy,Hitech City,1,12,2.29
+6,Weekday,Cloudy,Kukatpally,0,3,1.29
+22,Weekday,Windy,Hitech City,0,4,1.13
+3,Weekend,Rainy,Dilsukhnagar,0,6,1.73
+6,Weekend,Windy,Madhapur,0,2,1.01
+6,Weekend,Cloudy,Banjara Hills,0,4,1.3
+3,Weekend,Rainy,Hitech City,0,6,1.76
+20,Weekday,Windy,Madhapur,1,10,1.84
+5,Weekday,Cloudy,Madhapur,1,8,1.7
+3,Weekday,Sunny,Banjara Hills,0,4,1.21
+14,Weekend,Sunny,Madhapur,1,9,1.88
+12,Weekend,Cloudy,Kukatpally,1,11,2.25
+5,Weekday,Rainy,Hitech City,0,5,1.22
+18,Weekend,Windy,Banjara Hills,1,8,1.64
+21,Weekday,Windy,Kukatpally,0,6,1.58
+2,Weekend,Cloudy,Hitech City,0,6,1.61
+22,Weekday,Windy,Banjara Hills,1,7,1.67
+20,Weekend,Rainy,Dilsukhnagar,0,7,1.66
+5,Weekend,Windy,Banjara Hills,0,6,1.53
+10,Weekend,Sunny,Dilsukhnagar,0,6,1.56
+7,Weekday,Windy,Kukatpally,1,3,1.36
+14,Weekend,Sunny,Kukatpally,0,4,1.22
+1,Weekday,Sunny,Dilsukhnagar,1,4,1.3
+14,Weekend,Cloudy,Hitech City,0,10,2.03
+19,Weekend,Cloudy,Kukatpally,0,5,1.33
+7,Weekday,Cloudy,Madhapur,1,7,1.68
+1,Weekday,Windy,Banjara Hills,1,5,1.18
+6,Weekday,Sunny,Kukatpally,0,3,1.35
+6,Weekend,Sunny,Kukatpally,0,1,1.05
+14,Weekend,Rainy,Kukatpally,0,7,1.62
+13,Weekend,Rainy,Dilsukhnagar,0,8,1.44
+21,Weekend,Windy,Kukatpally,0,6,1.56
+10,Weekend,Windy,Banjara Hills,0,8,1.64
+23,Weekend,Cloudy,Dilsukhnagar,0,3,1.16
+22,Weekend,Cloudy,Banjara Hills,0,6,1.68
+11,Weekend,Windy,Dilsukhnagar,1,7,1.72
+16,Weekday,Sunny,Kukatpally,0,0,1.03
+6,Weekend,Rainy,Madhapur,1,9,2.39
+22,Weekend,Rainy,Dilsukhnagar,0,6,1.73
+3,Weekday,Windy,Banjara Hills,1,5,1.38
+12,Weekend,Cloudy,Dilsukhnagar,0,5,1.32
+6,Weekend,Rainy,Madhapur,0,6,1.52
+5,Weekday,Rainy,Banjara Hills,0,8,1.42
+8,Weekend,Rainy,Banjara Hills,1,11,2.03
+22,Weekday,Sunny,Banjara Hills,1,5,1.33
+20,Weekend,Windy,Dilsukhnagar,1,7,1.71
+10,Weekday,Rainy,Dilsukhnagar,0,6,1.57
+17,Weekend,Sunny,Madhapur,0,3,1.3
+10,Weekend,Cloudy,Banjara Hills,1,9,1.88
+11,Weekend,Rainy,Dilsukhnagar,0,4,1.3
+10,Weekend,Sunny,Kukatpally,1,8,1.41
+16,Weekend,Windy,Kukatpally,0,3,1.37
+6,Weekend,Sunny,Hitech City,0,3,1.29
+6,Weekday,Windy,Hitech City,0,5,1.29
+2,Weekday,Sunny,Kukatpally,1,3,1.13
+1,Weekday,Cloudy,Dilsukhnagar,0,2,1.08
+13,Weekend,Windy,Kukatpally,1,9,1.81
+21,Weekday,Sunny,Dilsukhnagar,0,3,1.31
+2,Weekend,Sunny,Madhapur,1,5,1.18
+14,Weekend,Windy,Hitech City,1,10,2.17
+4,Weekend,Cloudy,Banjara Hills,1,9,2.47
+0,Weekday,Sunny,Hitech City,0,5,1.26
+2,Weekend,Rainy,Madhapur,0,8,1.76
+16,Weekday,Rainy,Banjara Hills,0,7,1.48
+5,Weekday,Windy,Dilsukhnagar,0,2,1.03
+8,Weekday,Rainy,Dilsukhnagar,1,10,2.05
+21,Weekday,Sunny,Madhapur,0,5,1.2
+14,Weekend,Cloudy,Dilsukhnagar,0,7,1.72
+13,Weekday,Sunny,Madhapur,0,5,1.31
+20,Weekend,Cloudy,Madhapur,0,8,1.75
+14,Weekend,Cloudy,Madhapur,1,9,1.92
+19,Weekday,Cloudy,Banjara Hills,0,8,1.69
+20,Weekday,Sunny,Hitech City,0,8,1.71
+6,Weekday,Cloudy,Dilsukhnagar,1,5,1.21
+7,Weekend,Rainy,Kukatpally,0,7,1.55
+0,Weekday,Rainy,Dilsukhnagar,0,6,1.46
+18,Weekday,Windy,Madhapur,0,2,1.05
+7,Weekday,Cloudy,Madhapur,0,2,1.03
+16,Weekend,Windy,Kukatpally,1,4,1.11
+20,Weekend,Sunny,Dilsukhnagar,1,9,2.21
+18,Weekday,Windy,Kukatpally,1,3,1.25
+12,Weekday,Windy,Madhapur,1,10,2.35
+19,Weekday,Rainy,Kukatpally,0,7,1.43
+20,Weekend,Rainy,Banjara Hills,0,10,2.05
+22,Weekday,Rainy,Kukatpally,1,6,1.59
+15,Weekend,Rainy,Dilsukhnagar,0,7,1.41
+1,Weekday,Rainy,Banjara Hills,0,6,1.42
+8,Weekday,Windy,Dilsukhnagar,0,4,1.38
+6,Weekend,Windy,Kukatpally,0,2,1.07
+19,Weekday,Rainy,Dilsukhnagar,1,10,2.31
+10,Weekend,Sunny,Banjara Hills,1,11,1.89
+0,Weekday,Windy,Banjara Hills,0,3,1.24
+19,Weekday,Sunny,Hitech City,1,9,2.43
+17,Weekday,Windy,Dilsukhnagar,1,5,1.36
+22,Weekend,Rainy,Kukatpally,1,9,2.21
+23,Weekday,Windy,Banjara Hills,1,8,1.71
+2,Weekend,Windy,Madhapur,0,2,1.04
+0,Weekday,Sunny,Kukatpally,0,2,0.98
+3,Weekday,Windy,Dilsukhnagar,1,5,1.36
+13,Weekend,Cloudy,Kukatpally,0,8,1.62
+17,Weekend,Rainy,Madhapur,1,10,2.49
+18,Weekend,Windy,Banjara Hills,0,4,1.23
+22,Weekday,Sunny,Banjara Hills,1,7,1.72
+19,Weekday,Rainy,Kukatpally,0,6,1.73
+15,Weekend,Sunny,Hitech City,1,7,1.55
+19,Weekday,Windy,Kukatpally,1,6,1.78
+5,Weekend,Windy,Hitech City,0,5,1.16
+19,Weekday,Rainy,Hitech City,1,12,2.26
+5,Weekday,Cloudy,Kukatpally,1,7,1.56
+6,Weekday,Sunny,Hitech City,1,7,1.54
+8,Weekday,Rainy,Kukatpally,1,8,1.5
+13,Weekday,Sunny,Dilsukhnagar,1,8,1.78
+16,Weekend,Cloudy,Kukatpally,1,8,1.71
+10,Weekend,Windy,Dilsukhnagar,0,6,1.45
+2,Weekend,Rainy,Banjara Hills,1,12,2.47
+16,Weekday,Cloudy,Banjara Hills,1,6,1.56
+23,Weekend,Sunny,Dilsukhnagar,0,4,1.19
+6,Weekend,Rainy,Banjara Hills,1,10,1.96
+7,Weekend,Rainy,Banjara Hills,0,7,1.73
+11,Weekday,Sunny,Hitech City,0,5,1.28
+17,Weekday,Windy,Madhapur,1,7,1.76
+18,Weekend,Windy,Banjara Hills,1,9,1.96
+18,Weekday,Sunny,Dilsukhnagar,1,6,1.78
+1,Weekend,Windy,Banjara Hills,1,6,1.68
+14,Weekend,Sunny,Hitech City,0,9,2.21
+10,Weekend,Cloudy,Banjara Hills,1,10,1.99
+19,Weekend,Cloudy,Banjara Hills,1,13,1.95
+22,Weekend,Cloudy,Kukatpally,1,8,1.47
+4,Weekday,Sunny,Madhapur,0,4,1.36
+6,Weekday,Rainy,Kukatpally,0,4,1.23
+4,Weekend,Windy,Madhapur,1,5,1.22
+22,Weekday,Sunny,Banjara Hills,1,8,1.74
+3,Weekend,Cloudy,Madhapur,1,8,1.62
+8,Weekend,Sunny,Kukatpally,0,5,1.36
+19,Weekday,Rainy,Madhapur,1,12,2.27
+15,Weekend,Sunny,Kukatpally,1,7,1.65
+4,Weekday,Cloudy,Kukatpally,1,4,1.12
+10,Weekday,Cloudy,Madhapur,1,9,2.22
+12,Weekend,Windy,Madhapur,1,11,1.92
+0,Weekday,Rainy,Madhapur,0,5,1.15
+3,Weekday,Sunny,Kukatpally,0,0,1.05
+16,Weekday,Sunny,Madhapur,0,1,1.03
+12,Weekend,Rainy,Banjara Hills,1,15,2.24
+4,Weekday,Sunny,Hitech City,1,7,1.75
+14,Weekend,Windy,Banjara Hills,0,9,2.24
+20,Weekend,Cloudy,Madhapur,1,10,2.36
+14,Weekend,Cloudy,Kukatpally,1,9,2.01
+0,Weekday,Cloudy,Madhapur,1,5,1.31
+15,Weekend,Cloudy,Hitech City,1,9,2.22
+0,Weekend,Rainy,Kukatpally,1,10,1.97
+22,Weekend,Windy,Banjara Hills,1,6,1.57
+7,Weekend,Cloudy,Dilsukhnagar,1,8,1.48
+2,Weekday,Rainy,Madhapur,0,7,1.65
+8,Weekend,Rainy,Madhapur,0,8,1.42
+17,Weekday,Rainy,Hitech City,1,10,1.89
+14,Weekday,Rainy,Hitech City,0,8,1.6
+10,Weekend,Cloudy,Kukatpally,1,10,2.29
+1,Weekend,Sunny,Banjara Hills,0,5,1.33
+2,Weekend,Rainy,Banjara Hills,1,12,2.38
+3,Weekday,Windy,Kukatpally,0,0,0.94
+23,Weekday,Rainy,Kukatpally,1,8,1.77
+5,Weekday,Sunny,Madhapur,1,6,1.48
+1,Weekday,Sunny,Banjara Hills,1,7,1.41
+8,Weekday,Windy,Banjara Hills,0,4,1.27
+22,Weekend,Rainy,Madhapur,0,6,1.46
+2,Weekend,Sunny,Hitech City,1,7,1.68
+3,Weekday,Windy,Banjara Hills,1,7,1.72
+14,Weekday,Sunny,Kukatpally,1,7,1.5
+1,Weekend,Windy,Dilsukhnagar,1,7,1.48
+5,Weekend,Cloudy,Kukatpally,1,6,1.43
+4,Weekend,Cloudy,Madhapur,1,9,1.8
+20,Weekend,Rainy,Hitech City,1,13,2.02
+2,Weekend,Rainy,Dilsukhnagar,1,8,1.65
+10,Weekend,Cloudy,Hitech City,0,6,1.42
+4,Weekday,Sunny,Banjara Hills,0,5,1.16
+1,Weekend,Windy,Dilsukhnagar,1,4,1.21
+19,Weekday,Sunny,Banjara Hills,1,8,1.59
+20,Weekday,Cloudy,Dilsukhnagar,1,9,2.36
+1,Weekend,Sunny,Hitech City,1,6,1.78
+16,Weekday,Sunny,Banjara Hills,1,6,1.48
+21,Weekday,Rainy,Dilsukhnagar,1,9,2.34
+18,Weekend,Windy,Kukatpally,0,2,1.06
+17,Weekend,Cloudy,Banjara Hills,1,9,2.43
+17,Weekend,Cloudy,Kukatpally,1,7,1.64
+18,Weekday,Windy,Dilsukhnagar,1,5,1.39
+14,Weekend,Sunny,Hitech City,1,9,2.16
+9,Weekday,Cloudy,Banjara Hills,0,7,1.41
+22,Weekend,Rainy,Hitech City,0,9,2.05
+4,Weekend,Cloudy,Dilsukhnagar,0,3,1.18
+9,Weekday,Windy,Dilsukhnagar,0,2,1.04
+15,Weekday,Windy,Dilsukhnagar,0,2,0.91
+18,Weekend,Sunny,Hitech City,1,8,1.75
+13,Weekend,Sunny,Banjara Hills,0,9,1.84
+16,Weekday,Cloudy,Dilsukhnagar,0,3,1.25
+7,Weekday,Sunny,Kukatpally,1,3,1.17
+9,Weekend,Rainy,Banjara Hills,1,11,2.13
+23,Weekday,Windy,Madhapur,0,4,1.25
+22,Weekday,Rainy,Kukatpally,0,6,1.56
+18,Weekday,Rainy,Banjara Hills,0,7,1.71
+10,Weekday,Sunny,Kukatpally,1,7,1.54
+10,Weekend,Sunny,Madhapur,0,6,1.65
+14,Weekday,Windy,Hitech City,0,6,1.67
+4,Weekday,Sunny,Hitech City,0,3,1.36
+9,Weekday,Cloudy,Hitech City,1,11,2.13
+10,Weekday,Rainy,Banjara Hills,1,13,2.24
+4,Weekday,Windy,Dilsukhnagar,0,2,0.93
+9,Weekday,Cloudy,Hitech City,1,8,1.43
+21,Weekend,Cloudy,Hitech City,0,9,2.41
+20,Weekend,Rainy,Kukatpally,0,9,2.14
+19,Weekday,Rainy,Banjara Hills,1,11,1.83
+16,Weekend,Cloudy,Kukatpally,1,6,1.41
+21,Weekend,Cloudy,Madhapur,0,8,1.72
+20,Weekend,Windy,Hitech City,1,10,1.91
+12,Weekday,Sunny,Kukatpally,0,6,1.5
+4,Weekend,Cloudy,Dilsukhnagar,1,8,1.62
+6,Weekday,Rainy,Banjara Hills,1,9,2.1
+4,Weekday,Cloudy,Hitech City,0,4,1.2
+4,Weekday,Cloudy,Kukatpally,1,6,1.58
+20,Weekend,Rainy,Banjara Hills,0,10,1.93
+19,Weekend,Rainy,Dilsukhnagar,0,8,1.67
+11,Weekday,Windy,Banjara Hills,1,7,1.47
+12,Weekend,Windy,Banjara Hills,0,7,1.49
+13,Weekday,Cloudy,Kukatpally,0,5,1.33
+2,Weekday,Windy,Dilsukhnagar,1,5,1.36
+7,Weekend,Windy,Hitech City,1,8,1.56
+23,Weekday,Sunny,Kukatpally,1,3,1.36
+7,Weekend,Sunny,Dilsukhnagar,1,4,1.16
+14,Weekend,Cloudy,Madhapur,1,10,2.1
+19,Weekday,Rainy,Kukatpally,1,9,2.31
+3,Weekday,Rainy,Kukatpally,1,8,1.58
+5,Weekend,Rainy,Kukatpally,0,6,1.53
+20,Weekday,Sunny,Hitech City,0,8,1.65
+2,Weekend,Rainy,Kukatpally,1,7,1.71
+10,Weekday,Rainy,Banjara Hills,0,7,1.57
+9,Weekend,Cloudy,Banjara Hills,0,7,1.78
+0,Weekend,Sunny,Kukatpally,1,7,1.62
+0,Weekend,Rainy,Banjara Hills,1,12,2.09
+2,Weekday,Rainy,Dilsukhnagar,1,7,1.42
+4,Weekday,Cloudy,Hitech City,0,3,1.3
+19,Weekend,Cloudy,Hitech City,0,7,1.57
+5,Weekday,Cloudy,Dilsukhnagar,0,4,1.32
+11,Weekday,Sunny,Madhapur,1,6,1.76
+2,Weekend,Sunny,Madhapur,1,6,1.45
+8,Weekend,Windy,Dilsukhnagar,0,4,1.28
+3,Weekday,Windy,Dilsukhnagar,1,6,1.64
+10,Weekend,Cloudy,Banjara Hills,1,12,2.14
+5,Weekday,Cloudy,Banjara Hills,0,3,1.11
+20,Weekday,Rainy,Dilsukhnagar,1,12,1.83
+11,Weekday,Sunny,Banjara Hills,1,7,1.72
+9,Weekend,Cloudy,Hitech City,0,8,1.54
+23,Weekday,Rainy,Banjara Hills,1,10,2.45
+15,Weekend,Sunny,Banjara Hills,1,7,1.65
+17,Weekend,Windy,Kukatpally,0,3,1.27
+21,Weekend,Sunny,Banjara Hills,1,11,1.85
+4,Weekend,Sunny,Madhapur,1,6,1.63
+12,Weekday,Sunny,Madhapur,1,7,1.51
+2,Weekend,Rainy,Madhapur,1,10,1.95
+9,Weekday,Sunny,Madhapur,0,4,1.37
+14,Weekday,Windy,Dilsukhnagar,0,4,1.2
+15,Weekend,Cloudy,Banjara Hills,0,5,1.16
+1,Weekend,Windy,Dilsukhnagar,0,1,0.96
+1,Weekday,Cloudy,Kukatpally,0,1,1.0
+21,Weekend,Sunny,Dilsukhnagar,1,8,1.53
+6,Weekend,Cloudy,Dilsukhnagar,1,8,1.67
+8,Weekday,Rainy,Madhapur,0,6,1.78
+17,Weekday,Rainy,Dilsukhnagar,1,8,1.51
+22,Weekend,Rainy,Banjara Hills,0,8,1.65
+10,Weekend,Sunny,Banjara Hills,0,8,1.76
+1,Weekday,Windy,Hitech City,0,5,1.22
+22,Weekend,Cloudy,Madhapur,1,7,1.69
+21,Weekday,Windy,Dilsukhnagar,0,3,1.34
+22,Weekend,Sunny,Kukatpally,1,7,1.59
+7,Weekday,Cloudy,Madhapur,1,6,1.68
+21,Weekend,Cloudy,Kukatpally,1,8,1.43
+3,Weekend,Windy,Kukatpally,0,3,1.33
+19,Weekday,Sunny,Kukatpally,0,5,1.27
+2,Weekend,Windy,Kukatpally,1,5,1.29
+17,Weekday,Windy,Kukatpally,0,2,0.94
+22,Weekend,Windy,Dilsukhnagar,1,5,1.15
+21,Weekday,Windy,Hitech City,1,10,2.19
+14,Weekday,Cloudy,Kukatpally,0,4,1.31
+19,Weekend,Cloudy,Kukatpally,0,5,1.17
+4,Weekday,Rainy,Banjara Hills,1,10,2.07
+18,Weekend,Rainy,Banjara Hills,1,11,2.2
+21,Weekend,Windy,Madhapur,0,5,1.28
+16,Weekend,Rainy,Madhapur,0,7,1.76
+1,Weekday,Cloudy,Hitech City,1,6,1.49
+22,Weekend,Cloudy,Kukatpally,1,8,1.57
+6,Weekday,Windy,Banjara Hills,0,5,1.35
+11,Weekend,Rainy,Madhapur,0,6,1.4
+20,Weekday,Rainy,Kukatpally,1,10,1.86
+20,Weekend,Windy,Dilsukhnagar,1,8,1.58
+13,Weekend,Windy,Madhapur,0,6,1.57
+0,Weekend,Rainy,Dilsukhnagar,1,10,2.45
+18,Weekend,Sunny,Hitech City,1,8,1.45
+15,Weekday,Rainy,Dilsukhnagar,1,9,2.16
+16,Weekday,Rainy,Kukatpally,0,5,1.28
+10,Weekday,Windy,Kukatpally,1,7,1.57
+9,Weekend,Rainy,Hitech City,1,13,1.84
+15,Weekday,Sunny,Madhapur,0,3,1.25
+4,Weekday,Cloudy,Madhapur,0,4,1.18
+8,Weekday,Sunny,Dilsukhnagar,0,3,1.3
+11,Weekday,Cloudy,Banjara Hills,1,7,1.72
+1,Weekend,Sunny,Banjara Hills,0,6,1.7
+13,Weekend,Rainy,Kukatpally,0,8,1.63
+11,Weekday,Cloudy,Hitech City,0,4,1.24
+15,Weekend,Windy,Dilsukhnagar,0,4,1.31
+12,Weekend,Cloudy,Banjara Hills,1,10,2.0
+14,Weekend,Cloudy,Dilsukhnagar,0,5,1.38
+20,Weekend,Windy,Dilsukhnagar,1,9,1.99
+3,Weekend,Windy,Kukatpally,0,2,1.0
+21,Weekday,Cloudy,Dilsukhnagar,0,4,1.35
+0,Weekend,Sunny,Dilsukhnagar,0,4,1.21
+23,Weekend,Cloudy,Banjara Hills,0,4,1.29
+1,Weekday,Sunny,Hitech City,0,3,1.21
+20,Weekday,Sunny,Banjara Hills,1,10,2.13
+2,Weekend,Cloudy,Kukatpally,1,7,1.46
+2,Weekend,Sunny,Kukatpally,1,6,1.8
+8,Weekend,Rainy,Kukatpally,0,9,2.49
+6,Weekend,Rainy,Kukatpally,0,5,1.26
+13,Weekday,Sunny,Kukatpally,1,6,1.41
+2,Weekend,Windy,Hitech City,1,7,1.66
+0,Weekday,Windy,Madhapur,0,3,1.37
+18,Weekday,Windy,Kukatpally,1,6,1.74
+2,Weekday,Sunny,Kukatpally,1,3,1.27
+11,Weekend,Cloudy,Kukatpally,0,2,0.97
+10,Weekday,Windy,Madhapur,0,4,1.27
+12,Weekday,Cloudy,Kukatpally,0,6,1.59
+20,Weekend,Rainy,Banjara Hills,0,10,1.82
+18,Weekday,Windy,Kukatpally,0,2,1.0
+14,Weekday,Sunny,Madhapur,0,6,1.72
+1,Weekend,Sunny,Banjara Hills,1,7,1.7
+7,Weekday,Sunny,Banjara Hills,1,5,1.24
+19,Weekday,Rainy,Banjara Hills,0,9,2.24
+9,Weekday,Windy,Dilsukhnagar,0,2,1.06
+3,Weekday,Windy,Dilsukhnagar,0,0,1.06
+13,Weekend,Windy,Madhapur,0,6,1.53
+6,Weekday,Rainy,Madhapur,0,4,1.18
+13,Weekday,Cloudy,Dilsukhnagar,0,7,1.5
+18,Weekday,Rainy,Hitech City,1,9,1.81
+15,Weekday,Sunny,Hitech City,0,2,1.04
+18,Weekend,Windy,Kukatpally,0,2,0.93
+8,Weekend,Windy,Banjara Hills,0,5,1.28
+22,Weekend,Sunny,Madhapur,1,8,1.4
+7,Weekday,Sunny,Dilsukhnagar,0,2,1.07
+17,Weekday,Windy,Banjara Hills,1,5,1.16
+4,Weekend,Windy,Banjara Hills,0,3,1.12
+11,Weekend,Rainy,Kukatpally,1,9,2.23
+14,Weekday,Sunny,Hitech City,0,6,1.71
+15,Weekday,Sunny,Banjara Hills,1,7,1.57
+23,Weekend,Rainy,Hitech City,1,10,1.87
+23,Weekend,Rainy,Kukatpally,0,4,1.24
+15,Weekday,Windy,Banjara Hills,0,5,1.15
+11,Weekday,Windy,Banjara Hills,1,7,1.48
+4,Weekday,Sunny,Madhapur,0,1,1.07
+14,Weekend,Rainy,Madhapur,0,10,2.22
+20,Weekday,Rainy,Hitech City,1,14,2.4
+6,Weekend,Windy,Madhapur,0,5,1.32
+7,Weekday,Cloudy,Kukatpally,0,2,1.08
+0,Weekend,Sunny,Hitech City,1,6,1.57
+12,Weekend,Sunny,Kukatpally,1,8,1.43
+0,Weekend,Rainy,Banjara Hills,1,11,1.97
+2,Weekday,Windy,Madhapur,0,4,1.36
+23,Weekday,Windy,Kukatpally,0,3,1.16
+11,Weekend,Sunny,Hitech City,1,8,1.61
+9,Weekend,Cloudy,Dilsukhnagar,0,4,1.29
+10,Weekday,Cloudy,Hitech City,0,8,1.55
+19,Weekday,Cloudy,Madhapur,0,5,1.27
+6,Weekday,Cloudy,Banjara Hills,0,6,1.69
+18,Weekday,Rainy,Madhapur,1,9,2.15
+13,Weekend,Sunny,Hitech City,1,11,2.12
+16,Weekday,Windy,Dilsukhnagar,1,6,1.65
+21,Weekday,Rainy,Kukatpally,0,6,1.56
+5,Weekend,Sunny,Hitech City,0,5,1.13
+4,Weekend,Rainy,Banjara Hills,0,8,1.57
+21,Weekday,Windy,Madhapur,1,10,2.32
+0,Weekend,Rainy,Hitech City,0,7,1.73
+16,Weekend,Windy,Dilsukhnagar,1,6,1.59
+21,Weekend,Windy,Madhapur,0,7,1.47
+8,Weekday,Windy,Madhapur,1,6,1.46
+9,Weekend,Rainy,Dilsukhnagar,0,8,1.47
+5,Weekday,Rainy,Banjara Hills,0,5,1.4
+18,Weekday,Windy,Madhapur,1,5,1.16
+22,Weekday,Cloudy,Madhapur,0,4,1.23
+5,Weekend,Sunny,Hitech City,1,9,2.34
+14,Weekend,Rainy,Hitech City,1,14,2.13
+9,Weekday,Windy,Madhapur,0,6,1.76
+4,Weekday,Cloudy,Hitech City,1,7,1.58
+2,Weekend,Sunny,Dilsukhnagar,0,2,1.06
+8,Weekday,Sunny,Hitech City,1,7,1.79
+12,Weekday,Windy,Madhapur,0,6,1.56
+22,Weekend,Cloudy,Kukatpally,1,5,1.19
+11,Weekend,Windy,Dilsukhnagar,0,2,1.05
+14,Weekend,Windy,Madhapur,0,8,1.69
+13,Weekday,Sunny,Banjara Hills,0,7,1.59
+16,Weekend,Sunny,Dilsukhnagar,1,4,1.1
+20,Weekend,Windy,Banjara Hills,1,10,1.94
+12,Weekend,Windy,Hitech City,1,11,2.15
+23,Weekend,Rainy,Hitech City,0,7,1.51
+20,Weekend,Sunny,Madhapur,1,9,2.14
+22,Weekday,Sunny,Hitech City,1,8,1.8
+2,Weekend,Windy,Dilsukhnagar,1,6,1.65
+15,Weekday,Cloudy,Dilsukhnagar,0,3,1.15
+1,Weekday,Cloudy,Kukatpally,0,3,1.15
+8,Weekend,Windy,Madhapur,0,6,1.52
+20,Weekday,Rainy,Banjara Hills,0,9,2.18
+10,Weekend,Cloudy,Madhapur,0,7,1.73
+0,Weekday,Cloudy,Madhapur,1,8,1.54
+5,Weekday,Rainy,Banjara Hills,0,6,1.72
+17,Weekday,Windy,Kukatpally,0,0,1.06
+0,Weekend,Cloudy,Madhapur,1,7,1.73
+19,Weekend,Rainy,Madhapur,0,8,1.49
+22,Weekday,Rainy,Madhapur,0,5,1.14
+2,Weekend,Sunny,Hitech City,0,6,1.7
+1,Weekday,Sunny,Hitech City,0,5,1.14
+8,Weekday,Sunny,Madhapur,0,3,1.33
+19,Weekday,Rainy,Banjara Hills,1,11,1.86
+23,Weekend,Cloudy,Madhapur,0,4,1.25
+2,Weekday,Sunny,Dilsukhnagar,0,1,1.09
+5,Weekday,Sunny,Banjara Hills,1,7,1.68
+5,Weekend,Sunny,Banjara Hills,1,9,2.1
+16,Weekday,Windy,Hitech City,1,5,1.24
+16,Weekday,Windy,Madhapur,1,4,1.12
+15,Weekday,Windy,Madhapur,1,6,1.67
+14,Weekday,Windy,Madhapur,1,8,1.74
+15,Weekend,Rainy,Hitech City,1,9,2.08
+16,Weekday,Sunny,Banjara Hills,1,8,1.68
+3,Weekday,Sunny,Madhapur,0,3,1.16
+12,Weekday,Rainy,Kukatpally,1,11,2.34
+18,Weekend,Windy,Madhapur,1,8,1.8
+16,Weekend,Rainy,Kukatpally,0,4,1.18
+15,Weekday,Rainy,Hitech City,0,5,1.35
+15,Weekday,Rainy,Kukatpally,1,7,1.52
+19,Weekday,Sunny,Dilsukhnagar,1,9,1.94
+21,Weekend,Windy,Dilsukhnagar,1,9,2.37
+17,Weekday,Sunny,Kukatpally,0,3,1.24
+12,Weekend,Windy,Hitech City,0,7,1.62
+9,Weekday,Windy,Kukatpally,0,4,1.31
+15,Weekday,Windy,Dilsukhnagar,1,6,1.62
+5,Weekday,Windy,Madhapur,1,7,1.65
+11,Weekend,Cloudy,Hitech City,0,4,1.14
+11,Weekend,Sunny,Madhapur,1,5,1.23
+11,Weekend,Cloudy,Hitech City,0,5,1.17
+9,Weekday,Sunny,Madhapur,0,5,1.15
+17,Weekend,Sunny,Kukatpally,1,7,1.51
+22,Weekend,Sunny,Madhapur,1,8,1.53
+3,Weekend,Sunny,Banjara Hills,1,9,2.15
+21,Weekend,Rainy,Dilsukhnagar,1,12,2.48
+6,Weekend,Sunny,Dilsukhnagar,0,3,1.18
+9,Weekend,Rainy,Dilsukhnagar,0,6,1.64
+8,Weekday,Windy,Kukatpally,0,4,1.34
+20,Weekend,Cloudy,Kukatpally,1,9,2.09
+8,Weekend,Rainy,Hitech City,0,11,1.95
+23,Weekend,Cloudy,Dilsukhnagar,1,5,1.26
+11,Weekend,Rainy,Banjara Hills,0,8,1.74
+13,Weekend,Sunny,Banjara Hills,1,11,2.38
+20,Weekday,Cloudy,Dilsukhnagar,0,7,1.5
+4,Weekday,Sunny,Banjara Hills,1,8,1.59
+13,Weekend,Sunny,Banjara Hills,0,8,1.45
+8,Weekend,Rainy,Hitech City,1,11,1.84
+2,Weekend,Cloudy,Hitech City,1,9,2.27
+2,Weekend,Rainy,Banjara Hills,0,6,1.61
+18,Weekend,Windy,Hitech City,0,3,1.33
+10,Weekend,Windy,Banjara Hills,1,9,1.9
+5,Weekday,Cloudy,Kukatpally,1,6,1.75
+1,Weekend,Cloudy,Hitech City,1,10,2.13
+7,Weekend,Rainy,Madhapur,1,10,2.37
+0,Weekday,Sunny,Banjara Hills,1,8,1.52
+22,Weekend,Sunny,Dilsukhnagar,0,4,1.22
+12,Weekend,Cloudy,Hitech City,0,9,1.95
+5,Weekend,Cloudy,Kukatpally,0,4,1.36
+15,Weekend,Windy,Madhapur,1,5,1.35
+22,Weekend,Sunny,Madhapur,1,7,1.58
+0,Weekday,Rainy,Kukatpally,0,3,1.22
+20,Weekend,Cloudy,Dilsukhnagar,0,5,1.15
+16,Weekday,Windy,Madhapur,1,7,1.75
+4,Weekend,Rainy,Dilsukhnagar,1,9,1.94
+13,Weekend,Rainy,Kukatpally,1,11,1.81
+0,Weekday,Sunny,Kukatpally,0,2,1.04
+5,Weekday,Windy,Dilsukhnagar,1,5,1.14
+11,Weekday,Sunny,Hitech City,1,8,1.73
+15,Weekday,Rainy,Banjara Hills,0,7,1.52
+15,Weekend,Rainy,Kukatpally,0,5,1.4
+9,Weekday,Windy,Banjara Hills,1,8,1.41
+8,Weekday,Windy,Banjara Hills,1,10,1.86
+15,Weekday,Cloudy,Kukatpally,0,4,1.31
+23,Weekend,Sunny,Hitech City,0,3,1.2
+7,Weekend,Cloudy,Dilsukhnagar,0,2,0.95
+19,Weekend,Cloudy,Kukatpally,1,9,2.48
+17,Weekday,Rainy,Madhapur,0,7,1.77
+14,Weekday,Sunny,Madhapur,1,8,1.5
+10,Weekday,Rainy,Kukatpally,1,10,2.45
+9,Weekend,Cloudy,Dilsukhnagar,1,10,2.42
+10,Weekend,Rainy,Dilsukhnagar,1,9,1.93
+1,Weekday,Rainy,Hitech City,1,10,1.91
+14,Weekend,Sunny,Kukatpally,0,7,1.54
+22,Weekend,Windy,Kukatpally,0,2,0.92
+2,Weekday,Cloudy,Banjara Hills,0,5,1.27
+21,Weekday,Sunny,Dilsukhnagar,0,6,1.77
+7,Weekend,Sunny,Madhapur,0,4,1.3
+21,Weekday,Windy,Madhapur,0,6,1.46
+2,Weekend,Windy,Kukatpally,1,4,1.2
+1,Weekend,Cloudy,Dilsukhnagar,0,3,1.36
+20,Weekend,Cloudy,Hitech City,0,10,1.86
+8,Weekday,Rainy,Kukatpally,0,5,1.36
+5,Weekend,Windy,Madhapur,0,2,0.96
+13,Weekend,Rainy,Madhapur,0,10,2.16
+15,Weekend,Windy,Kukatpally,1,7,1.44
+13,Weekend,Rainy,Kukatpally,1,10,1.83
+10,Weekend,Rainy,Banjara Hills,1,11,2.0
+13,Weekday,Windy,Madhapur,0,5,1.31
+9,Weekday,Windy,Madhapur,0,3,1.38
+16,Weekday,Windy,Kukatpally,0,3,1.3
+18,Weekend,Cloudy,Madhapur,0,3,1.13
+21,Weekend,Rainy,Banjara Hills,1,12,1.86
+22,Weekend,Cloudy,Dilsukhnagar,1,8,1.65
+8,Weekend,Rainy,Banjara Hills,0,8,1.7
+19,Weekend,Sunny,Kukatpally,0,4,1.22
+0,Weekday,Windy,Kukatpally,1,6,1.52
+19,Weekend,Windy,Madhapur,0,6,1.45
+6,Weekday,Sunny,Banjara Hills,0,3,1.24
+4,Weekday,Windy,Dilsukhnagar,0,0,0.96
+14,Weekday,Windy,Kukatpally,0,3,1.15
+4,Weekend,Windy,Kukatpally,0,4,1.28
+6,Weekend,Windy,Hitech City,1,6,1.44
+22,Weekend,Windy,Kukatpally,1,4,1.25
+15,Weekend,Rainy,Hitech City,0,9,2.2
+17,Weekday,Cloudy,Kukatpally,1,4,1.25
+20,Weekend,Windy,Kukatpally,0,5,1.19
+6,Weekend,Cloudy,Kukatpally,0,3,1.28
+21,Weekend,Windy,Banjara Hills,1,12,2.47
+21,Weekend,Windy,Banjara Hills,0,8,1.68
+2,Weekend,Rainy,Banjara Hills,0,7,1.64
+3,Weekend,Windy,Madhapur,0,3,1.27
+0,Weekend,Cloudy,Madhapur,0,4,1.35
+16,Weekday,Sunny,Madhapur,1,4,1.29
+3,Weekday,Windy,Madhapur,1,6,1.71
+17,Weekend,Rainy,Dilsukhnagar,0,4,1.38
+14,Weekend,Sunny,Hitech City,0,6,1.6
+5,Weekday,Rainy,Madhapur,0,6,1.68
+16,Weekend,Sunny,Banjara Hills,1,8,1.73
+3,Weekday,Windy,Kukatpally,0,1,1.07
+15,Weekend,Cloudy,Dilsukhnagar,0,2,0.95
+22,Weekend,Cloudy,Banjara Hills,0,7,1.71
+4,Weekend,Windy,Kukatpally,1,6,1.78
+14,Weekday,Sunny,Dilsukhnagar,0,3,1.2
+12,Weekday,Windy,Hitech City,1,8,1.66
+20,Weekday,Sunny,Dilsukhnagar,1,9,2.08
+21,Weekend,Cloudy,Madhapur,0,8,1.76
+19,Weekday,Windy,Kukatpally,0,6,1.68
+20,Weekend,Rainy,Madhapur,0,8,1.61
+12,Weekday,Cloudy,Banjara Hills,0,8,1.61
+20,Weekday,Sunny,Hitech City,1,9,2.38
+9,Weekend,Sunny,Hitech City,1,10,2.24
+11,Weekday,Sunny,Hitech City,1,7,1.63
+0,Weekend,Cloudy,Banjara Hills,0,6,1.52
+21,Weekday,Windy,Dilsukhnagar,0,3,1.2
+18,Weekday,Cloudy,Kukatpally,0,2,1.04
+13,Weekday,Sunny,Hitech City,1,9,2.13
+14,Weekday,Cloudy,Dilsukhnagar,1,10,2.41
+18,Weekend,Windy,Kukatpally,1,7,1.73
+4,Weekday,Windy,Kukatpally,0,0,1.04
+14,Weekend,Sunny,Banjara Hills,1,9,2.22
+13,Weekday,Sunny,Madhapur,1,7,1.61
+3,Weekend,Cloudy,Madhapur,1,8,1.59
+4,Weekday,Windy,Hitech City,1,7,1.49
+23,Weekend,Sunny,Hitech City,1,6,1.75
+13,Weekend,Cloudy,Dilsukhnagar,1,10,2.35
+15,Weekday,Rainy,Dilsukhnagar,1,9,2.27
+4,Weekend,Sunny,Dilsukhnagar,1,7,1.49
+12,Weekend,Sunny,Kukatpally,1,7,1.75
+22,Weekday,Cloudy,Dilsukhnagar,0,1,0.94
+19,Weekday,Rainy,Kukatpally,0,6,1.66
+17,Weekday,Sunny,Madhapur,0,2,1.07
+18,Weekend,Sunny,Dilsukhnagar,1,7,1.64
+15,Weekday,Cloudy,Kukatpally,0,4,1.11
+16,Weekend,Windy,Madhapur,0,2,1.1
+17,Weekday,Cloudy,Banjara Hills,0,5,1.33
+4,Weekend,Windy,Banjara Hills,0,5,1.15
+22,Weekday,Cloudy,Kukatpally,0,3,1.14
+10,Weekend,Windy,Hitech City,0,6,1.5
+19,Weekday,Windy,Dilsukhnagar,1,6,1.51
+10,Weekend,Windy,Hitech City,1,8,1.56
+7,Weekday,Cloudy,Dilsukhnagar,0,2,1.05
+20,Weekday,Cloudy,Dilsukhnagar,1,10,1.86
+20,Weekday,Rainy,Madhapur,0,8,1.62
+13,Weekend,Sunny,Hitech City,1,11,2.26
+5,Weekday,Sunny,Kukatpally,1,5,1.35
+12,Weekend,Rainy,Dilsukhnagar,1,10,1.91
+17,Weekday,Cloudy,Hitech City,1,6,1.73
+23,Weekend,Windy,Banjara Hills,1,8,1.65
+22,Weekend,Cloudy,Banjara Hills,1,9,1.95
+19,Weekend,Sunny,Banjara Hills,0,9,1.8
+0,Weekday,Windy,Dilsukhnagar,1,6,1.62
+20,Weekday,Sunny,Kukatpally,0,5,1.39
+12,Weekend,Windy,Banjara Hills,0,6,1.59
+6,Weekend,Sunny,Banjara Hills,0,5,1.3
+22,Weekend,Rainy,Hitech City,1,10,1.96
+15,Weekend,Sunny,Madhapur,1,6,1.4
+20,Weekend,Sunny,Madhapur,1,9,2.19
+21,Weekday,Sunny,Dilsukhnagar,0,3,1.14
+18,Weekday,Cloudy,Banjara Hills,0,5,1.3
+14,Weekday,Windy,Hitech City,1,11,2.39
+13,Weekend,Sunny,Dilsukhnagar,1,10,2.05
+1,Weekday,Sunny,Madhapur,1,7,1.53
+12,Weekday,Cloudy,Hitech City,0,7,1.79
+13,Weekday,Rainy,Banjara Hills,0,10,2.02
+20,Weekday,Sunny,Kukatpally,1,6,1.64
+20,Weekend,Cloudy,Banjara Hills,0,10,1.97
+10,Weekday,Cloudy,Dilsukhnagar,0,3,1.33
+19,Weekend,Sunny,Kukatpally,0,4,1.39
+1,Weekend,Cloudy,Hitech City,0,4,1.38
+14,Weekday,Cloudy,Dilsukhnagar,1,7,1.44
+1,Weekday,Cloudy,Kukatpally,1,4,1.29
+13,Weekday,Sunny,Kukatpally,1,9,2.36
+19,Weekday,Cloudy,Hitech City,1,11,2.21
+3,Weekday,Sunny,Dilsukhnagar,0,1,1.08
+4,Weekend,Cloudy,Kukatpally,1,8,1.47
+4,Weekday,Sunny,Banjara Hills,1,8,1.61
+20,Weekend,Cloudy,Dilsukhnagar,0,6,1.59
+19,Weekend,Cloudy,Madhapur,0,7,1.42
+16,Weekday,Windy,Madhapur,0,2,1.03
+6,Weekday,Cloudy,Banjara Hills,1,9,2.22
+10,Weekend,Cloudy,Kukatpally,1,8,1.44
+1,Weekend,Rainy,Hitech City,0,7,1.59
+6,Weekday,Windy,Madhapur,1,5,1.22
+0,Weekend,Sunny,Hitech City,1,6,1.62
+4,Weekend,Windy,Banjara Hills,1,6,1.79
+6,Weekday,Cloudy,Banjara Hills,0,5,1.32
+10,Weekday,Rainy,Banjara Hills,0,8,1.74
+3,Weekday,Rainy,Kukatpally,0,5,1.38
+9,Weekend,Rainy,Madhapur,1,11,2.46
+19,Weekend,Sunny,Hitech City,0,7,1.72
+6,Weekend,Cloudy,Madhapur,1,7,1.77
+19,Weekday,Cloudy,Banjara Hills,1,10,1.84
+8,Weekday,Windy,Banjara Hills,0,7,1.72
+19,Weekday,Rainy,Dilsukhnagar,1,11,2.15
+14,Weekday,Cloudy,Madhapur,1,11,2.13
+18,Weekend,Sunny,Banjara Hills,0,4,1.24
+7,Weekend,Rainy,Madhapur,1,11,2.2
+11,Weekend,Sunny,Banjara Hills,0,5,1.23
+11,Weekday,Sunny,Kukatpally,1,6,1.58
+13,Weekend,Cloudy,Kukatpally,1,10,2.07
+5,Weekend,Rainy,Madhapur,0,7,1.76
+9,Weekday,Cloudy,Banjara Hills,0,5,1.12
+1,Weekday,Cloudy,Banjara Hills,1,8,1.52
+21,Weekend,Rainy,Dilsukhnagar,0,9,1.81
+9,Weekend,Cloudy,Kukatpally,1,7,1.59
+16,Weekday,Windy,Banjara Hills,0,3,1.24
+16,Weekend,Windy,Madhapur,0,4,1.35
+13,Weekend,Rainy,Kukatpally,1,10,2.06
+18,Weekday,Cloudy,Hitech City,1,8,1.54
+13,Weekend,Windy,Dilsukhnagar,1,9,2.21
+18,Weekday,Rainy,Banjara Hills,1,11,2.49
+6,Weekend,Sunny,Dilsukhnagar,1,5,1.24
+10,Weekend,Cloudy,Hitech City,0,6,1.67
+5,Weekday,Windy,Hitech City,0,3,1.12
+12,Weekend,Rainy,Banjara Hills,1,12,2.12
+11,Weekday,Rainy,Madhapur,1,10,1.91
+3,Weekday,Windy,Kukatpally,0,3,1.39
+6,Weekday,Rainy,Madhapur,1,10,1.91
+18,Weekend,Rainy,Dilsukhnagar,1,9,1.94
+4,Weekend,Sunny,Kukatpally,0,3,1.37
+15,Weekend,Windy,Dilsukhnagar,0,1,0.96
+14,Weekend,Cloudy,Kukatpally,0,8,1.5
+19,Weekend,Windy,Kukatpally,0,4,1.22
+1,Weekday,Rainy,Madhapur,1,7,1.68
+23,Weekday,Windy,Kukatpally,0,2,0.92
+3,Weekend,Windy,Kukatpally,0,3,1.16
+1,Weekend,Sunny,Hitech City,1,9,2.04
+12,Weekday,Windy,Hitech City,0,7,1.45
+4,Weekend,Windy,Kukatpally,1,4,1.12
+21,Weekday,Windy,Banjara Hills,1,10,2.39
+5,Weekday,Sunny,Banjara Hills,1,5,1.26
+12,Weekday,Sunny,Hitech City,1,9,2.11
+5,Weekday,Sunny,Dilsukhnagar,0,3,1.31
+20,Weekday,Windy,Madhapur,1,7,1.64
+1,Weekend,Rainy,Banjara Hills,1,10,1.94
+0,Weekend,Sunny,Hitech City,1,7,1.67
+2,Weekday,Sunny,Banjara Hills,0,2,0.98
+3,Weekend,Cloudy,Dilsukhnagar,0,3,1.38
+12,Weekend,Sunny,Banjara Hills,0,6,1.54
+5,Weekday,Windy,Madhapur,0,4,1.16
+7,Weekday,Cloudy,Dilsukhnagar,1,4,1.12
+6,Weekend,Cloudy,Dilsukhnagar,1,5,1.31
+18,Weekday,Cloudy,Hitech City,1,9,2.27
+22,Weekday,Cloudy,Banjara Hills,1,9,1.85
+0,Weekend,Windy,Dilsukhnagar,0,1,0.95
+19,Weekday,Cloudy,Banjara Hills,1,10,2.23
+1,Weekday,Cloudy,Kukatpally,1,5,1.15
+6,Weekday,Rainy,Dilsukhnagar,1,8,1.45
+10,Weekday,Windy,Madhapur,0,4,1.35
+10,Weekend,Rainy,Banjara Hills,0,9,2.36
+22,Weekday,Windy,Dilsukhnagar,1,4,1.23
+0,Weekday,Windy,Hitech City,0,2,1.03
+4,Weekday,Rainy,Hitech City,0,6,1.49
+2,Weekend,Windy,Madhapur,0,3,1.17
+5,Weekday,Cloudy,Madhapur,1,6,1.51
+15,Weekday,Cloudy,Kukatpally,1,5,1.24
+13,Weekend,Rainy,Kukatpally,0,10,2.1
+2,Weekend,Rainy,Dilsukhnagar,0,6,1.55
+9,Weekend,Cloudy,Kukatpally,1,7,1.53
+22,Weekend,Rainy,Banjara Hills,0,6,1.41
+16,Weekend,Windy,Kukatpally,1,7,1.79
+11,Weekend,Windy,Madhapur,0,5,1.37
+3,Weekend,Rainy,Banjara Hills,1,11,2.34
+23,Weekend,Windy,Madhapur,0,5,1.38
+23,Weekday,Rainy,Kukatpally,0,5,1.29
+21,Weekday,Rainy,Madhapur,1,11,1.98
+19,Weekday,Sunny,Hitech City,0,8,1.56
+18,Weekday,Rainy,Kukatpally,0,6,1.5
+9,Weekend,Cloudy,Kukatpally,0,4,1.29
+11,Weekday,Cloudy,Banjara Hills,1,8,1.4
+5,Weekend,Sunny,Hitech City,0,6,1.61
+20,Weekend,Windy,Banjara Hills,0,8,1.47
+4,Weekday,Windy,Banjara Hills,0,5,1.27
+6,Weekday,Rainy,Hitech City,0,6,1.5
+13,Weekend,Sunny,Banjara Hills,0,8,1.43
+3,Weekend,Sunny,Madhapur,0,3,1.24
+21,Weekday,Sunny,Hitech City,1,8,1.67
+1,Weekday,Rainy,Dilsukhnagar,0,6,1.64
+8,Weekend,Windy,Madhapur,1,9,2.06
+10,Weekend,Rainy,Madhapur,1,13,2.23
+11,Weekend,Sunny,Hitech City,1,9,2.31
+4,Weekday,Sunny,Dilsukhnagar,1,4,1.21
+19,Weekend,Windy,Banjara Hills,0,8,1.41
+11,Weekday,Cloudy,Kukatpally,0,4,1.22
+19,Weekday,Cloudy,Kukatpally,1,7,1.69
+9,Weekday,Rainy,Dilsukhnagar,0,6,1.6
+2,Weekend,Windy,Banjara Hills,1,6,1.59
+17,Weekday,Rainy,Banjara Hills,0,5,1.13
+22,Weekday,Rainy,Madhapur,1,9,1.95
+8,Weekend,Sunny,Banjara Hills,1,8,1.72
+10,Weekday,Sunny,Madhapur,1,9,2.26
+17,Weekend,Rainy,Banjara Hills,1,9,2.0
+3,Weekday,Cloudy,Dilsukhnagar,0,1,1.01
+4,Weekend,Windy,Dilsukhnagar,0,3,1.12
+17,Weekday,Windy,Kukatpally,1,5,1.34
+4,Weekday,Sunny,Kukatpally,0,3,1.19
+9,Weekday,Windy,Kukatpally,0,4,1.14
+21,Weekday,Cloudy,Madhapur,0,7,1.8
+22,Weekend,Rainy,Kukatpally,1,10,1.84
+10,Weekday,Rainy,Banjara Hills,0,8,1.74
+23,Weekend,Cloudy,Banjara Hills,0,7,1.53
+21,Weekend,Cloudy,Kukatpally,1,8,1.61
+9,Weekend,Rainy,Dilsukhnagar,1,9,1.89
+18,Weekday,Cloudy,Kukatpally,0,2,0.99
+15,Weekend,Rainy,Banjara Hills,0,7,1.69
+0,Weekend,Sunny,Banjara Hills,1,9,2.28
+5,Weekday,Sunny,Madhapur,1,5,1.38
+3,Weekend,Windy,Banjara Hills,1,7,1.41
+7,Weekend,Windy,Madhapur,0,5,1.33
+21,Weekday,Windy,Kukatpally,1,9,2.06
+3,Weekday,Sunny,Hitech City,1,6,1.41
+18,Weekend,Cloudy,Hitech City,0,7,1.59
+20,Weekend,Cloudy,Dilsukhnagar,0,5,1.2
+22,Weekday,Windy,Hitech City,1,8,1.43
+18,Weekday,Rainy,Hitech City,0,6,1.4
+14,Weekend,Sunny,Hitech City,0,7,1.66
+2,Weekend,Sunny,Hitech City,0,5,1.21
+17,Weekday,Windy,Hitech City,0,4,1.11
+16,Weekend,Windy,Banjara Hills,1,8,1.61
+11,Weekday,Sunny,Hitech City,0,2,0.94
+9,Weekday,Rainy,Dilsukhnagar,0,7,1.51
+23,Weekend,Sunny,Dilsukhnagar,1,6,1.55
+5,Weekend,Windy,Hitech City,1,9,2.46
+4,Weekday,Sunny,Madhapur,0,3,1.27
+20,Weekday,Windy,Banjara Hills,1,11,2.07
+19,Weekday,Sunny,Madhapur,0,4,1.31
+13,Weekday,Cloudy,Hitech City,1,11,2.34
+4,Weekday,Cloudy,Hitech City,0,6,1.79
+7,Weekend,Sunny,Hitech City,0,5,1.28
+15,Weekday,Cloudy,Dilsukhnagar,1,6,1.64
+1,Weekday,Cloudy,Kukatpally,0,3,1.34
+21,Weekend,Windy,Dilsukhnagar,0,6,1.4
+16,Weekday,Rainy,Banjara Hills,1,10,1.84
+23,Weekend,Rainy,Dilsukhnagar,1,10,1.93
+11,Weekend,Cloudy,Madhapur,1,7,1.52
+2,Weekend,Windy,Madhapur,0,2,0.92
+7,Weekday,Rainy,Dilsukhnagar,0,3,1.32
+17,Weekend,Sunny,Kukatpally,0,4,1.25
+21,Weekday,Windy,Hitech City,0,5,1.31
+22,Weekend,Rainy,Dilsukhnagar,0,7,1.79
+21,Weekday,Rainy,Hitech City,1,12,2.16
+1,Weekend,Windy,Kukatpally,0,3,1.39
+10,Weekday,Sunny,Madhapur,1,9,2.01
+6,Weekday,Windy,Banjara Hills,1,5,1.38
+19,Weekend,Sunny,Madhapur,0,8,1.53
+11,Weekday,Sunny,Madhapur,0,4,1.21
+3,Weekend,Windy,Banjara Hills,0,4,1.22
+15,Weekday,Rainy,Madhapur,0,7,1.56
+9,Weekend,Windy,Banjara Hills,1,8,1.8
+21,Weekend,Rainy,Banjara Hills,1,15,1.8
+22,Weekday,Sunny,Banjara Hills,1,5,1.14
+13,Weekend,Sunny,Banjara Hills,0,9,2.47
+8,Weekday,Windy,Kukatpally,1,6,1.53
+12,Weekend,Rainy,Hitech City,0,9,1.89
+11,Weekday,Rainy,Hitech City,1,11,2.48
+23,Weekday,Windy,Kukatpally,1,5,1.25
+13,Weekday,Rainy,Dilsukhnagar,0,7,1.51
+3,Weekend,Rainy,Kukatpally,0,7,1.68
+3,Weekday,Rainy,Dilsukhnagar,0,4,1.14
+12,Weekday,Cloudy,Banjara Hills,0,9,1.81
+6,Weekday,Sunny,Kukatpally,1,5,1.31
+7,Weekday,Cloudy,Kukatpally,1,4,1.25
+20,Weekday,Cloudy,Hitech City,1,11,2.0
+11,Weekend,Rainy,Madhapur,0,6,1.42
+1,Weekend,Rainy,Madhapur,1,10,2.44
+3,Weekend,Rainy,Madhapur,1,10,2.03
+3,Weekday,Sunny,Dilsukhnagar,0,2,0.97
+11,Weekend,Rainy,Madhapur,0,8,1.43
+3,Weekday,Sunny,Hitech City,0,3,1.31
+3,Weekday,Cloudy,Madhapur,1,6,1.61
+4,Weekday,Rainy,Banjara Hills,1,10,2.42
+17,Weekend,Cloudy,Kukatpally,0,5,1.12
+13,Weekday,Rainy,Dilsukhnagar,1,10,2.0
+18,Weekday,Rainy,Kukatpally,1,6,1.47
+16,Weekend,Windy,Kukatpally,1,5,1.16
+5,Weekday,Sunny,Dilsukhnagar,1,5,1.19
+7,Weekend,Cloudy,Dilsukhnagar,0,3,1.17
+17,Weekday,Cloudy,Hitech City,0,5,1.38
+8,Weekday,Rainy,Banjara Hills,0,7,1.66
+20,Weekend,Cloudy,Hitech City,1,11,2.09
+19,Weekend,Cloudy,Hitech City,0,9,1.95
+8,Weekday,Cloudy,Hitech City,0,8,1.78
+8,Weekday,Windy,Banjara Hills,1,9,1.94
+20,Weekend,Rainy,Kukatpally,0,10,2.06
+15,Weekday,Windy,Banjara Hills,1,6,1.73
+5,Weekday,Windy,Banjara Hills,1,5,1.19
+5,Weekend,Rainy,Hitech City,0,6,1.57
+14,Weekend,Sunny,Dilsukhnagar,0,4,1.28
+12,Weekend,Sunny,Hitech City,0,6,1.45
+2,Weekend,Rainy,Dilsukhnagar,0,4,1.39
+3,Weekend,Sunny,Banjara Hills,0,6,1.7
+14,Weekday,Cloudy,Madhapur,1,9,1.97
+17,Weekend,Sunny,Hitech City,0,3,1.26
+3,Weekend,Rainy,Hitech City,0,6,1.49
+12,Weekday,Cloudy,Madhapur,0,8,1.67
+22,Weekday,Windy,Banjara Hills,0,3,1.13
+9,Weekend,Sunny,Dilsukhnagar,1,6,1.54
+2,Weekday,Rainy,Banjara Hills,1,10,2.22
+21,Weekend,Rainy,Madhapur,1,13,2.41
+8,Weekend,Cloudy,Madhapur,0,5,1.36
+4,Weekday,Cloudy,Banjara Hills,1,9,2.3
+15,Weekday,Sunny,Dilsukhnagar,1,5,1.14
+10,Weekday,Rainy,Kukatpally,1,10,2.15
+15,Weekend,Cloudy,Banjara Hills,0,7,1.57
+15,Weekend,Rainy,Kukatpally,0,7,1.61
+22,Weekday,Sunny,Banjara Hills,1,5,1.16
+0,Weekend,Windy,Banjara Hills,0,3,1.37
+11,Weekday,Cloudy,Kukatpally,0,4,1.17
+7,Weekday,Rainy,Hitech City,0,8,1.69
+22,Weekend,Cloudy,Hitech City,0,4,1.24
+19,Weekday,Sunny,Banjara Hills,1,9,1.86
+2,Weekday,Windy,Banjara Hills,0,5,1.32
+23,Weekend,Windy,Kukatpally,1,7,1.71
+22,Weekday,Cloudy,Hitech City,0,3,1.36
+1,Weekday,Rainy,Hitech City,1,11,2.28
+14,Weekend,Cloudy,Banjara Hills,1,11,1.99
+2,Weekend,Rainy,Banjara Hills,1,9,1.95
+5,Weekday,Windy,Kukatpally,1,6,1.73
+5,Weekday,Cloudy,Kukatpally,0,3,1.13
+2,Weekend,Cloudy,Hitech City,0,6,1.47
+3,Weekday,Rainy,Dilsukhnagar,0,5,1.16
+6,Weekday,Rainy,Madhapur,0,4,1.27
+15,Weekday,Sunny,Madhapur,0,3,1.1
+11,Weekend,Windy,Dilsukhnagar,0,3,1.33
+23,Weekend,Rainy,Hitech City,1,12,2.43
+16,Weekday,Rainy,Hitech City,1,11,2.21
+1,Weekend,Rainy,Banjara Hills,1,9,2.42
+2,Weekday,Rainy,Banjara Hills,0,7,1.58
+4,Weekend,Cloudy,Madhapur,1,6,1.76
+21,Weekend,Rainy,Banjara Hills,0,10,2.2
+15,Weekday,Sunny,Banjara Hills,1,5,1.25
+14,Weekend,Rainy,Madhapur,0,8,1.51
+11,Weekend,Sunny,Hitech City,0,6,1.5
+15,Weekend,Windy,Banjara Hills,0,6,1.42
+9,Weekend,Windy,Dilsukhnagar,0,6,1.55
+19,Weekend,Cloudy,Hitech City,1,13,1.98
+21,Weekday,Sunny,Banjara Hills,0,6,1.74
+9,Weekend,Rainy,Dilsukhnagar,1,9,1.96
+14,Weekday,Cloudy,Kukatpally,1,10,1.88
+5,Weekday,Windy,Kukatpally,0,3,1.2
+10,Weekend,Windy,Banjara Hills,1,8,1.51
+1,Weekday,Windy,Banjara Hills,0,4,1.27
+19,Weekend,Sunny,Madhapur,1,11,1.95
+6,Weekday,Windy,Madhapur,1,5,1.13
+2,Weekend,Windy,Hitech City,1,9,2.41
+16,Weekday,Cloudy,Banjara Hills,0,3,1.37
+13,Weekend,Cloudy,Banjara Hills,0,9,2.46
+15,Weekend,Rainy,Kukatpally,1,10,2.38
+17,Weekday,Sunny,Dilsukhnagar,0,2,1.03
+23,Weekend,Sunny,Banjara Hills,1,7,1.6
+10,Weekday,Windy,Madhapur,0,6,1.78
+4,Weekend,Sunny,Hitech City,0,4,1.23
+17,Weekday,Windy,Banjara Hills,1,6,1.78
+21,Weekday,Cloudy,Madhapur,0,7,1.76
+16,Weekday,Windy,Kukatpally,1,6,1.54
+17,Weekend,Cloudy,Hitech City,0,7,1.57
+5,Weekday,Windy,Kukatpally,1,6,1.65
+22,Weekday,Sunny,Hitech City,0,2,1.02
+13,Weekday,Windy,Dilsukhnagar,0,6,1.6
+1,Weekend,Windy,Banjara Hills,0,6,1.62
+3,Weekday,Windy,Hitech City,1,8,1.57
+20,Weekend,Sunny,Madhapur,0,7,1.51
+21,Weekend,Cloudy,Kukatpally,0,5,1.37
+13,Weekday,Sunny,Hitech City,0,7,1.74
+16,Weekend,Cloudy,Banjara Hills,1,8,1.62
+12,Weekday,Windy,Hitech City,1,9,2.46
+12,Weekday,Windy,Madhapur,0,7,1.49
+22,Weekday,Sunny,Dilsukhnagar,1,5,1.35
+5,Weekend,Rainy,Hitech City,0,6,1.57
+20,Weekday,Sunny,Dilsukhnagar,0,6,1.41
+23,Weekday,Windy,Madhapur,0,2,1.03
+7,Weekend,Rainy,Dilsukhnagar,0,7,1.71
+21,Weekday,Cloudy,Hitech City,0,6,1.66
+18,Weekday,Sunny,Kukatpally,0,0,0.93
+8,Weekday,Sunny,Hitech City,1,9,2.44
+6,Weekend,Sunny,Kukatpally,0,4,1.12
+20,Weekday,Rainy,Kukatpally,1,11,2.24
+14,Weekday,Rainy,Madhapur,0,8,1.66
+20,Weekday,Sunny,Madhapur,1,10,2.5
+19,Weekday,Rainy,Dilsukhnagar,1,9,1.93
+0,Weekday,Rainy,Banjara Hills,1,8,1.76
+0,Weekend,Rainy,Banjara Hills,0,7,1.51
+15,Weekday,Sunny,Madhapur,1,7,1.7
+15,Weekend,Windy,Banjara Hills,1,7,1.48
+22,Weekend,Windy,Hitech City,1,7,1.72
+23,Weekend,Windy,Kukatpally,1,6,1.73
+19,Weekday,Windy,Kukatpally,0,5,1.21
+20,Weekday,Windy,Banjara Hills,0,7,1.63
+9,Weekend,Windy,Hitech City,0,6,1.72
+13,Weekday,Cloudy,Banjara Hills,0,7,1.66
+11,Weekday,Cloudy,Hitech City,0,5,1.31
+22,Weekend,Rainy,Kukatpally,1,8,1.62
+12,Weekend,Rainy,Dilsukhnagar,0,7,1.62
+22,Weekday,Windy,Kukatpally,1,5,1.16
+1,Weekend,Windy,Hitech City,1,9,1.88
+14,Weekday,Cloudy,Dilsukhnagar,1,8,1.63
+9,Weekday,Sunny,Kukatpally,1,6,1.74
+12,Weekday,Sunny,Madhapur,0,4,1.24
+13,Weekend,Cloudy,Madhapur,1,12,1.86
+10,Weekend,Sunny,Kukatpally,1,9,2.15
+20,Weekday,Cloudy,Dilsukhnagar,0,4,1.17
+0,Weekday,Sunny,Madhapur,1,5,1.15
+6,Weekend,Sunny,Hitech City,1,6,1.44
+9,Weekday,Cloudy,Madhapur,1,9,2.29
+4,Weekend,Sunny,Banjara Hills,1,7,1.7
+13,Weekend,Sunny,Dilsukhnagar,0,7,1.66
+8,Weekend,Windy,Banjara Hills,0,7,1.71
+22,Weekday,Cloudy,Dilsukhnagar,0,2,1.04
+2,Weekend,Sunny,Banjara Hills,0,4,1.24
+12,Weekday,Windy,Hitech City,1,9,2.37
+16,Weekend,Cloudy,Kukatpally,0,2,1.08
+7,Weekend,Windy,Kukatpally,0,4,1.16
+8,Weekend,Rainy,Madhapur,0,8,1.58
+3,Weekday,Rainy,Hitech City,1,9,1.99
+15,Weekend,Cloudy,Madhapur,0,3,1.21
+6,Weekday,Windy,Dilsukhnagar,1,5,1.12
+8,Weekend,Sunny,Hitech City,1,11,1.94
+6,Weekend,Rainy,Dilsukhnagar,1,10,2.16
+3,Weekday,Rainy,Hitech City,0,5,1.12
+1,Weekend,Rainy,Hitech City,0,8,1.49
+19,Weekend,Windy,Kukatpally,0,5,1.32
+22,Weekend,Windy,Banjara Hills,0,4,1.2
+9,Weekend,Sunny,Hitech City,0,8,1.7
+22,Weekday,Rainy,Madhapur,0,5,1.16
+14,Weekday,Sunny,Kukatpally,1,8,1.41
+8,Weekday,Rainy,Hitech City,1,13,2.21
+15,Weekday,Windy,Hitech City,0,2,1.01
+9,Weekday,Rainy,Banjara Hills,0,7,1.52
+23,Weekend,Windy,Kukatpally,1,6,1.67
+8,Weekend,Windy,Hitech City,1,10,2.3
+16,Weekend,Sunny,Madhapur,0,3,1.39
+7,Weekday,Cloudy,Kukatpally,0,2,1.02
+22,Weekend,Cloudy,Banjara Hills,0,5,1.38
+12,Weekday,Cloudy,Dilsukhnagar,1,8,1.51
+21,Weekend,Cloudy,Kukatpally,1,10,2.02
+1,Weekend,Sunny,Kukatpally,1,6,1.52
+0,Weekend,Rainy,Kukatpally,0,6,1.65
+21,Weekday,Cloudy,Kukatpally,1,7,1.72
+0,Weekend,Sunny,Banjara Hills,1,6,1.42
+9,Weekday,Windy,Madhapur,0,3,1.18
+11,Weekend,Rainy,Hitech City,1,10,2.5
+6,Weekend,Sunny,Madhapur,0,2,0.99
+11,Weekday,Windy,Kukatpally,1,3,1.37
+9,Weekend,Rainy,Dilsukhnagar,1,11,2.36
+4,Weekday,Cloudy,Banjara Hills,1,7,1.52
+2,Weekend,Windy,Dilsukhnagar,0,4,1.33
+13,Weekday,Rainy,Dilsukhnagar,1,11,2.15
+21,Weekend,Windy,Madhapur,1,11,2.09
+13,Weekend,Sunny,Dilsukhnagar,0,7,1.44
+4,Weekend,Rainy,Dilsukhnagar,1,8,1.65
+18,Weekend,Sunny,Kukatpally,0,4,1.3
+14,Weekend,Sunny,Hitech City,0,8,1.73
+20,Weekday,Cloudy,Dilsukhnagar,0,6,1.63
+22,Weekend,Sunny,Hitech City,0,4,1.25
+17,Weekend,Rainy,Banjara Hills,0,8,1.65
+23,Weekday,Windy,Dilsukhnagar,0,0,0.91
+4,Weekday,Sunny,Banjara Hills,0,2,0.99
+16,Weekend,Windy,Hitech City,0,5,1.22
+5,Weekday,Cloudy,Dilsukhnagar,1,4,1.23
+20,Weekday,Rainy,Banjara Hills,0,9,2.16
+22,Weekday,Windy,Kukatpally,1,5,1.3
+18,Weekend,Cloudy,Madhapur,1,9,2.29
+3,Weekend,Windy,Kukatpally,0,1,0.96
+3,Weekend,Sunny,Dilsukhnagar,1,4,1.29
+21,Weekend,Sunny,Madhapur,0,8,1.75
+14,Weekend,Sunny,Banjara Hills,1,10,2.04
+22,Weekend,Sunny,Banjara Hills,0,5,1.3
+18,Weekend,Windy,Banjara Hills,1,8,1.77
+2,Weekend,Windy,Kukatpally,0,3,1.14
+10,Weekend,Windy,Hitech City,0,5,1.36
+5,Weekday,Sunny,Hitech City,1,8,1.53
+7,Weekday,Sunny,Banjara Hills,1,8,1.77
+1,Weekend,Sunny,Hitech City,0,6,1.71
+19,Weekday,Rainy,Madhapur,0,10,2.06
+20,Weekday,Rainy,Madhapur,1,13,2.28
+7,Weekday,Rainy,Kukatpally,0,3,1.27
+20,Weekday,Rainy,Hitech City,0,8,1.54
+13,Weekday,Cloudy,Banjara Hills,1,10,2.38
+18,Weekend,Cloudy,Madhapur,0,3,1.23
+20,Weekend,Sunny,Dilsukhnagar,0,5,1.33
+9,Weekday,Sunny,Kukatpally,0,2,1.02
+10,Weekday,Rainy,Madhapur,1,12,2.29
+2,Weekday,Cloudy,Hitech City,0,5,1.22
+1,Weekday,Windy,Madhapur,0,1,0.97
+8,Weekday,Cloudy,Hitech City,0,6,1.62
+23,Weekend,Sunny,Banjara Hills,1,6,1.72
+18,Weekday,Cloudy,Hitech City,1,6,1.76
+15,Weekday,Cloudy,Hitech City,0,3,1.25
+7,Weekend,Windy,Kukatpally,1,5,1.11
+1,Weekday,Rainy,Dilsukhnagar,1,6,1.62
+1,Weekend,Windy,Banjara Hills,1,9,2.18
+3,Weekend,Sunny,Dilsukhnagar,1,6,1.48
+13,Weekday,Rainy,Banjara Hills,0,8,1.49
+23,Weekday,Sunny,Banjara Hills,0,2,0.91
+14,Weekday,Cloudy,Hitech City,1,11,2.22
+7,Weekend,Rainy,Dilsukhnagar,1,10,2.26
+21,Weekday,Sunny,Madhapur,0,7,1.68
+11,Weekday,Windy,Madhapur,1,6,1.75
+7,Weekend,Cloudy,Dilsukhnagar,0,2,0.97
+13,Weekend,Cloudy,Hitech City,0,8,1.74
+16,Weekday,Cloudy,Dilsukhnagar,0,1,0.97
+4,Weekday,Rainy,Kukatpally,1,6,1.41
+1,Weekend,Cloudy,Dilsukhnagar,1,7,1.73
+2,Weekday,Cloudy,Dilsukhnagar,1,7,1.41
+12,Weekend,Windy,Hitech City,0,7,1.55
+21,Weekend,Sunny,Madhapur,0,7,1.77
+19,Weekend,Cloudy,Dilsukhnagar,0,5,1.2
+19,Weekend,Windy,Hitech City,0,9,2.47
+21,Weekend,Windy,Kukatpally,1,8,1.78
+14,Weekday,Rainy,Hitech City,1,13,1.86
+7,Weekend,Cloudy,Dilsukhnagar,1,5,1.28
+11,Weekend,Cloudy,Dilsukhnagar,0,2,0.96
+21,Weekend,Cloudy,Banjara Hills,1,13,1.81
+0,Weekend,Sunny,Madhapur,1,6,1.56
+18,Weekday,Cloudy,Dilsukhnagar,1,4,1.23
+8,Weekend,Cloudy,Kukatpally,0,5,1.29
+4,Weekday,Rainy,Hitech City,0,6,1.67
+14,Weekend,Sunny,Dilsukhnagar,0,4,1.39
+8,Weekend,Sunny,Madhapur,0,5,1.2
+2,Weekend,Sunny,Dilsukhnagar,0,2,0.94
+18,Weekend,Windy,Hitech City,1,8,1.46
+10,Weekend,Cloudy,Kukatpally,1,10,2.46
+9,Weekday,Rainy,Madhapur,0,8,1.77
+18,Weekday,Sunny,Dilsukhnagar,0,2,1.0
+23,Weekend,Rainy,Kukatpally,0,5,1.21
+20,Weekday,Sunny,Banjara Hills,1,8,1.74
+16,Weekday,Windy,Dilsukhnagar,1,5,1.18
+18,Weekend,Rainy,Madhapur,0,7,1.49
+10,Weekday,Rainy,Kukatpally,1,10,1.86
+17,Weekday,Cloudy,Kukatpally,0,4,1.34
+7,Weekday,Rainy,Kukatpally,0,5,1.34
+10,Weekend,Sunny,Hitech City,1,11,2.15
+4,Weekend,Rainy,Banjara Hills,1,9,1.92
+13,Weekend,Windy,Hitech City,0,6,1.73
+0,Weekday,Sunny,Banjara Hills,1,8,1.54
+12,Weekday,Cloudy,Hitech City,1,11,2.21
+19,Weekday,Sunny,Hitech City,1,11,2.44
+20,Weekend,Windy,Madhapur,1,9,2.31
+23,Weekday,Rainy,Hitech City,1,11,2.07
+14,Weekday,Cloudy,Hitech City,0,8,1.6
+1,Weekend,Cloudy,Madhapur,1,8,1.7
+4,Weekday,Rainy,Kukatpally,1,8,1.44
+9,Weekday,Sunny,Madhapur,1,9,2.11
+5,Weekend,Cloudy,Dilsukhnagar,0,3,1.3
+4,Weekday,Rainy,Dilsukhnagar,0,3,1.28
+1,Weekday,Sunny,Kukatpally,0,2,0.94
+18,Weekend,Windy,Dilsukhnagar,0,4,1.19
+3,Weekday,Windy,Kukatpally,1,5,1.13
+4,Weekend,Sunny,Madhapur,0,3,1.32
+10,Weekday,Cloudy,Madhapur,1,7,1.68
+10,Weekday,Windy,Hitech City,1,8,1.74
+21,Weekday,Sunny,Banjara Hills,0,8,1.75
+7,Weekday,Cloudy,Kukatpally,0,4,1.34
+23,Weekend,Cloudy,Banjara Hills,0,4,1.39
+23,Weekday,Sunny,Kukatpally,0,3,1.27
+6,Weekday,Sunny,Kukatpally,1,6,1.65
+7,Weekend,Windy,Dilsukhnagar,0,3,1.35
+9,Weekend,Windy,Kukatpally,1,9,2.01
+7,Weekday,Cloudy,Kukatpally,1,6,1.5
+13,Weekday,Rainy,Kukatpally,1,9,2.04
+12,Weekday,Windy,Kukatpally,1,7,1.41
+8,Weekday,Windy,Hitech City,1,9,2.27
+13,Weekend,Windy,Kukatpally,1,9,2.44
+8,Weekend,Rainy,Madhapur,0,9,2.11
+7,Weekday,Rainy,Hitech City,1,9,2.22
+0,Weekday,Windy,Hitech City,1,7,1.71
+17,Weekday,Sunny,Dilsukhnagar,0,2,1.01
+5,Weekend,Rainy,Madhapur,0,7,1.53
+6,Weekday,Sunny,Hitech City,0,2,1.0
+15,Weekday,Rainy,Madhapur,1,7,1.49
+22,Weekday,Sunny,Madhapur,0,4,1.3
+4,Weekend,Sunny,Hitech City,0,6,1.41
+23,Weekday,Sunny,Dilsukhnagar,1,4,1.35
+9,Weekend,Windy,Dilsukhnagar,0,5,1.18
+6,Weekday,Cloudy,Dilsukhnagar,1,7,1.52
+2,Weekday,Windy,Dilsukhnagar,1,6,1.51
+22,Weekday,Windy,Hitech City,1,8,1.78
+17,Weekday,Windy,Banjara Hills,0,5,1.33
+14,Weekend,Windy,Dilsukhnagar,0,6,1.53
+20,Weekday,Sunny,Dilsukhnagar,0,4,1.36
+15,Weekday,Sunny,Banjara Hills,1,8,1.61
+18,Weekday,Sunny,Kukatpally,1,6,1.52
+10,Weekday,Sunny,Madhapur,1,6,1.51
+6,Weekend,Windy,Madhapur,0,4,1.24
+15,Weekday,Sunny,Kukatpally,0,3,1.14
+0,Weekday,Sunny,Banjara Hills,0,5,1.36
+3,Weekday,Windy,Kukatpally,0,3,1.14
+17,Weekend,Windy,Hitech City,1,6,1.57
+9,Weekend,Cloudy,Dilsukhnagar,1,8,1.46
+16,Weekday,Cloudy,Dilsukhnagar,1,7,1.59
+10,Weekday,Rainy,Dilsukhnagar,1,8,1.53
+5,Weekday,Windy,Hitech City,0,4,1.31
+6,Weekday,Windy,Madhapur,0,1,1.02
+19,Weekday,Sunny,Madhapur,0,6,1.65
+6,Weekend,Cloudy,Kukatpally,1,7,1.65
+12,Weekend,Rainy,Hitech City,0,9,2.31
+8,Weekday,Cloudy,Dilsukhnagar,0,4,1.34
+18,Weekend,Cloudy,Dilsukhnagar,1,8,1.48
+0,Weekday,Rainy,Hitech City,0,6,1.47
+0,Weekend,Sunny,Hitech City,0,6,1.57
+15,Weekend,Cloudy,Dilsukhnagar,0,3,1.27
+12,Weekend,Windy,Madhapur,1,10,2.17
+19,Weekday,Rainy,Madhapur,0,10,2.19
+15,Weekend,Sunny,Dilsukhnagar,1,6,1.47
+11,Weekend,Cloudy,Kukatpally,0,3,1.21
+5,Weekday,Rainy,Kukatpally,1,7,1.4
+9,Weekend,Sunny,Madhapur,1,7,1.64
+1,Weekend,Windy,Kukatpally,0,3,1.18
+1,Weekday,Windy,Dilsukhnagar,1,6,1.47
+23,Weekday,Sunny,Madhapur,0,2,1.04
+5,Weekday,Sunny,Kukatpally,0,0,0.99
+22,Weekday,Cloudy,Hitech City,1,7,1.66
+23,Weekday,Cloudy,Madhapur,0,4,1.25
+21,Weekend,Windy,Hitech City,0,7,1.73
+16,Weekday,Cloudy,Hitech City,0,6,1.42
+19,Weekday,Windy,Banjara Hills,0,7,1.51
+11,Weekday,Cloudy,Kukatpally,0,4,1.13
+2,Weekday,Sunny,Banjara Hills,1,5,1.33
+0,Weekday,Cloudy,Kukatpally,0,2,0.96
+21,Weekday,Rainy,Madhapur,0,10,2.29
+5,Weekend,Rainy,Dilsukhnagar,1,10,1.96
+6,Weekend,Rainy,Banjara Hills,1,11,2.29
+8,Weekday,Windy,Madhapur,1,8,1.71
+16,Weekend,Rainy,Hitech City,1,10,2.18
+6,Weekend,Cloudy,Madhapur,0,5,1.31
+16,Weekend,Sunny,Dilsukhnagar,0,3,1.17
+8,Weekday,Sunny,Dilsukhnagar,0,5,1.14
+18,Weekend,Cloudy,Dilsukhnagar,1,5,1.2
+3,Weekend,Sunny,Banjara Hills,1,9,2.03
+20,Weekday,Rainy,Madhapur,1,11,2.13
+5,Weekday,Windy,Dilsukhnagar,1,6,1.69
+15,Weekday,Cloudy,Madhapur,1,8,1.67
+9,Weekday,Rainy,Dilsukhnagar,0,8,1.57
+8,Weekend,Sunny,Banjara Hills,0,7,1.75
+22,Weekday,Rainy,Banjara Hills,1,8,1.79
+9,Weekday,Cloudy,Kukatpally,1,7,1.58
+21,Weekday,Rainy,Banjara Hills,1,13,1.86
+7,Weekday,Windy,Hitech City,0,3,1.31
+11,Weekday,Windy,Banjara Hills,1,5,1.24
+21,Weekend,Rainy,Kukatpally,1,13,2.29
+3,Weekend,Rainy,Madhapur,0,8,1.71
+9,Weekend,Windy,Dilsukhnagar,0,5,1.25
+23,Weekday,Rainy,Dilsukhnagar,0,4,1.21
+10,Weekday,Windy,Hitech City,0,5,1.25
+1,Weekday,Cloudy,Kukatpally,0,3,1.22
+5,Weekend,Rainy,Madhapur,1,11,2.27
+15,Weekday,Cloudy,Kukatpally,0,2,0.98
+16,Weekday,Windy,Hitech City,1,5,1.3
+12,Weekday,Rainy,Madhapur,0,10,2.28
+0,Weekend,Windy,Kukatpally,0,3,1.23
+23,Weekday,Windy,Dilsukhnagar,1,6,1.68
+17,Weekend,Sunny,Banjara Hills,1,9,2.41
+2,Weekday,Sunny,Madhapur,1,5,1.25
+19,Weekend,Windy,Hitech City,1,11,1.83
+15,Weekend,Cloudy,Hitech City,1,9,2.1
+21,Weekend,Sunny,Dilsukhnagar,1,8,1.52
+13,Weekday,Windy,Madhapur,1,7,1.64
+11,Weekday,Windy,Banjara Hills,0,2,1.01
+4,Weekday,Windy,Kukatpally,1,5,1.39
+22,Weekday,Windy,Hitech City,0,4,1.21
+4,Weekday,Windy,Dilsukhnagar,0,2,1.09
+23,Weekend,Windy,Kukatpally,0,2,1.09
+8,Weekday,Windy,Hitech City,0,6,1.8
+19,Weekday,Sunny,Madhapur,1,8,1.7
+13,Weekend,Rainy,Madhapur,0,11,2.44
+21,Weekend,Cloudy,Hitech City,1,11,1.81
+13,Weekday,Cloudy,Madhapur,1,10,1.87
+7,Weekday,Cloudy,Banjara Hills,0,5,1.32
+19,Weekend,Windy,Dilsukhnagar,1,10,2.13
+17,Weekday,Cloudy,Madhapur,1,7,1.73
+4,Weekend,Windy,Banjara Hills,0,6,1.5
+1,Weekday,Windy,Dilsukhnagar,1,3,1.16
+16,Weekend,Cloudy,Madhapur,1,9,2.27
+0,Weekday,Rainy,Dilsukhnagar,1,9,2.09
+0,Weekend,Windy,Banjara Hills,1,7,1.55
+3,Weekday,Windy,Banjara Hills,0,2,1.01
+5,Weekday,Windy,Dilsukhnagar,1,5,1.33
+13,Weekend,Cloudy,Madhapur,0,8,1.6
+17,Weekend,Rainy,Kukatpally,1,10,2.0
+14,Weekday,Rainy,Kukatpally,1,9,2.17
+10,Weekend,Rainy,Hitech City,1,14,2.48
+13,Weekday,Sunny,Dilsukhnagar,0,4,1.28
+16,Weekday,Windy,Hitech City,1,6,1.47
+20,Weekend,Sunny,Madhapur,0,8,1.62
+6,Weekday,Windy,Madhapur,0,2,0.99
+22,Weekday,Cloudy,Banjara Hills,1,6,1.76
+6,Weekend,Windy,Banjara Hills,1,7,1.72
+14,Weekday,Cloudy,Banjara Hills,0,9,2.31
+2,Weekday,Sunny,Kukatpally,1,6,1.43
+13,Weekend,Sunny,Dilsukhnagar,0,7,1.59
+23,Weekday,Cloudy,Kukatpally,0,3,1.22
+16,Weekend,Windy,Hitech City,0,4,1.35
+18,Weekday,Rainy,Madhapur,1,9,1.9
+7,Weekend,Rainy,Madhapur,0,7,1.66
+2,Weekend,Windy,Banjara Hills,1,8,1.52
+14,Weekend,Windy,Madhapur,1,8,1.7
+4,Weekend,Sunny,Banjara Hills,1,8,1.69
+9,Weekday,Cloudy,Kukatpally,1,8,1.46
+22,Weekday,Rainy,Dilsukhnagar,1,9,1.98
+7,Weekday,Rainy,Dilsukhnagar,1,7,1.63
+8,Weekend,Windy,Kukatpally,0,5,1.29
+18,Weekend,Cloudy,Kukatpally,1,6,1.75
+15,Weekday,Windy,Kukatpally,0,0,0.97
+9,Weekday,Rainy,Banjara Hills,1,10,2.25
+11,Weekend,Windy,Dilsukhnagar,0,2,1.05
+11,Weekday,Windy,Hitech City,1,5,1.18
+17,Weekday,Sunny,Kukatpally,0,1,0.95
+23,Weekday,Rainy,Banjara Hills,1,9,1.83
+19,Weekend,Cloudy,Hitech City,0,7,1.76
+4,Weekend,Sunny,Banjara Hills,0,4,1.28
+18,Weekend,Windy,Hitech City,0,5,1.34
+2,Weekday,Windy,Hitech City,1,5,1.24
+3,Weekday,Windy,Madhapur,0,4,1.36
+3,Weekend,Rainy,Dilsukhnagar,1,7,1.5
+13,Weekend,Windy,Banjara Hills,1,12,2.16
+20,Weekend,Cloudy,Dilsukhnagar,0,7,1.51
+17,Weekend,Windy,Hitech City,0,6,1.4
+16,Weekend,Windy,Banjara Hills,0,3,1.33
+21,Weekend,Sunny,Kukatpally,1,8,1.48
+3,Weekday,Rainy,Madhapur,1,9,2.34
+15,Weekday,Cloudy,Dilsukhnagar,0,2,0.96
+6,Weekend,Rainy,Banjara Hills,0,8,1.78
+15,Weekend,Cloudy,Banjara Hills,1,10,2.45
+9,Weekend,Rainy,Madhapur,1,12,2.38
+10,Weekend,Cloudy,Kukatpally,1,10,1.8
+12,Weekday,Windy,Madhapur,0,7,1.71
+0,Weekday,Rainy,Madhapur,1,9,1.82
+13,Weekend,Cloudy,Dilsukhnagar,0,6,1.65
+14,Weekend,Sunny,Hitech City,0,7,1.53
+15,Weekend,Sunny,Kukatpally,1,5,1.18
+19,Weekend,Sunny,Hitech City,0,8,1.51
+11,Weekend,Cloudy,Hitech City,1,8,1.75
+2,Weekend,Windy,Banjara Hills,0,5,1.27
+17,Weekday,Windy,Banjara Hills,1,7,1.62
+9,Weekday,Rainy,Hitech City,1,12,2.43
+14,Weekday,Rainy,Madhapur,1,11,2.12
+10,Weekday,Cloudy,Madhapur,0,5,1.14
+13,Weekend,Windy,Kukatpally,0,4,1.37
+16,Weekend,Sunny,Dilsukhnagar,1,4,1.39
+10,Weekend,Cloudy,Dilsukhnagar,1,7,1.69
+18,Weekday,Sunny,Dilsukhnagar,0,0,1.01
+14,Weekday,Sunny,Kukatpally,1,9,2.12
+23,Weekday,Cloudy,Hitech City,0,5,1.24
+22,Weekend,Sunny,Kukatpally,1,4,1.29
+12,Weekday,Sunny,Banjara Hills,1,11,1.91
+7,Weekend,Windy,Banjara Hills,1,7,1.48
+4,Weekday,Cloudy,Banjara Hills,0,3,1.26
+1,Weekday,Cloudy,Hitech City,1,8,1.77
+21,Weekday,Rainy,Madhapur,0,10,2.49
+7,Weekday,Cloudy,Hitech City,0,6,1.45
+12,Weekday,Windy,Banjara Hills,1,8,1.58
+12,Weekday,Rainy,Kukatpally,0,6,1.79
+16,Weekday,Rainy,Banjara Hills,0,8,1.7
+11,Weekend,Windy,Banjara Hills,0,3,1.34
+11,Weekend,Cloudy,Dilsukhnagar,0,5,1.1
+12,Weekend,Windy,Hitech City,1,11,2.46
+2,Weekend,Cloudy,Banjara Hills,0,7,1.75
+0,Weekend,Cloudy,Hitech City,0,5,1.15
+0,Weekday,Rainy,Banjara Hills,1,8,1.42
+6,Weekend,Cloudy,Dilsukhnagar,1,6,1.57
+5,Weekday,Rainy,Madhapur,0,5,1.11
+6,Weekend,Windy,Madhapur,1,7,1.41
+0,Weekend,Sunny,Kukatpally,0,2,1.08
+1,Weekend,Rainy,Banjara Hills,0,6,1.54
+7,Weekday,Windy,Hitech City,0,5,1.24
+13,Weekend,Rainy,Dilsukhnagar,0,9,2.13
+8,Weekday,Cloudy,Dilsukhnagar,1,6,1.59
+23,Weekday,Rainy,Banjara Hills,0,6,1.49
+2,Weekday,Windy,Madhapur,0,2,0.95
+5,Weekend,Cloudy,Kukatpally,1,6,1.53
+11,Weekday,Sunny,Kukatpally,0,1,1.1
+0,Weekday,Sunny,Banjara Hills,0,5,1.2
+18,Weekend,Windy,Madhapur,0,5,1.24
+6,Weekend,Cloudy,Dilsukhnagar,1,5,1.32
+20,Weekend,Cloudy,Banjara Hills,1,12,2.36
+15,Weekend,Sunny,Madhapur,1,5,1.33
+13,Weekday,Rainy,Hitech City,0,11,2.38
+3,Weekend,Rainy,Madhapur,1,11,2.11
+2,Weekday,Windy,Dilsukhnagar,0,1,1.07
+7,Weekday,Rainy,Madhapur,0,4,1.34
+11,Weekday,Rainy,Madhapur,0,4,1.3
+20,Weekday,Rainy,Dilsukhnagar,1,10,1.99
+12,Weekend,Windy,Dilsukhnagar,1,10,2.13
+4,Weekend,Sunny,Hitech City,1,8,1.48
+23,Weekday,Sunny,Kukatpally,0,1,1.0
+5,Weekday,Windy,Banjara Hills,1,8,1.64
+7,Weekend,Sunny,Banjara Hills,1,7,1.76
+3,Weekday,Rainy,Kukatpally,0,5,1.33
+0,Weekday,Cloudy,Dilsukhnagar,0,4,1.17
+14,Weekend,Sunny,Dilsukhnagar,1,8,1.43
+23,Weekend,Cloudy,Hitech City,1,9,1.88
+14,Weekend,Rainy,Kukatpally,1,11,2.17
+2,Weekend,Rainy,Kukatpally,1,10,1.84
+3,Weekend,Cloudy,Madhapur,1,9,2.27
+8,Weekend,Sunny,Hitech City,0,8,1.5
+15,Weekday,Windy,Madhapur,0,4,1.27
+18,Weekend,Windy,Hitech City,0,3,1.27
+3,Weekday,Cloudy,Dilsukhnagar,1,7,1.69
+1,Weekend,Windy,Kukatpally,0,4,1.34
+20,Weekend,Sunny,Banjara Hills,0,6,1.65
+10,Weekday,Cloudy,Kukatpally,0,6,1.74
+8,Weekend,Cloudy,Madhapur,0,7,1.58
+1,Weekend,Windy,Madhapur,0,3,1.27
+17,Weekend,Windy,Madhapur,0,5,1.36
+10,Weekend,Rainy,Madhapur,1,10,2.44
+2,Weekend,Cloudy,Dilsukhnagar,1,6,1.7
+6,Weekend,Windy,Madhapur,1,8,1.76
+5,Weekday,Cloudy,Hitech City,0,4,1.27
+16,Weekend,Rainy,Kukatpally,0,5,1.13
+22,Weekend,Cloudy,Banjara Hills,1,9,2.08
+12,Weekday,Cloudy,Dilsukhnagar,0,6,1.8
+14,Weekday,Rainy,Dilsukhnagar,0,8,1.41
+7,Weekday,Rainy,Banjara Hills,1,9,1.9
+9,Weekday,Sunny,Dilsukhnagar,1,8,1.57
+17,Weekday,Windy,Banjara Hills,1,8,1.7
+22,Weekend,Cloudy,Kukatpally,1,7,1.76
+7,Weekend,Cloudy,Hitech City,0,6,1.74
+22,Weekday,Rainy,Hitech City,1,10,1.87
+19,Weekday,Cloudy,Dilsukhnagar,0,7,1.51
+1,Weekend,Windy,Kukatpally,1,4,1.39
+5,Weekday,Windy,Dilsukhnagar,0,2,1.0
+22,Weekday,Sunny,Madhapur,0,3,1.27
+23,Weekday,Windy,Kukatpally,0,3,1.16
+14,Weekend,Cloudy,Madhapur,0,9,1.9
+17,Weekend,Sunny,Dilsukhnagar,0,3,1.28
+2,Weekday,Windy,Banjara Hills,0,3,1.39
+5,Weekday,Sunny,Kukatpally,0,2,0.92
+12,Weekend,Windy,Kukatpally,1,8,1.74
+5,Weekday,Cloudy,Madhapur,0,5,1.36
+15,Weekday,Rainy,Madhapur,1,8,1.49
+20,Weekday,Cloudy,Kukatpally,0,6,1.41
+19,Weekday,Sunny,Madhapur,0,5,1.1
+16,Weekday,Sunny,Madhapur,1,6,1.41
+18,Weekend,Sunny,Banjara Hills,0,6,1.47
+6,Weekend,Sunny,Banjara Hills,1,7,1.76
+22,Weekday,Rainy,Kukatpally,0,3,1.38
+3,Weekend,Cloudy,Hitech City,1,8,1.64
+5,Weekday,Windy,Banjara Hills,0,4,1.38
+21,Weekend,Windy,Hitech City,0,8,1.5
+4,Weekday,Windy,Banjara Hills,1,5,1.21
+15,Weekday,Sunny,Madhapur,1,5,1.18
+4,Weekend,Rainy,Madhapur,1,11,2.1
+2,Weekend,Sunny,Kukatpally,0,3,1.27
+19,Weekend,Cloudy,Kukatpally,1,8,1.61
+1,Weekday,Sunny,Madhapur,0,3,1.32
+17,Weekday,Sunny,Madhapur,1,5,1.21
+17,Weekday,Windy,Dilsukhnagar,0,2,1.04
+1,Weekday,Sunny,Kukatpally,0,1,1.04
+2,Weekday,Windy,Banjara Hills,0,2,1.08
+6,Weekday,Cloudy,Hitech City,0,5,1.4
+12,Weekday,Cloudy,Kukatpally,0,5,1.14
+7,Weekend,Windy,Dilsukhnagar,1,5,1.38
+20,Weekend,Windy,Hitech City,1,12,2.06
+6,Weekend,Cloudy,Dilsukhnagar,0,5,1.11
+14,Weekday,Rainy,Hitech City,0,8,1.46
+15,Weekday,Rainy,Dilsukhnagar,1,7,1.78
+8,Weekend,Cloudy,Dilsukhnagar,1,9,2.4
+8,Weekday,Sunny,Kukatpally,0,2,1.01
+15,Weekday,Rainy,Dilsukhnagar,0,6,1.59
+3,Weekday,Sunny,Kukatpally,0,0,1.05
+2,Weekday,Windy,Dilsukhnagar,1,6,1.7
+14,Weekday,Rainy,Banjara Hills,1,11,2.2
+4,Weekend,Cloudy,Banjara Hills,1,10,1.94
+20,Weekday,Windy,Kukatpally,0,5,1.25
+7,Weekday,Rainy,Madhapur,1,7,1.75
+2,Weekday,Cloudy,Dilsukhnagar,0,2,1.01
+10,Weekday,Sunny,Hitech City,1,7,1.65
+5,Weekend,Cloudy,Hitech City,0,4,1.31
+0,Weekend,Sunny,Dilsukhnagar,0,4,1.33
+3,Weekday,Sunny,Dilsukhnagar,0,0,1.03
+15,Weekend,Cloudy,Dilsukhnagar,1,8,1.76
+7,Weekend,Cloudy,Madhapur,1,9,2.44
+4,Weekend,Cloudy,Banjara Hills,0,6,1.65
+5,Weekend,Cloudy,Banjara Hills,1,7,1.57
+9,Weekday,Sunny,Kukatpally,1,6,1.79
+4,Weekend,Rainy,Kukatpally,1,10,2.12
+14,Weekend,Windy,Kukatpally,1,9,2.03
+12,Weekday,Rainy,Banjara Hills,0,9,2.2
+23,Weekend,Windy,Dilsukhnagar,1,6,1.66
+6,Weekend,Rainy,Kukatpally,0,7,1.52
+19,Weekend,Sunny,Banjara Hills,0,8,1.62
+5,Weekend,Windy,Banjara Hills,1,6,1.68
+12,Weekday,Cloudy,Dilsukhnagar,0,7,1.63
+6,Weekday,Windy,Madhapur,1,5,1.36
+4,Weekend,Cloudy,Dilsukhnagar,0,2,1.06
+2,Weekday,Sunny,Hitech City,1,5,1.19
+11,Weekday,Rainy,Banjara Hills,1,8,1.55
+10,Weekend,Windy,Madhapur,0,6,1.52
+17,Weekday,Rainy,Banjara Hills,1,8,1.61
+19,Weekend,Rainy,Dilsukhnagar,1,12,2.28
+7,Weekday,Rainy,Kukatpally,0,3,1.14
+12,Weekend,Windy,Kukatpally,0,4,1.28
+11,Weekend,Rainy,Kukatpally,0,7,1.78
+18,Weekend,Cloudy,Hitech City,1,7,1.47
+19,Weekend,Windy,Banjara Hills,0,7,1.78
+10,Weekend,Sunny,Madhapur,1,7,1.65
+18,Weekend,Rainy,Madhapur,1,9,2.16
+16,Weekday,Windy,Madhapur,0,1,1.03
+22,Weekend,Cloudy,Kukatpally,1,7,1.42
+23,Weekend,Sunny,Madhapur,0,3,1.36
+19,Weekday,Sunny,Madhapur,1,8,1.76
+12,Weekend,Sunny,Madhapur,1,10,2.06
+16,Weekend,Windy,Madhapur,0,4,1.32
+17,Weekday,Windy,Madhapur,1,4,1.37
+21,Weekday,Cloudy,Dilsukhnagar,0,4,1.34
+3,Weekday,Sunny,Banjara Hills,1,5,1.15
+7,Weekday,Sunny,Hitech City,0,4,1.36
+19,Weekday,Rainy,Dilsukhnagar,1,11,2.35
+3,Weekday,Sunny,Banjara Hills,0,2,0.94
+22,Weekday,Sunny,Kukatpally,0,1,0.91
+2,Weekend,Cloudy,Dilsukhnagar,0,5,1.35
+22,Weekend,Rainy,Kukatpally,1,7,1.58
+16,Weekday,Sunny,Banjara Hills,0,4,1.14
+17,Weekday,Sunny,Hitech City,0,3,1.35
+7,Weekday,Windy,Dilsukhnagar,1,6,1.6
+9,Weekday,Windy,Madhapur,1,7,1.61
+20,Weekend,Cloudy,Banjara Hills,0,7,1.43
+11,Weekday,Windy,Hitech City,1,5,1.39
+21,Weekday,Cloudy,Dilsukhnagar,1,7,1.63
+23,Weekend,Windy,Madhapur,1,7,1.6
+15,Weekend,Rainy,Banjara Hills,0,6,1.68
+13,Weekend,Windy,Madhapur,1,11,2.41
+14,Weekend,Rainy,Banjara Hills,1,15,2.46
+4,Weekend,Windy,Banjara Hills,1,8,1.41
+21,Weekday,Rainy,Dilsukhnagar,0,7,1.44
+12,Weekend,Rainy,Madhapur,1,12,1.82
+12,Weekday,Cloudy,Dilsukhnagar,1,8,1.48
+19,Weekend,Windy,Kukatpally,0,7,1.79
+1,Weekend,Sunny,Hitech City,1,9,2.23
+4,Weekday,Windy,Banjara Hills,1,8,1.41
+9,Weekday,Cloudy,Madhapur,1,7,1.64
+16,Weekend,Cloudy,Madhapur,0,5,1.27
+15,Weekday,Sunny,Kukatpally,1,6,1.5
+10,Weekday,Cloudy,Kukatpally,1,8,1.63
+10,Weekday,Rainy,Madhapur,0,7,1.73
+7,Weekend,Windy,Hitech City,1,6,1.55
+4,Weekend,Sunny,Dilsukhnagar,1,7,1.64
+23,Weekend,Sunny,Kukatpally,1,5,1.34
+8,Weekday,Cloudy,Hitech City,1,9,1.96
+0,Weekend,Cloudy,Dilsukhnagar,1,6,1.71
+10,Weekend,Cloudy,Dilsukhnagar,0,5,1.39
+19,Weekday,Cloudy,Hitech City,0,8,1.5
+12,Weekend,Sunny,Madhapur,1,9,1.9
+0,Weekday,Windy,Hitech City,1,8,1.71
+4,Weekend,Windy,Dilsukhnagar,0,4,1.33
+3,Weekend,Windy,Madhapur,0,5,1.19
+18,Weekday,Cloudy,Hitech City,0,3,1.36
+17,Weekend,Cloudy,Banjara Hills,1,10,2.19
+20,Weekend,Cloudy,Kukatpally,0,7,1.65
+1,Weekend,Cloudy,Dilsukhnagar,0,2,1.04
+22,Weekday,Windy,Hitech City,0,3,1.15
+16,Weekday,Rainy,Hitech City,1,10,2.04
+13,Weekend,Sunny,Kukatpally,1,7,1.61
+20,Weekend,Rainy,Dilsukhnagar,0,8,1.58
+3,Weekend,Rainy,Banjara Hills,0,6,1.42
+22,Weekday,Windy,Hitech City,0,3,1.33
+4,Weekday,Cloudy,Madhapur,1,8,1.41
+9,Weekend,Sunny,Kukatpally,0,3,1.16
+1,Weekday,Rainy,Dilsukhnagar,1,6,1.54
+2,Weekend,Rainy,Kukatpally,0,5,1.26
+20,Weekend,Cloudy,Dilsukhnagar,1,11,1.91
+6,Weekend,Cloudy,Banjara Hills,1,9,2.07
+20,Weekend,Windy,Hitech City,1,12,1.94
+3,Weekday,Windy,Hitech City,0,3,1.33
+23,Weekend,Rainy,Dilsukhnagar,1,9,2.12
+20,Weekday,Cloudy,Banjara Hills,0,8,1.4
+5,Weekend,Rainy,Kukatpally,1,9,2.12
+12,Weekday,Windy,Kukatpally,1,7,1.43
+3,Weekday,Sunny,Dilsukhnagar,0,0,1.09
+0,Weekend,Windy,Kukatpally,0,1,0.91
+6,Weekday,Windy,Madhapur,0,3,1.23
+0,Weekend,Sunny,Hitech City,1,7,1.51
+6,Weekday,Sunny,Kukatpally,0,0,0.92
+23,Weekday,Windy,Dilsukhnagar,1,5,1.11
+18,Weekend,Sunny,Banjara Hills,0,3,1.22
+12,Weekday,Sunny,Kukatpally,1,9,2.09
+0,Weekday,Sunny,Madhapur,1,7,1.48
+8,Weekday,Cloudy,Banjara Hills,0,8,1.72
+20,Weekday,Windy,Dilsukhnagar,1,7,1.69
+23,Weekday,Cloudy,Madhapur,0,4,1.24
+15,Weekday,Cloudy,Madhapur,0,4,1.32
+11,Weekend,Rainy,Dilsukhnagar,1,9,2.13
+11,Weekend,Rainy,Kukatpally,1,9,2.47
+2,Weekend,Rainy,Madhapur,1,11,2.12
+17,Weekday,Sunny,Madhapur,0,3,1.26
+23,Weekday,Rainy,Banjara Hills,1,8,1.73
+3,Weekday,Sunny,Dilsukhnagar,0,2,1.09
+21,Weekday,Rainy,Madhapur,1,10,2.03
+11,Weekend,Windy,Banjara Hills,1,9,2.28
+3,Weekday,Windy,Banjara Hills,0,2,1.08
+16,Weekday,Windy,Banjara Hills,0,4,1.17
+12,Weekend,Rainy,Dilsukhnagar,0,8,1.41
+0,Weekend,Sunny,Banjara Hills,0,3,1.12
+14,Weekday,Windy,Madhapur,1,7,1.68
+9,Weekend,Windy,Madhapur,0,6,1.57
+18,Weekend,Sunny,Kukatpally,0,4,1.2
+0,Weekend,Windy,Kukatpally,0,4,1.31
+19,Weekend,Windy,Hitech City,1,9,2.47
+2,Weekend,Cloudy,Dilsukhnagar,0,2,0.95
+22,Weekday,Windy,Kukatpally,1,4,1.28
+15,Weekday,Cloudy,Madhapur,1,6,1.65
+3,Weekday,Rainy,Dilsukhnagar,0,6,1.43
+5,Weekend,Cloudy,Dilsukhnagar,1,5,1.18
+3,Weekend,Rainy,Kukatpally,1,8,1.42
+19,Weekend,Windy,Hitech City,0,6,1.48
+15,Weekday,Sunny,Kukatpally,0,3,1.11
+5,Weekday,Cloudy,Dilsukhnagar,1,5,1.31
+22,Weekday,Sunny,Banjara Hills,0,3,1.32
+19,Weekday,Windy,Kukatpally,1,9,1.81
+16,Weekend,Sunny,Kukatpally,1,4,1.18
+17,Weekend,Sunny,Hitech City,0,5,1.36
+21,Weekend,Windy,Kukatpally,0,5,1.14
+5,Weekday,Rainy,Banjara Hills,1,10,2.19
+15,Weekday,Rainy,Dilsukhnagar,1,6,1.62
+7,Weekday,Rainy,Madhapur,0,7,1.4
+1,Weekday,Sunny,Dilsukhnagar,1,3,1.19
+4,Weekend,Rainy,Kukatpally,0,5,1.3
+15,Weekend,Rainy,Hitech City,0,9,2.19
+20,Weekday,Rainy,Banjara Hills,0,8,1.59
+2,Weekday,Rainy,Kukatpally,1,7,1.73
+13,Weekday,Windy,Hitech City,1,11,1.82
+21,Weekend,Windy,Kukatpally,0,5,1.24
+16,Weekend,Rainy,Banjara Hills,1,12,2.34
+13,Weekday,Windy,Hitech City,0,6,1.71
+1,Weekend,Cloudy,Kukatpally,1,8,1.66
+10,Weekend,Cloudy,Madhapur,1,11,2.07
+22,Weekday,Windy,Madhapur,0,4,1.39
+17,Weekday,Cloudy,Madhapur,1,7,1.64
+7,Weekend,Cloudy,Banjara Hills,0,6,1.79
+6,Weekend,Windy,Madhapur,1,8,1.67
+6,Weekday,Cloudy,Banjara Hills,1,8,1.48
+14,Weekday,Sunny,Madhapur,0,5,1.28
+20,Weekend,Rainy,Kukatpally,1,11,2.07
+22,Weekend,Windy,Dilsukhnagar,1,5,1.18
+2,Weekend,Sunny,Kukatpally,1,4,1.12
+8,Weekend,Windy,Dilsukhnagar,1,9,1.94
+1,Weekend,Windy,Dilsukhnagar,0,4,1.23
+10,Weekday,Rainy,Banjara Hills,0,9,2.33
+1,Weekday,Sunny,Madhapur,0,3,1.14
+3,Weekend,Rainy,Hitech City,0,6,1.44
+19,Weekend,Cloudy,Kukatpally,0,6,1.49
+19,Weekend,Cloudy,Banjara Hills,0,7,1.62
+10,Weekday,Rainy,Kukatpally,0,5,1.39
+2,Weekend,Windy,Hitech City,0,4,1.35
+7,Weekday,Windy,Dilsukhnagar,0,1,1.08
+8,Weekday,Sunny,Banjara Hills,1,10,2.21
+19,Weekend,Windy,Banjara Hills,0,6,1.74
+13,Weekend,Windy,Banjara Hills,1,12,1.82
+8,Weekday,Windy,Kukatpally,1,7,1.41
+16,Weekend,Windy,Dilsukhnagar,0,3,1.14
+2,Weekend,Rainy,Kukatpally,0,5,1.19
+12,Weekend,Rainy,Madhapur,0,11,2.22
+15,Weekday,Rainy,Hitech City,1,8,1.56
+11,Weekend,Windy,Hitech City,1,9,2.31
+13,Weekday,Windy,Madhapur,1,8,1.51
+8,Weekend,Rainy,Banjara Hills,0,9,2.39
+12,Weekend,Sunny,Banjara Hills,0,7,1.44
+22,Weekday,Cloudy,Hitech City,1,9,1.9
+4,Weekend,Cloudy,Banjara Hills,0,7,1.52
+16,Weekday,Rainy,Hitech City,0,6,1.52
+15,Weekend,Rainy,Banjara Hills,0,7,1.64
+2,Weekday,Sunny,Madhapur,0,1,1.06
+17,Weekend,Rainy,Banjara Hills,0,7,1.71
+10,Weekday,Cloudy,Dilsukhnagar,0,3,1.22
+5,Weekday,Windy,Banjara Hills,0,3,1.36
+11,Weekend,Windy,Banjara Hills,1,7,1.68
+22,Weekday,Rainy,Dilsukhnagar,0,3,1.39
+4,Weekday,Cloudy,Kukatpally,1,7,1.62
+23,Weekend,Windy,Dilsukhnagar,1,7,1.7
+16,Weekend,Rainy,Dilsukhnagar,1,8,1.72
+6,Weekday,Cloudy,Madhapur,0,5,1.21
+9,Weekend,Sunny,Madhapur,1,8,1.7
+6,Weekend,Rainy,Kukatpally,0,6,1.56
+4,Weekday,Rainy,Kukatpally,1,9,2.08
+22,Weekend,Cloudy,Banjara Hills,1,8,1.57
+1,Weekday,Rainy,Hitech City,1,10,1.84
+14,Weekend,Windy,Hitech City,1,11,2.37
+17,Weekend,Sunny,Kukatpally,0,3,1.2
+9,Weekday,Sunny,Hitech City,0,6,1.42
+16,Weekday,Cloudy,Hitech City,1,9,2.03
+19,Weekend,Cloudy,Dilsukhnagar,1,10,2.06
+16,Weekday,Windy,Kukatpally,1,3,1.3
+17,Weekday,Rainy,Kukatpally,1,9,2.31
+20,Weekend,Rainy,Banjara Hills,0,9,2.23
+8,Weekend,Rainy,Hitech City,0,10,1.81
+4,Weekday,Windy,Dilsukhnagar,0,3,1.34
+4,Weekend,Cloudy,Banjara Hills,0,4,1.15
+1,Weekend,Windy,Hitech City,0,6,1.77
+5,Weekend,Sunny,Hitech City,1,8,1.65
+11,Weekend,Cloudy,Dilsukhnagar,1,7,1.61
+21,Weekend,Rainy,Banjara Hills,0,12,2.14
+10,Weekend,Windy,Kukatpally,0,5,1.34
+8,Weekday,Rainy,Dilsukhnagar,0,6,1.75
+7,Weekend,Rainy,Hitech City,1,12,2.32
+13,Weekend,Cloudy,Hitech City,0,8,1.65
+21,Weekday,Cloudy,Hitech City,1,12,2.37
+4,Weekend,Windy,Hitech City,1,8,1.45
+7,Weekend,Windy,Kukatpally,0,4,1.23
+7,Weekend,Rainy,Dilsukhnagar,0,6,1.46
+10,Weekend,Sunny,Hitech City,0,5,1.34
+0,Weekday,Windy,Kukatpally,0,1,1.1
+0,Weekend,Rainy,Hitech City,0,8,1.79
+11,Weekend,Sunny,Hitech City,0,5,1.2
+1,Weekday,Sunny,Dilsukhnagar,0,1,1.06
+12,Weekend,Sunny,Madhapur,1,8,1.73
+9,Weekday,Sunny,Kukatpally,1,6,1.66
+22,Weekday,Windy,Dilsukhnagar,0,2,0.91
+10,Weekday,Windy,Kukatpally,1,7,1.52
+22,Weekend,Windy,Banjara Hills,1,8,1.48
+14,Weekday,Rainy,Hitech City,0,8,1.64
+3,Weekday,Sunny,Kukatpally,0,1,1.04
+9,Weekend,Cloudy,Dilsukhnagar,0,7,1.57
+3,Weekend,Rainy,Kukatpally,0,6,1.46
+6,Weekend,Sunny,Hitech City,0,5,1.22
+15,Weekend,Windy,Madhapur,1,6,1.73
+23,Weekend,Cloudy,Dilsukhnagar,0,2,1.07
+5,Weekend,Windy,Hitech City,1,8,1.46
+4,Weekday,Windy,Madhapur,0,2,0.98
+0,Weekend,Cloudy,Dilsukhnagar,1,7,1.4
+15,Weekday,Rainy,Banjara Hills,1,10,2.17
+16,Weekday,Windy,Hitech City,1,7,1.62
+14,Weekday,Cloudy,Madhapur,0,8,1.64
+2,Weekend,Windy,Kukatpally,0,3,1.35
+7,Weekend,Cloudy,Madhapur,0,4,1.3
+18,Weekend,Windy,Madhapur,0,3,1.11
+14,Weekday,Windy,Hitech City,1,8,1.78
+8,Weekend,Sunny,Dilsukhnagar,1,6,1.6
+18,Weekday,Cloudy,Hitech City,0,6,1.62
+10,Weekday,Rainy,Hitech City,1,10,2.03
+7,Weekend,Sunny,Hitech City,0,5,1.15
+9,Weekend,Windy,Banjara Hills,1,9,2.31
+11,Weekday,Cloudy,Madhapur,0,2,1.1
+3,Weekday,Rainy,Hitech City,1,9,1.88
+14,Weekend,Sunny,Dilsukhnagar,1,7,1.59
+19,Weekend,Sunny,Madhapur,0,7,1.47
+6,Weekend,Sunny,Dilsukhnagar,0,1,0.93
+10,Weekday,Rainy,Kukatpally,1,8,1.54
+12,Weekend,Sunny,Dilsukhnagar,1,8,1.47
+19,Weekend,Sunny,Banjara Hills,1,12,2.07
+20,Weekend,Rainy,Hitech City,0,12,1.93
+18,Weekend,Sunny,Madhapur,1,8,1.7
+0,Weekend,Windy,Hitech City,0,3,1.28
+17,Weekday,Rainy,Kukatpally,1,8,1.45
+1,Weekend,Rainy,Madhapur,1,10,1.83
+3,Weekday,Cloudy,Banjara Hills,1,9,2.5
+8,Weekend,Windy,Hitech City,1,8,1.6
+23,Weekend,Windy,Hitech City,0,5,1.2
+22,Weekday,Rainy,Dilsukhnagar,0,5,1.13
+8,Weekend,Cloudy,Hitech City,0,7,1.63
+2,Weekday,Sunny,Madhapur,1,4,1.34
+17,Weekend,Cloudy,Hitech City,1,7,1.52
+13,Weekday,Cloudy,Madhapur,0,6,1.43
+18,Weekday,Sunny,Kukatpally,0,3,1.34
+12,Weekday,Cloudy,Banjara Hills,0,6,1.53
+5,Weekday,Sunny,Kukatpally,0,1,0.93
+21,Weekday,Windy,Hitech City,1,9,2.14
+7,Weekday,Windy,Banjara Hills,1,6,1.73
+9,Weekend,Rainy,Kukatpally,1,11,1.99
+19,Weekday,Windy,Madhapur,1,7,1.79
+12,Weekday,Cloudy,Banjara Hills,0,6,1.79
+7,Weekday,Sunny,Banjara Hills,0,2,1.05
+21,Weekend,Rainy,Banjara Hills,1,12,2.2
+20,Weekday,Sunny,Hitech City,1,8,1.54
+14,Weekday,Rainy,Hitech City,1,13,2.48
+12,Weekend,Windy,Banjara Hills,0,7,1.56
+6,Weekday,Windy,Kukatpally,1,6,1.42
+0,Weekend,Windy,Banjara Hills,0,3,1.32
+16,Weekend,Rainy,Kukatpally,0,6,1.46
+8,Weekday,Windy,Hitech City,1,7,1.63
+11,Weekend,Rainy,Kukatpally,0,6,1.74
+12,Weekend,Rainy,Kukatpally,0,10,2.43
+0,Weekday,Windy,Kukatpally,0,1,0.92
+23,Weekend,Cloudy,Hitech City,1,9,2.32
+0,Weekday,Sunny,Banjara Hills,1,7,1.72
+21,Weekday,Windy,Dilsukhnagar,0,4,1.39
+10,Weekend,Cloudy,Hitech City,1,10,1.93
+23,Weekend,Windy,Madhapur,1,6,1.65
+21,Weekend,Sunny,Kukatpally,1,8,1.76
+10,Weekday,Cloudy,Madhapur,1,8,1.61
+15,Weekday,Windy,Dilsukhnagar,0,0,0.92
+4,Weekday,Windy,Hitech City,0,5,1.22
+23,Weekday,Sunny,Dilsukhnagar,1,4,1.17
+6,Weekday,Cloudy,Hitech City,0,5,1.1
+18,Weekend,Sunny,Madhapur,1,6,1.44
+7,Weekday,Sunny,Madhapur,0,1,1.0
+8,Weekday,Sunny,Kukatpally,0,5,1.37
+3,Weekday,Rainy,Dilsukhnagar,1,6,1.57
+11,Weekend,Windy,Dilsukhnagar,0,1,1.05
+20,Weekday,Cloudy,Banjara Hills,0,7,1.49
+1,Weekday,Rainy,Banjara Hills,0,6,1.52
+1,Weekend,Rainy,Dilsukhnagar,0,4,1.14
+23,Weekday,Cloudy,Madhapur,1,6,1.68
+5,Weekend,Windy,Hitech City,0,5,1.11
+5,Weekend,Sunny,Hitech City,0,4,1.12
+13,Weekday,Windy,Banjara Hills,0,7,1.69
+22,Weekend,Windy,Banjara Hills,0,6,1.57
+19,Weekend,Cloudy,Madhapur,1,10,2.45
+0,Weekday,Windy,Madhapur,1,7,1.77
+18,Weekday,Rainy,Hitech City,0,5,1.27
+12,Weekday,Sunny,Dilsukhnagar,0,4,1.34
+7,Weekday,Sunny,Banjara Hills,0,4,1.26
+2,Weekend,Cloudy,Madhapur,0,4,1.11
+15,Weekday,Rainy,Banjara Hills,0,6,1.65
+2,Weekend,Sunny,Madhapur,1,6,1.67
+10,Weekday,Sunny,Hitech City,0,4,1.36
+23,Weekday,Sunny,Madhapur,0,1,0.92
+6,Weekend,Sunny,Kukatpally,1,4,1.34
+23,Weekday,Rainy,Madhapur,1,10,2.27
+16,Weekend,Cloudy,Madhapur,0,3,1.26
+4,Weekend,Cloudy,Kukatpally,0,3,1.15
+9,Weekday,Cloudy,Kukatpally,1,6,1.6
+14,Weekday,Sunny,Dilsukhnagar,0,3,1.3
+7,Weekend,Cloudy,Madhapur,0,5,1.32
+8,Weekday,Windy,Kukatpally,0,3,1.22
+8,Weekday,Cloudy,Madhapur,0,6,1.52
+5,Weekend,Sunny,Dilsukhnagar,0,4,1.12
+6,Weekday,Windy,Dilsukhnagar,1,5,1.34
+0,Weekday,Rainy,Hitech City,0,7,1.72
+3,Weekend,Cloudy,Dilsukhnagar,0,2,0.95
+23,Weekend,Rainy,Dilsukhnagar,1,10,2.42
+7,Weekday,Windy,Banjara Hills,0,5,1.18
+4,Weekday,Rainy,Kukatpally,1,7,1.61
+20,Weekend,Windy,Madhapur,0,5,1.17
+13,Weekday,Cloudy,Dilsukhnagar,1,8,1.44
+8,Weekday,Windy,Hitech City,1,9,2.46
+20,Weekend,Rainy,Madhapur,1,13,2.41
+1,Weekday,Windy,Banjara Hills,1,7,1.62
+5,Weekend,Rainy,Hitech City,0,9,2.06
+13,Weekend,Cloudy,Dilsukhnagar,0,6,1.69
+11,Weekday,Rainy,Madhapur,1,8,1.59
+22,Weekday,Cloudy,Hitech City,1,6,1.8
+9,Weekday,Rainy,Banjara Hills,0,9,1.94
+16,Weekend,Cloudy,Hitech City,1,8,1.72
+3,Weekday,Sunny,Dilsukhnagar,1,6,1.69
+3,Weekday,Rainy,Banjara Hills,0,6,1.6
+4,Weekend,Cloudy,Banjara Hills,0,7,1.74
+23,Weekday,Sunny,Dilsukhnagar,1,5,1.4
+3,Weekend,Windy,Dilsukhnagar,0,1,1.08
+6,Weekday,Sunny,Dilsukhnagar,0,2,1.06
+3,Weekday,Sunny,Banjara Hills,1,7,1.59
+22,Weekend,Cloudy,Madhapur,0,6,1.77
+19,Weekday,Windy,Madhapur,1,8,1.75
+2,Weekend,Sunny,Hitech City,1,6,1.62
+7,Weekday,Windy,Dilsukhnagar,1,5,1.35
+18,Weekday,Windy,Banjara Hills,0,3,1.38
+19,Weekday,Sunny,Banjara Hills,1,10,2.03
+13,Weekday,Sunny,Madhapur,0,6,1.45
+17,Weekend,Sunny,Madhapur,0,4,1.17
+12,Weekend,Windy,Hitech City,0,6,1.7
+13,Weekday,Sunny,Banjara Hills,0,6,1.54
+12,Weekday,Sunny,Kukatpally,0,6,1.43
+23,Weekday,Sunny,Banjara Hills,0,4,1.37
+11,Weekday,Windy,Dilsukhnagar,0,3,1.27
+15,Weekend,Windy,Dilsukhnagar,0,2,1.1
+8,Weekend,Sunny,Hitech City,0,7,1.76
+0,Weekend,Rainy,Madhapur,1,9,2.13
+21,Weekday,Windy,Hitech City,0,6,1.66
+19,Weekday,Sunny,Hitech City,1,11,2.28
+0,Weekday,Cloudy,Dilsukhnagar,0,3,1.19
+5,Weekday,Windy,Madhapur,0,4,1.33
+22,Weekend,Windy,Madhapur,1,5,1.37
+9,Weekday,Cloudy,Dilsukhnagar,1,7,1.46
+18,Weekday,Cloudy,Hitech City,1,7,1.78
+6,Weekday,Rainy,Banjara Hills,1,9,2.34
+13,Weekend,Sunny,Kukatpally,0,7,1.46
+20,Weekday,Windy,Kukatpally,0,6,1.47
+6,Weekend,Rainy,Dilsukhnagar,0,6,1.67
+19,Weekend,Rainy,Dilsukhnagar,0,7,1.73
+9,Weekday,Cloudy,Kukatpally,0,4,1.37
+18,Weekend,Cloudy,Hitech City,0,7,1.64
+11,Weekday,Windy,Madhapur,0,4,1.27
+11,Weekend,Sunny,Banjara Hills,0,6,1.72
+3,Weekday,Rainy,Dilsukhnagar,1,8,1.79
+3,Weekend,Rainy,Madhapur,1,9,1.97
+9,Weekend,Sunny,Hitech City,0,8,1.7
+0,Weekday,Windy,Dilsukhnagar,1,6,1.43
+1,Weekday,Windy,Dilsukhnagar,0,0,0.92
+6,Weekend,Sunny,Hitech City,0,6,1.61
+19,Weekend,Sunny,Madhapur,0,7,1.42
+13,Weekday,Rainy,Dilsukhnagar,1,12,2.24
+1,Weekend,Rainy,Madhapur,1,8,1.76
+14,Weekend,Cloudy,Kukatpally,0,5,1.31
+14,Weekday,Windy,Kukatpally,0,4,1.2
+17,Weekday,Windy,Kukatpally,1,3,1.39
+18,Weekday,Cloudy,Hitech City,1,8,1.43
+6,Weekday,Rainy,Kukatpally,0,3,1.38
+10,Weekend,Rainy,Banjara Hills,1,14,1.88
+17,Weekday,Windy,Hitech City,0,3,1.3
+2,Weekday,Sunny,Kukatpally,0,1,1.05
+7,Weekend,Rainy,Kukatpally,1,9,2.06
+6,Weekday,Windy,Hitech City,1,7,1.51
+1,Weekday,Cloudy,Hitech City,0,6,1.52
+1,Weekday,Windy,Madhapur,1,4,1.17
+6,Weekend,Sunny,Kukatpally,1,4,1.38
+14,Weekend,Rainy,Banjara Hills,0,9,2.38
+20,Weekday,Windy,Dilsukhnagar,0,3,1.29
+8,Weekend,Rainy,Dilsukhnagar,1,12,2.35
+21,Weekend,Rainy,Kukatpally,0,8,1.75
+16,Weekday,Cloudy,Kukatpally,0,3,1.17
+14,Weekday,Windy,Dilsukhnagar,1,9,2.28
+3,Weekend,Windy,Hitech City,1,9,1.97
+12,Weekday,Sunny,Madhapur,0,7,1.62
+2,Weekday,Rainy,Banjara Hills,1,10,2.27
+2,Weekend,Cloudy,Hitech City,1,10,2.46
+21,Weekend,Windy,Dilsukhnagar,0,4,1.26
+5,Weekday,Rainy,Madhapur,1,10,2.33
+1,Weekend,Rainy,Kukatpally,1,7,1.78
+4,Weekday,Cloudy,Hitech City,0,6,1.79
+19,Weekend,Cloudy,Banjara Hills,1,12,2.39
+19,Weekday,Sunny,Madhapur,1,10,2.24
+16,Weekend,Sunny,Kukatpally,0,3,1.38
+7,Weekend,Windy,Kukatpally,1,5,1.26
+21,Weekday,Sunny,Dilsukhnagar,1,8,1.55
+2,Weekday,Windy,Kukatpally,1,6,1.62
+19,Weekend,Windy,Banjara Hills,0,8,1.61
+6,Weekend,Sunny,Dilsukhnagar,1,4,1.22
+5,Weekday,Cloudy,Hitech City,1,6,1.67
+11,Weekend,Windy,Dilsukhnagar,1,7,1.63
+0,Weekday,Rainy,Madhapur,0,6,1.74
+8,Weekend,Rainy,Dilsukhnagar,1,12,2.22
+6,Weekday,Cloudy,Dilsukhnagar,1,5,1.29
+20,Weekday,Cloudy,Kukatpally,0,5,1.26
+18,Weekday,Cloudy,Kukatpally,0,3,1.12
+21,Weekend,Rainy,Dilsukhnagar,1,13,1.92
+10,Weekend,Rainy,Dilsukhnagar,0,9,2.46
+7,Weekday,Cloudy,Dilsukhnagar,1,4,1.17
+16,Weekday,Windy,Madhapur,1,4,1.39
+15,Weekend,Windy,Dilsukhnagar,1,4,1.28
+15,Weekend,Cloudy,Banjara Hills,0,5,1.19
+19,Weekday,Sunny,Hitech City,1,11,1.92
+6,Weekend,Rainy,Madhapur,0,5,1.35
+6,Weekend,Cloudy,Hitech City,1,9,2.12
+10,Weekend,Rainy,Hitech City,0,9,2.06
+6,Weekend,Windy,Dilsukhnagar,0,2,1.06
+14,Weekend,Sunny,Hitech City,1,10,2.29
+20,Weekday,Cloudy,Hitech City,0,8,1.47
+12,Weekday,Windy,Dilsukhnagar,0,4,1.33
+0,Weekend,Cloudy,Banjara Hills,0,6,1.56
+4,Weekend,Windy,Kukatpally,0,3,1.36
+18,Weekend,Windy,Dilsukhnagar,1,6,1.52
+5,Weekday,Windy,Madhapur,1,6,1.62
+10,Weekend,Cloudy,Madhapur,1,9,2.15
+9,Weekday,Sunny,Kukatpally,1,5,1.14
+0,Weekday,Sunny,Banjara Hills,1,7,1.66
+18,Weekday,Sunny,Banjara Hills,0,2,1.06
+10,Weekday,Rainy,Hitech City,1,12,2.14
+16,Weekday,Windy,Dilsukhnagar,0,0,0.96
+9,Weekend,Windy,Dilsukhnagar,1,7,1.6
+22,Weekday,Windy,Kukatpally,1,5,1.29
+4,Weekday,Rainy,Madhapur,0,6,1.52
+2,Weekday,Rainy,Dilsukhnagar,0,4,1.16
+2,Weekday,Rainy,Dilsukhnagar,0,3,1.29
+19,Weekday,Sunny,Kukatpally,0,3,1.26
+13,Weekend,Windy,Banjara Hills,0,9,2.04
+17,Weekday,Windy,Kukatpally,0,3,1.15
+5,Weekend,Windy,Kukatpally,1,6,1.7
+11,Weekend,Windy,Banjara Hills,1,7,1.75
+1,Weekend,Rainy,Dilsukhnagar,0,7,1.55
+21,Weekday,Sunny,Kukatpally,0,4,1.32
+3,Weekend,Rainy,Hitech City,1,10,1.94
+22,Weekday,Rainy,Hitech City,1,9,1.92
+18,Weekday,Windy,Banjara Hills,0,5,1.34
+21,Weekday,Cloudy,Banjara Hills,0,7,1.76
+10,Weekend,Rainy,Dilsukhnagar,0,8,1.62
+9,Weekend,Windy,Hitech City,1,11,2.32
+15,Weekday,Rainy,Kukatpally,1,7,1.78
+18,Weekend,Cloudy,Madhapur,1,6,1.47
+14,Weekend,Sunny,Banjara Hills,0,9,1.85
+1,Weekend,Rainy,Dilsukhnagar,1,10,2.3
+6,Weekend,Cloudy,Banjara Hills,0,5,1.14
+21,Weekday,Rainy,Madhapur,1,10,2.18
+5,Weekday,Sunny,Madhapur,1,7,1.61
+16,Weekend,Cloudy,Banjara Hills,1,9,1.93
+20,Weekend,Sunny,Hitech City,0,6,1.51
+9,Weekday,Windy,Hitech City,1,7,1.58
+11,Weekday,Rainy,Dilsukhnagar,0,3,1.33
+20,Weekday,Cloudy,Hitech City,0,8,1.48
+8,Weekday,Sunny,Dilsukhnagar,0,2,1.02
+15,Weekday,Rainy,Dilsukhnagar,1,6,1.64
+3,Weekday,Windy,Hitech City,0,3,1.13
+5,Weekday,Windy,Kukatpally,1,4,1.12
+19,Weekday,Sunny,Hitech City,1,11,1.87
+5,Weekday,Sunny,Dilsukhnagar,0,3,1.14
+10,Weekend,Rainy,Banjara Hills,0,8,1.52
+6,Weekend,Windy,Madhapur,0,2,1.03
+14,Weekend,Sunny,Banjara Hills,1,10,1.87
+9,Weekday,Windy,Dilsukhnagar,0,4,1.36
+18,Weekend,Rainy,Banjara Hills,1,12,1.89
+18,Weekday,Cloudy,Madhapur,1,5,1.34
+23,Weekday,Rainy,Dilsukhnagar,1,7,1.71
+18,Weekend,Sunny,Hitech City,0,6,1.45
+8,Weekday,Windy,Madhapur,1,8,1.55
+4,Weekday,Sunny,Madhapur,0,2,0.91
+15,Weekday,Windy,Hitech City,1,6,1.59
+17,Weekend,Cloudy,Hitech City,0,4,1.23
+23,Weekday,Windy,Kukatpally,0,3,1.17
+4,Weekend,Sunny,Madhapur,1,7,1.78
+5,Weekday,Rainy,Madhapur,0,5,1.12
+0,Weekend,Windy,Kukatpally,1,6,1.57
+9,Weekday,Cloudy,Kukatpally,1,8,1.51
+5,Weekday,Cloudy,Kukatpally,0,2,1.07
+8,Weekend,Windy,Hitech City,0,5,1.27
+3,Weekday,Sunny,Banjara Hills,0,5,1.27
+3,Weekend,Windy,Madhapur,0,5,1.15
+16,Weekday,Sunny,Dilsukhnagar,0,2,0.99
+4,Weekday,Sunny,Madhapur,0,4,1.13
+16,Weekday,Windy,Kukatpally,0,1,0.91
+22,Weekday,Cloudy,Hitech City,0,5,1.21
+16,Weekend,Windy,Madhapur,0,5,1.15
+22,Weekday,Sunny,Hitech City,1,6,1.54
+16,Weekend,Windy,Kukatpally,1,6,1.6
+6,Weekday,Sunny,Madhapur,0,2,1.02
+5,Weekend,Cloudy,Kukatpally,1,8,1.73
+2,Weekend,Sunny,Dilsukhnagar,0,2,1.04
+15,Weekday,Sunny,Hitech City,1,8,1.57
+3,Weekend,Cloudy,Dilsukhnagar,0,2,1.06
+1,Weekend,Windy,Kukatpally,0,3,1.11
+23,Weekend,Rainy,Dilsukhnagar,0,6,1.63
+10,Weekday,Sunny,Madhapur,0,3,1.18
+19,Weekday,Cloudy,Dilsukhnagar,1,10,2.35
+16,Weekend,Rainy,Hitech City,0,9,2.21
+21,Weekday,Windy,Kukatpally,1,6,1.56
+12,Weekday,Rainy,Banjara Hills,1,13,2.47
+15,Weekend,Cloudy,Banjara Hills,0,5,1.33
+13,Weekday,Rainy,Dilsukhnagar,1,9,2.5
+14,Weekday,Sunny,Madhapur,0,7,1.74
+21,Weekday,Sunny,Banjara Hills,1,8,1.61
+17,Weekday,Sunny,Hitech City,1,5,1.35
+21,Weekday,Cloudy,Hitech City,0,7,1.55
+22,Weekend,Rainy,Hitech City,0,9,2.47
+23,Weekend,Sunny,Hitech City,1,8,1.52
+4,Weekday,Sunny,Kukatpally,1,4,1.27
+14,Weekend,Windy,Hitech City,0,6,1.72
+8,Weekday,Windy,Kukatpally,1,8,1.67
+5,Weekday,Windy,Dilsukhnagar,0,2,1.02
+2,Weekday,Rainy,Dilsukhnagar,1,8,1.72
+19,Weekend,Rainy,Kukatpally,1,13,2.27
+1,Weekend,Sunny,Dilsukhnagar,1,5,1.31
+8,Weekday,Windy,Hitech City,1,10,1.83
+17,Weekday,Rainy,Kukatpally,1,7,1.53
+12,Weekend,Sunny,Kukatpally,1,8,1.52
+1,Weekend,Cloudy,Dilsukhnagar,1,8,1.62
+23,Weekend,Windy,Hitech City,1,9,2.16
+4,Weekday,Windy,Hitech City,0,4,1.13
+4,Weekday,Cloudy,Dilsukhnagar,0,4,1.18
+17,Weekday,Sunny,Dilsukhnagar,0,2,1.01
+17,Weekday,Sunny,Kukatpally,0,2,0.98
+4,Weekend,Sunny,Kukatpally,0,1,0.92
+2,Weekday,Sunny,Dilsukhnagar,0,2,1.03
+19,Weekday,Rainy,Kukatpally,0,7,1.49
+23,Weekend,Sunny,Madhapur,0,3,1.11
+8,Weekend,Sunny,Kukatpally,1,6,1.76
+11,Weekend,Cloudy,Kukatpally,0,4,1.14
+3,Weekend,Cloudy,Hitech City,0,6,1.51
+18,Weekend,Windy,Hitech City,1,9,2.43
+23,Weekday,Rainy,Madhapur,0,4,1.36
+14,Weekday,Sunny,Madhapur,0,7,1.51
+16,Weekday,Rainy,Madhapur,0,7,1.65
+8,Weekend,Rainy,Dilsukhnagar,1,12,2.02
+16,Weekend,Cloudy,Hitech City,1,9,2.21
+10,Weekday,Sunny,Hitech City,0,5,1.12
+21,Weekend,Cloudy,Banjara Hills,1,10,2.05
+2,Weekend,Sunny,Kukatpally,0,2,1.07
+17,Weekend,Rainy,Kukatpally,1,8,1.56
+22,Weekday,Sunny,Dilsukhnagar,1,5,1.21
+1,Weekend,Windy,Hitech City,0,3,1.28
+20,Weekend,Rainy,Madhapur,1,12,1.83
+12,Weekend,Cloudy,Dilsukhnagar,1,11,2.15
+1,Weekend,Windy,Madhapur,0,2,1.06
+9,Weekend,Windy,Madhapur,1,10,2.04
+0,Weekend,Cloudy,Madhapur,0,4,1.33
+19,Weekday,Windy,Banjara Hills,0,7,1.5
+12,Weekend,Rainy,Banjara Hills,1,14,2.29
+1,Weekday,Windy,Madhapur,1,5,1.38
+0,Weekend,Rainy,Banjara Hills,0,7,1.46
+5,Weekend,Windy,Kukatpally,1,6,1.56
+10,Weekday,Windy,Hitech City,0,4,1.15
+22,Weekday,Sunny,Madhapur,1,7,1.8
+0,Weekday,Sunny,Kukatpally,1,6,1.68
+17,Weekday,Rainy,Hitech City,0,7,1.58
+0,Weekend,Windy,Banjara Hills,1,8,1.74
+20,Weekend,Sunny,Banjara Hills,0,7,1.42
+16,Weekend,Rainy,Kukatpally,1,8,1.57
+22,Weekend,Sunny,Kukatpally,1,5,1.21
+8,Weekday,Cloudy,Banjara Hills,0,6,1.6
+8,Weekend,Cloudy,Hitech City,0,9,1.98
+20,Weekend,Cloudy,Kukatpally,1,9,2.41
+2,Weekday,Rainy,Banjara Hills,0,8,1.51
+17,Weekend,Sunny,Kukatpally,1,7,1.71
+7,Weekend,Rainy,Kukatpally,0,4,1.16
+17,Weekend,Rainy,Hitech City,1,11,2.3
+20,Weekday,Sunny,Dilsukhnagar,1,7,1.73
+8,Weekend,Rainy,Hitech City,1,12,2.03
+17,Weekday,Cloudy,Dilsukhnagar,0,3,1.35
+9,Weekday,Sunny,Hitech City,0,7,1.58
+16,Weekend,Sunny,Kukatpally,1,5,1.18
+8,Weekend,Cloudy,Madhapur,1,8,1.73
+6,Weekend,Sunny,Kukatpally,0,4,1.31
+17,Weekday,Sunny,Madhapur,0,1,0.93
+14,Weekend,Windy,Dilsukhnagar,1,8,1.75
+22,Weekday,Cloudy,Madhapur,1,6,1.74
+3,Weekend,Windy,Banjara Hills,1,9,1.96
+2,Weekend,Cloudy,Banjara Hills,1,8,1.76
+17,Weekday,Windy,Banjara Hills,0,3,1.27
+3,Weekday,Sunny,Dilsukhnagar,1,3,1.22
+5,Weekday,Rainy,Dilsukhnagar,0,4,1.15
+3,Weekday,Sunny,Hitech City,0,3,1.15
+0,Weekday,Sunny,Dilsukhnagar,1,6,1.57
+3,Weekday,Sunny,Dilsukhnagar,1,6,1.45
+17,Weekday,Cloudy,Banjara Hills,1,9,2.36
+9,Weekday,Rainy,Dilsukhnagar,1,10,2.25
+20,Weekday,Sunny,Kukatpally,1,9,2.35
+17,Weekday,Rainy,Madhapur,1,10,2.41
+18,Weekend,Sunny,Hitech City,0,4,1.32
+0,Weekend,Windy,Banjara Hills,0,5,1.35
+8,Weekend,Windy,Kukatpally,0,5,1.11
+22,Weekday,Windy,Kukatpally,1,6,1.51
+2,Weekday,Windy,Madhapur,1,4,1.31
+22,Weekday,Cloudy,Hitech City,1,8,1.44
+19,Weekend,Windy,Hitech City,0,8,1.71
+6,Weekend,Windy,Dilsukhnagar,0,3,1.27
+12,Weekend,Rainy,Kukatpally,1,10,2.17
+17,Weekend,Sunny,Kukatpally,1,4,1.21
+11,Weekend,Rainy,Madhapur,1,8,1.63
+12,Weekday,Rainy,Banjara Hills,0,8,1.45
+22,Weekend,Windy,Dilsukhnagar,0,4,1.1
+2,Weekday,Cloudy,Banjara Hills,0,6,1.54
+16,Weekend,Sunny,Kukatpally,1,7,1.52
+2,Weekday,Windy,Madhapur,1,5,1.34
+3,Weekday,Cloudy,Hitech City,1,7,1.57
+5,Weekday,Rainy,Dilsukhnagar,1,8,1.6
+2,Weekend,Sunny,Madhapur,1,7,1.77
+3,Weekend,Cloudy,Madhapur,1,6,1.53
+16,Weekday,Sunny,Dilsukhnagar,0,1,1.07
+11,Weekend,Sunny,Dilsukhnagar,0,1,0.91
+12,Weekday,Cloudy,Kukatpally,1,7,1.58
+6,Weekday,Cloudy,Kukatpally,0,2,1.08
+19,Weekend,Cloudy,Hitech City,0,7,1.59
+20,Weekday,Rainy,Madhapur,1,11,1.86
+13,Weekday,Windy,Dilsukhnagar,1,6,1.59
+1,Weekend,Sunny,Hitech City,0,5,1.39
+19,Weekday,Windy,Hitech City,0,7,1.47
+2,Weekday,Cloudy,Banjara Hills,1,6,1.73
+4,Weekday,Sunny,Hitech City,1,5,1.34
+18,Weekend,Sunny,Hitech City,1,8,1.76
+20,Weekday,Cloudy,Dilsukhnagar,1,9,1.96
+20,Weekday,Windy,Kukatpally,0,6,1.54
+19,Weekend,Cloudy,Kukatpally,0,8,1.73
+2,Weekday,Windy,Banjara Hills,1,5,1.16
+23,Weekday,Sunny,Madhapur,1,4,1.15
+17,Weekend,Rainy,Banjara Hills,0,9,2.42
+6,Weekend,Windy,Madhapur,0,4,1.36
+4,Weekend,Sunny,Kukatpally,1,7,1.42
+13,Weekend,Rainy,Dilsukhnagar,0,9,2.42
+17,Weekday,Cloudy,Banjara Hills,1,7,1.55
+20,Weekend,Windy,Banjara Hills,0,8,1.53
+14,Weekend,Cloudy,Hitech City,1,12,2.11
+10,Weekend,Sunny,Madhapur,1,8,1.48
+5,Weekday,Sunny,Dilsukhnagar,1,5,1.13
+15,Weekend,Sunny,Dilsukhnagar,0,2,0.92
+2,Weekday,Windy,Dilsukhnagar,1,3,1.28
+21,Weekday,Rainy,Madhapur,1,13,2.28
+1,Weekday,Rainy,Hitech City,1,10,2.44
+10,Weekend,Sunny,Banjara Hills,0,5,1.3
+5,Weekend,Cloudy,Dilsukhnagar,1,5,1.1
+13,Weekday,Sunny,Madhapur,0,6,1.49
+23,Weekday,Cloudy,Dilsukhnagar,1,7,1.65
+19,Weekend,Sunny,Kukatpally,1,7,1.78
+15,Weekday,Windy,Banjara Hills,0,5,1.28
+1,Weekend,Cloudy,Hitech City,0,4,1.11
+12,Weekend,Rainy,Madhapur,0,9,2.28
+18,Weekday,Sunny,Madhapur,1,5,1.38
+6,Weekend,Sunny,Dilsukhnagar,1,4,1.12
+9,Weekday,Rainy,Madhapur,0,8,1.54
+7,Weekend,Cloudy,Banjara Hills,0,6,1.56
+1,Weekday,Windy,Kukatpally,0,0,0.98
+13,Weekday,Sunny,Dilsukhnagar,1,9,2.13
+1,Weekday,Windy,Dilsukhnagar,1,4,1.31
+6,Weekday,Cloudy,Madhapur,1,6,1.41
+12,Weekend,Windy,Kukatpally,0,6,1.53
+6,Weekday,Cloudy,Hitech City,0,6,1.49
+12,Weekend,Cloudy,Banjara Hills,1,11,2.0
+14,Weekend,Rainy,Dilsukhnagar,0,8,1.66
+18,Weekday,Rainy,Banjara Hills,1,10,2.4
+2,Weekday,Sunny,Dilsukhnagar,0,3,1.35
+1,Weekend,Rainy,Hitech City,1,11,1.97
+4,Weekday,Sunny,Kukatpally,1,6,1.49
+4,Weekday,Cloudy,Madhapur,1,7,1.7
+18,Weekend,Cloudy,Dilsukhnagar,0,2,0.93
+23,Weekend,Cloudy,Banjara Hills,1,7,1.49
+7,Weekend,Rainy,Hitech City,0,9,2.06
+16,Weekday,Sunny,Madhapur,1,7,1.76
+22,Weekday,Sunny,Kukatpally,0,0,1.06
+5,Weekday,Sunny,Banjara Hills,0,5,1.31
+5,Weekday,Rainy,Hitech City,1,8,1.61
+15,Weekday,Cloudy,Dilsukhnagar,0,4,1.13
+3,Weekend,Rainy,Dilsukhnagar,1,9,2.19
+2,Weekend,Windy,Kukatpally,0,1,0.98
+16,Weekday,Sunny,Madhapur,0,4,1.26
+22,Weekday,Sunny,Dilsukhnagar,1,4,1.25
+18,Weekend,Rainy,Dilsukhnagar,1,9,2.47
+9,Weekday,Sunny,Dilsukhnagar,0,3,1.32
+15,Weekday,Sunny,Hitech City,0,3,1.28
+17,Weekday,Rainy,Banjara Hills,0,5,1.18
+8,Weekend,Windy,Madhapur,0,5,1.38
+16,Weekday,Sunny,Kukatpally,1,4,1.31
+21,Weekday,Sunny,Banjara Hills,0,6,1.79
+8,Weekday,Rainy,Banjara Hills,0,10,2.15
+4,Weekday,Rainy,Madhapur,0,4,1.37
+4,Weekday,Windy,Madhapur,0,4,1.18
+6,Weekday,Sunny,Madhapur,0,4,1.24
+11,Weekend,Sunny,Dilsukhnagar,0,2,1.05
+21,Weekday,Rainy,Dilsukhnagar,0,9,2.28
+21,Weekday,Windy,Madhapur,1,7,1.74
+5,Weekday,Sunny,Hitech City,1,6,1.74
+23,Weekend,Sunny,Dilsukhnagar,1,7,1.46
+18,Weekday,Rainy,Hitech City,1,11,1.81
+1,Weekend,Windy,Dilsukhnagar,1,7,1.74
+12,Weekend,Sunny,Kukatpally,0,7,1.77
+2,Weekend,Cloudy,Madhapur,0,5,1.27
+8,Weekend,Sunny,Kukatpally,1,9,2.49
+21,Weekend,Rainy,Banjara Hills,1,14,1.81
+20,Weekend,Rainy,Kukatpally,0,8,1.74
+12,Weekday,Windy,Hitech City,0,7,1.79
+8,Weekday,Windy,Banjara Hills,1,9,1.99
+4,Weekday,Sunny,Dilsukhnagar,1,3,1.32
+13,Weekday,Rainy,Madhapur,0,10,1.98
+6,Weekend,Rainy,Banjara Hills,1,12,2.48
+5,Weekend,Sunny,Madhapur,0,3,1.17
+6,Weekday,Rainy,Hitech City,0,7,1.74
+16,Weekend,Windy,Hitech City,1,8,1.55
+14,Weekend,Cloudy,Kukatpally,1,11,2.08
+22,Weekend,Cloudy,Banjara Hills,1,8,1.57
+18,Weekend,Cloudy,Kukatpally,1,8,1.78
+2,Weekend,Rainy,Madhapur,0,5,1.15
+9,Weekend,Sunny,Dilsukhnagar,0,5,1.38
+19,Weekend,Sunny,Madhapur,0,8,1.64
+10,Weekend,Windy,Kukatpally,1,9,1.93
+7,Weekday,Windy,Madhapur,0,2,0.97
+22,Weekday,Cloudy,Banjara Hills,1,6,1.77
+9,Weekday,Cloudy,Dilsukhnagar,0,4,1.34
+5,Weekend,Sunny,Madhapur,1,7,1.49
+1,Weekend,Windy,Banjara Hills,1,7,1.44
+21,Weekday,Sunny,Dilsukhnagar,0,6,1.78
+11,Weekday,Rainy,Hitech City,0,7,1.69
+14,Weekday,Cloudy,Madhapur,0,6,1.55
+21,Weekend,Rainy,Kukatpally,1,12,1.99
+21,Weekend,Sunny,Hitech City,1,10,2.25
+5,Weekday,Windy,Madhapur,0,2,1.08
+14,Weekend,Rainy,Dilsukhnagar,1,13,2.28
+13,Weekday,Rainy,Kukatpally,0,6,1.51
+1,Weekday,Cloudy,Banjara Hills,1,6,1.41
+11,Weekend,Sunny,Hitech City,0,4,1.25
+21,Weekday,Rainy,Hitech City,1,12,2.02
+21,Weekday,Sunny,Kukatpally,0,5,1.17
+18,Weekday,Rainy,Kukatpally,0,6,1.8
+1,Weekday,Sunny,Banjara Hills,1,7,1.54
+4,Weekend,Rainy,Hitech City,0,9,2.35
+11,Weekday,Cloudy,Dilsukhnagar,1,5,1.37
+4,Weekday,Rainy,Kukatpally,0,4,1.37
+19,Weekday,Sunny,Madhapur,1,10,2.28
+7,Weekend,Rainy,Banjara Hills,0,9,2.1
+16,Weekend,Sunny,Kukatpally,1,4,1.37
+17,Weekend,Sunny,Dilsukhnagar,0,4,1.28
+3,Weekday,Rainy,Kukatpally,0,3,1.1
+3,Weekday,Windy,Hitech City,1,6,1.76
+17,Weekday,Sunny,Kukatpally,1,5,1.26
+8,Weekend,Windy,Banjara Hills,1,11,2.33
+4,Weekday,Rainy,Banjara Hills,0,6,1.78
+22,Weekday,Sunny,Dilsukhnagar,1,5,1.4
+11,Weekday,Rainy,Banjara Hills,1,11,1.84
+5,Weekend,Rainy,Madhapur,0,8,1.5
+20,Weekend,Rainy,Hitech City,0,9,1.99
+21,Weekend,Cloudy,Hitech City,0,7,1.59
+10,Weekday,Cloudy,Hitech City,1,9,1.81
+21,Weekday,Rainy,Kukatpally,0,9,2.26
+16,Weekend,Windy,Banjara Hills,1,8,1.55
+10,Weekend,Windy,Hitech City,1,10,1.98
+2,Weekday,Sunny,Madhapur,0,4,1.39
+8,Weekday,Sunny,Dilsukhnagar,1,7,1.57
+0,Weekday,Windy,Dilsukhnagar,0,2,0.99
+15,Weekend,Rainy,Hitech City,1,9,2.37
+0,Weekend,Rainy,Kukatpally,0,4,1.12
+20,Weekend,Sunny,Banjara Hills,0,7,1.52
+6,Weekday,Windy,Dilsukhnagar,1,6,1.61
+20,Weekend,Windy,Hitech City,1,10,1.85
+13,Weekend,Windy,Banjara Hills,0,7,1.45
+20,Weekend,Sunny,Kukatpally,1,10,2.25
+13,Weekend,Rainy,Banjara Hills,1,13,1.88
+2,Weekend,Cloudy,Madhapur,0,3,1.39
+21,Weekend,Rainy,Banjara Hills,0,10,1.83
+3,Weekday,Cloudy,Hitech City,1,9,2.37
+8,Weekend,Windy,Madhapur,1,7,1.68
+0,Weekday,Windy,Dilsukhnagar,1,6,1.52
+17,Weekend,Windy,Kukatpally,1,7,1.64
+9,Weekday,Windy,Banjara Hills,1,9,2.1
+1,Weekend,Cloudy,Hitech City,0,7,1.5
+10,Weekday,Windy,Banjara Hills,0,7,1.79
+18,Weekend,Rainy,Kukatpally,1,7,1.44
+20,Weekend,Rainy,Dilsukhnagar,1,11,2.02
+1,Weekend,Windy,Hitech City,0,5,1.2
+5,Weekday,Windy,Kukatpally,0,3,1.19
+2,Weekend,Cloudy,Dilsukhnagar,1,8,1.54
+9,Weekend,Windy,Banjara Hills,1,10,2.33
+9,Weekday,Cloudy,Madhapur,0,6,1.64
+12,Weekday,Rainy,Madhapur,1,13,2.0
+18,Weekend,Windy,Madhapur,0,3,1.14
+1,Weekend,Windy,Banjara Hills,1,7,1.8
+21,Weekend,Sunny,Banjara Hills,0,6,1.79
+18,Weekend,Rainy,Hitech City,0,6,1.74
+1,Weekend,Cloudy,Madhapur,1,7,1.51
+22,Weekend,Cloudy,Madhapur,1,7,1.74
+4,Weekday,Rainy,Hitech City,0,7,1.51
+13,Weekend,Windy,Hitech City,0,7,1.63
+0,Weekday,Cloudy,Hitech City,0,3,1.16
+14,Weekend,Windy,Madhapur,1,9,2.03
+10,Weekend,Sunny,Dilsukhnagar,1,6,1.77
+19,Weekday,Sunny,Madhapur,1,9,1.93
+22,Weekend,Windy,Kukatpally,0,1,0.91
+17,Weekend,Sunny,Banjara Hills,1,7,1.48
+13,Weekday,Rainy,Hitech City,0,9,2.02
+9,Weekday,Cloudy,Kukatpally,0,3,1.11
+7,Weekend,Windy,Dilsukhnagar,1,4,1.11
+20,Weekend,Rainy,Dilsukhnagar,1,13,2.33
+1,Weekday,Sunny,Kukatpally,1,5,1.12
+8,Weekday,Sunny,Madhapur,0,5,1.12
+7,Weekend,Sunny,Banjara Hills,0,5,1.23
+10,Weekday,Windy,Madhapur,0,4,1.16
+16,Weekday,Rainy,Hitech City,0,5,1.14
+12,Weekday,Rainy,Banjara Hills,0,9,1.82
+6,Weekend,Windy,Kukatpally,1,4,1.32
+3,Weekend,Windy,Madhapur,0,5,1.36
+4,Weekend,Cloudy,Madhapur,0,3,1.15
+20,Weekend,Rainy,Hitech City,0,10,2.44
+23,Weekend,Windy,Banjara Hills,0,3,1.17
+22,Weekday,Sunny,Banjara Hills,1,8,1.43
+18,Weekday,Sunny,Kukatpally,0,1,1.03
+4,Weekend,Sunny,Madhapur,0,5,1.34
+23,Weekend,Cloudy,Dilsukhnagar,1,5,1.35
+15,Weekend,Cloudy,Madhapur,1,6,1.65
+19,Weekday,Cloudy,Hitech City,1,11,2.25
+7,Weekend,Rainy,Kukatpally,0,6,1.6
+2,Weekday,Rainy,Madhapur,0,6,1.55
+17,Weekend,Cloudy,Dilsukhnagar,0,3,1.25
+20,Weekday,Windy,Dilsukhnagar,0,4,1.13
+2,Weekday,Sunny,Hitech City,1,5,1.17
+11,Weekend,Sunny,Hitech City,1,6,1.75
+15,Weekend,Sunny,Banjara Hills,0,5,1.13
+19,Weekend,Cloudy,Banjara Hills,1,10,2.15
+5,Weekday,Rainy,Kukatpally,1,8,1.5
+17,Weekend,Rainy,Banjara Hills,0,8,1.74
+4,Weekday,Sunny,Kukatpally,0,3,1.3
+21,Weekend,Windy,Banjara Hills,0,6,1.68
+6,Weekday,Cloudy,Madhapur,1,8,1.75
+0,Weekend,Windy,Dilsukhnagar,1,4,1.18
+0,Weekday,Sunny,Madhapur,1,6,1.43
+10,Weekday,Windy,Kukatpally,1,6,1.56
+20,Weekday,Rainy,Dilsukhnagar,1,12,1.96
+5,Weekend,Windy,Kukatpally,1,5,1.15
+11,Weekday,Sunny,Kukatpally,0,3,1.2
+2,Weekday,Rainy,Hitech City,1,9,1.91
+9,Weekday,Sunny,Madhapur,1,7,1.42
+18,Weekend,Cloudy,Dilsukhnagar,1,6,1.57
+14,Weekday,Windy,Banjara Hills,1,9,1.83
+12,Weekday,Cloudy,Madhapur,0,7,1.44
+6,Weekday,Rainy,Dilsukhnagar,0,3,1.18
+17,Weekday,Rainy,Hitech City,0,6,1.74
+3,Weekday,Sunny,Madhapur,1,4,1.31
+17,Weekday,Windy,Dilsukhnagar,1,6,1.8
+9,Weekday,Sunny,Dilsukhnagar,0,4,1.18
+17,Weekday,Windy,Madhapur,1,5,1.35
+21,Weekday,Sunny,Kukatpally,0,6,1.58
+16,Weekend,Rainy,Madhapur,1,11,2.25
+9,Weekend,Cloudy,Hitech City,1,10,1.95
+21,Weekday,Sunny,Dilsukhnagar,0,6,1.72
+5,Weekday,Rainy,Banjara Hills,0,7,1.68
+1,Weekend,Rainy,Dilsukhnagar,1,8,1.72
+3,Weekend,Windy,Dilsukhnagar,0,1,0.99
+19,Weekend,Rainy,Kukatpally,1,10,2.26
+16,Weekday,Sunny,Dilsukhnagar,0,0,0.94
+13,Weekend,Windy,Hitech City,0,6,1.42
+11,Weekday,Rainy,Dilsukhnagar,1,7,1.62
+6,Weekday,Sunny,Madhapur,0,3,1.34
+8,Weekday,Rainy,Dilsukhnagar,0,7,1.62
+5,Weekend,Rainy,Dilsukhnagar,0,4,1.24
+17,Weekend,Rainy,Kukatpally,1,8,1.74
+5,Weekday,Windy,Banjara Hills,0,5,1.22
+23,Weekday,Cloudy,Hitech City,1,7,1.56
+3,Weekday,Windy,Dilsukhnagar,1,3,1.1
+2,Weekday,Rainy,Dilsukhnagar,0,4,1.37
+22,Weekday,Sunny,Dilsukhnagar,0,2,1.08
+14,Weekday,Windy,Madhapur,0,7,1.78
+15,Weekend,Windy,Hitech City,0,6,1.7
+23,Weekend,Rainy,Hitech City,0,8,1.5
+2,Weekday,Windy,Dilsukhnagar,1,6,1.45
+16,Weekday,Cloudy,Dilsukhnagar,1,5,1.26
+9,Weekend,Windy,Banjara Hills,0,6,1.68
+12,Weekend,Windy,Dilsukhnagar,1,8,1.64
+11,Weekday,Rainy,Madhapur,1,8,1.52
+16,Weekday,Cloudy,Madhapur,0,4,1.3
+20,Weekday,Windy,Madhapur,0,4,1.23
+20,Weekend,Rainy,Dilsukhnagar,1,13,2.21
+9,Weekday,Windy,Dilsukhnagar,1,8,1.41
+0,Weekend,Cloudy,Kukatpally,1,7,1.67
+18,Weekend,Windy,Madhapur,0,3,1.34
+16,Weekend,Sunny,Kukatpally,1,5,1.19
+14,Weekend,Rainy,Kukatpally,0,10,2.01
+18,Weekday,Cloudy,Madhapur,1,5,1.34
+5,Weekend,Sunny,Madhapur,0,2,1.07
+1,Weekday,Windy,Banjara Hills,1,5,1.22
+9,Weekday,Sunny,Dilsukhnagar,0,4,1.26
+8,Weekend,Sunny,Banjara Hills,0,6,1.75
+1,Weekend,Windy,Madhapur,0,5,1.18
+23,Weekday,Cloudy,Kukatpally,0,1,0.93
+14,Weekend,Sunny,Hitech City,0,7,1.42
+11,Weekend,Windy,Hitech City,1,7,1.41
+11,Weekend,Cloudy,Hitech City,1,8,1.73
+17,Weekend,Windy,Kukatpally,0,4,1.37
+0,Weekday,Windy,Banjara Hills,1,5,1.11
+20,Weekday,Windy,Madhapur,0,4,1.17
+9,Weekend,Cloudy,Banjara Hills,0,9,2.14
+21,Weekend,Windy,Dilsukhnagar,1,9,1.92
+1,Weekend,Rainy,Banjara Hills,0,8,1.76
+19,Weekend,Windy,Banjara Hills,1,12,2.34
+5,Weekday,Sunny,Dilsukhnagar,0,2,0.95
+20,Weekend,Windy,Hitech City,1,12,2.02
+12,Weekend,Cloudy,Madhapur,1,10,2.22
+10,Weekday,Sunny,Banjara Hills,0,6,1.4
+2,Weekday,Cloudy,Madhapur,1,6,1.44
+22,Weekday,Sunny,Banjara Hills,1,6,1.66
+2,Weekday,Windy,Banjara Hills,0,5,1.25
+13,Weekend,Rainy,Dilsukhnagar,1,12,2.3
+10,Weekend,Rainy,Banjara Hills,1,12,2.28
+11,Weekday,Cloudy,Hitech City,1,6,1.79
+10,Weekend,Cloudy,Dilsukhnagar,0,7,1.43
+10,Weekday,Sunny,Madhapur,1,6,1.5
+14,Weekend,Cloudy,Kukatpally,0,7,1.66
+11,Weekday,Cloudy,Kukatpally,1,4,1.35
+14,Weekday,Cloudy,Dilsukhnagar,1,10,1.94
+9,Weekday,Sunny,Madhapur,0,6,1.6
+0,Weekday,Rainy,Hitech City,0,8,1.43
+2,Weekday,Rainy,Dilsukhnagar,0,6,1.77
+16,Weekend,Rainy,Dilsukhnagar,0,6,1.72
+15,Weekend,Rainy,Hitech City,1,12,1.93
+21,Weekday,Cloudy,Banjara Hills,0,9,2.28
+13,Weekend,Rainy,Madhapur,0,11,2.37
+16,Weekday,Sunny,Dilsukhnagar,0,2,0.98
+15,Weekday,Cloudy,Madhapur,1,8,1.44
+15,Weekend,Windy,Banjara Hills,1,6,1.79
+7,Weekday,Windy,Banjara Hills,1,8,1.65
+13,Weekend,Cloudy,Hitech City,0,7,1.44
+17,Weekend,Windy,Banjara Hills,0,4,1.35
+21,Weekend,Rainy,Hitech City,0,12,2.26
+9,Weekend,Rainy,Madhapur,1,12,2.32
+16,Weekend,Windy,Dilsukhnagar,1,7,1.47
+11,Weekend,Cloudy,Dilsukhnagar,1,6,1.78
+23,Weekday,Sunny,Banjara Hills,0,2,0.99
+18,Weekend,Sunny,Banjara Hills,1,7,1.66
+14,Weekday,Windy,Hitech City,1,10,2.44
+8,Weekend,Sunny,Madhapur,0,7,1.6
+5,Weekend,Sunny,Hitech City,0,4,1.29
+6,Weekend,Windy,Dilsukhnagar,0,1,1.02
+19,Weekend,Sunny,Madhapur,1,8,1.76
+0,Weekday,Sunny,Kukatpally,1,3,1.21
+4,Weekend,Windy,Dilsukhnagar,0,2,1.06
+11,Weekday,Cloudy,Dilsukhnagar,0,4,1.39
+0,Weekend,Rainy,Banjara Hills,1,9,2.32
+3,Weekday,Rainy,Dilsukhnagar,0,3,1.17
+17,Weekday,Windy,Madhapur,0,3,1.2
+7,Weekend,Sunny,Dilsukhnagar,0,3,1.35
+3,Weekday,Sunny,Madhapur,1,4,1.36
+9,Weekday,Windy,Banjara Hills,1,7,1.76
+22,Weekend,Rainy,Kukatpally,1,8,1.77
+2,Weekday,Cloudy,Dilsukhnagar,1,5,1.16
+7,Weekday,Sunny,Madhapur,1,7,1.44
+20,Weekend,Windy,Banjara Hills,0,8,1.74
+12,Weekday,Windy,Dilsukhnagar,0,5,1.2
+3,Weekday,Windy,Madhapur,0,4,1.39
+19,Weekday,Rainy,Dilsukhnagar,0,9,2.14
+14,Weekday,Rainy,Dilsukhnagar,1,12,2.09
+10,Weekday,Cloudy,Banjara Hills,0,8,1.72
+8,Weekday,Windy,Hitech City,0,4,1.29
+22,Weekend,Cloudy,Banjara Hills,1,9,2.09
+8,Weekday,Cloudy,Hitech City,0,6,1.67
+17,Weekday,Rainy,Kukatpally,0,3,1.18
+15,Weekend,Rainy,Kukatpally,0,4,1.18
+8,Weekend,Windy,Hitech City,0,7,1.72
+0,Weekend,Sunny,Kukatpally,1,7,1.5
+21,Weekday,Rainy,Banjara Hills,1,14,2.34
+10,Weekend,Sunny,Banjara Hills,1,11,1.9
+15,Weekday,Windy,Madhapur,0,1,1.03
+13,Weekday,Sunny,Kukatpally,1,6,1.48
+6,Weekday,Windy,Banjara Hills,1,8,1.66
+11,Weekday,Rainy,Banjara Hills,1,10,2.33
+14,Weekday,Cloudy,Hitech City,0,6,1.64
+19,Weekday,Cloudy,Banjara Hills,1,9,1.93
+4,Weekend,Rainy,Madhapur,1,9,2.48
+8,Weekday,Rainy,Banjara Hills,0,7,1.69
+11,Weekend,Windy,Banjara Hills,0,5,1.33
+2,Weekday,Sunny,Kukatpally,1,3,1.27
+5,Weekend,Cloudy,Banjara Hills,0,4,1.29
+22,Weekend,Sunny,Banjara Hills,0,5,1.26
+14,Weekday,Windy,Banjara Hills,1,10,2.41
+18,Weekend,Rainy,Banjara Hills,0,8,1.43
+15,Weekend,Rainy,Banjara Hills,1,9,1.99
+22,Weekday,Rainy,Kukatpally,0,3,1.26
+19,Weekday,Sunny,Banjara Hills,1,11,2.17
+3,Weekend,Rainy,Hitech City,1,9,1.9
+12,Weekend,Rainy,Hitech City,0,9,1.82
+10,Weekday,Windy,Kukatpally,0,2,1.01
+6,Weekend,Sunny,Hitech City,1,9,2.13
+10,Weekday,Sunny,Hitech City,1,8,1.45
+18,Weekday,Sunny,Kukatpally,0,3,1.13
+1,Weekend,Rainy,Banjara Hills,0,6,1.48
+12,Weekday,Windy,Hitech City,1,11,1.9
+3,Weekday,Cloudy,Madhapur,1,8,1.72
+15,Weekday,Rainy,Dilsukhnagar,0,6,1.73
+14,Weekend,Cloudy,Banjara Hills,1,10,2.49
+4,Weekday,Cloudy,Madhapur,0,3,1.21
+2,Weekend,Sunny,Banjara Hills,1,7,1.49
+18,Weekend,Sunny,Banjara Hills,0,5,1.19
+14,Weekend,Rainy,Kukatpally,0,8,1.67
+13,Weekend,Cloudy,Hitech City,0,8,1.59
+2,Weekend,Cloudy,Dilsukhnagar,0,3,1.18
+11,Weekend,Cloudy,Hitech City,1,7,1.45
+3,Weekday,Cloudy,Dilsukhnagar,0,2,1.06
+17,Weekend,Cloudy,Dilsukhnagar,1,7,1.59
+13,Weekend,Rainy,Banjara Hills,1,15,2.5
+0,Weekend,Cloudy,Kukatpally,1,5,1.25
+7,Weekend,Sunny,Dilsukhnagar,0,1,1.0
+19,Weekday,Sunny,Kukatpally,1,6,1.42
+18,Weekday,Windy,Dilsukhnagar,0,1,1.06
+7,Weekend,Cloudy,Dilsukhnagar,1,7,1.58
+1,Weekday,Sunny,Banjara Hills,1,7,1.51
+5,Weekday,Sunny,Banjara Hills,0,3,1.16
+23,Weekend,Rainy,Hitech City,1,11,1.8
+6,Weekday,Sunny,Hitech City,0,2,1.01
+12,Weekday,Cloudy,Kukatpally,1,8,1.64
+19,Weekday,Sunny,Dilsukhnagar,0,3,1.18
+12,Weekday,Sunny,Dilsukhnagar,0,6,1.63
+23,Weekday,Rainy,Banjara Hills,1,9,2.45
+23,Weekend,Sunny,Kukatpally,0,3,1.19
+2,Weekend,Windy,Madhapur,1,6,1.42
+0,Weekend,Rainy,Banjara Hills,1,9,2.42
+23,Weekday,Windy,Hitech City,0,2,0.96
+21,Weekend,Cloudy,Madhapur,0,8,1.46
+0,Weekday,Cloudy,Hitech City,0,5,1.16
+7,Weekend,Windy,Kukatpally,0,4,1.2
+18,Weekend,Cloudy,Dilsukhnagar,1,8,1.57
+4,Weekday,Sunny,Hitech City,0,4,1.36
+23,Weekday,Rainy,Dilsukhnagar,0,4,1.38
+20,Weekday,Windy,Dilsukhnagar,1,6,1.46
+12,Weekday,Sunny,Dilsukhnagar,1,6,1.6
+22,Weekend,Rainy,Kukatpally,0,6,1.65
+6,Weekend,Cloudy,Banjara Hills,0,6,1.8
+0,Weekday,Cloudy,Hitech City,0,3,1.4
+17,Weekday,Cloudy,Hitech City,0,6,1.78
+20,Weekday,Cloudy,Madhapur,0,7,1.67
+12,Weekday,Sunny,Hitech City,1,9,1.95
+8,Weekend,Windy,Hitech City,0,5,1.14
+7,Weekday,Windy,Hitech City,0,2,1.04
+23,Weekday,Rainy,Banjara Hills,1,8,1.54
+4,Weekday,Cloudy,Dilsukhnagar,1,4,1.25
+13,Weekend,Cloudy,Banjara Hills,1,12,2.07
+1,Weekend,Rainy,Banjara Hills,1,12,2.49
+20,Weekend,Windy,Hitech City,0,6,1.53
+0,Weekend,Windy,Banjara Hills,1,9,2.39
+8,Weekday,Cloudy,Dilsukhnagar,1,6,1.6
+13,Weekday,Rainy,Madhapur,0,8,1.73
+21,Weekday,Windy,Kukatpally,0,6,1.74
+22,Weekend,Cloudy,Kukatpally,0,3,1.18
+2,Weekend,Windy,Dilsukhnagar,1,6,1.72
+9,Weekend,Windy,Hitech City,0,5,1.29
+11,Weekday,Sunny,Kukatpally,0,2,1.0
+15,Weekend,Rainy,Banjara Hills,0,8,1.75
+6,Weekend,Sunny,Madhapur,1,8,1.62
+3,Weekday,Sunny,Madhapur,1,6,1.64
+11,Weekday,Cloudy,Madhapur,0,2,1.09
+21,Weekend,Cloudy,Hitech City,0,7,1.67
+19,Weekend,Rainy,Dilsukhnagar,0,8,1.59
+0,Weekend,Rainy,Madhapur,0,7,1.67
+9,Weekday,Sunny,Dilsukhnagar,1,8,1.61
+12,Weekend,Cloudy,Hitech City,1,10,2.37
+1,Weekday,Sunny,Banjara Hills,1,7,1.48
+23,Weekend,Sunny,Banjara Hills,0,3,1.14
+12,Weekday,Cloudy,Dilsukhnagar,1,7,1.73
+7,Weekend,Rainy,Hitech City,1,9,2.49
+6,Weekday,Sunny,Banjara Hills,0,5,1.27
+18,Weekday,Sunny,Hitech City,1,5,1.38
+6,Weekend,Windy,Hitech City,0,3,1.33
+15,Weekday,Windy,Dilsukhnagar,1,3,1.33
+3,Weekend,Rainy,Madhapur,0,7,1.44
+20,Weekend,Windy,Dilsukhnagar,1,9,2.44
+20,Weekday,Sunny,Banjara Hills,1,10,1.96
+16,Weekday,Sunny,Hitech City,1,6,1.62
+21,Weekend,Sunny,Kukatpally,0,7,1.64
+1,Weekday,Windy,Hitech City,1,5,1.23
+17,Weekday,Windy,Banjara Hills,0,3,1.3
+18,Weekend,Cloudy,Kukatpally,1,5,1.26
+15,Weekend,Rainy,Hitech City,1,12,2.19
+3,Weekday,Rainy,Madhapur,0,6,1.71
+14,Weekday,Sunny,Banjara Hills,1,10,1.94
+4,Weekday,Windy,Banjara Hills,0,2,0.98
+1,Weekend,Windy,Dilsukhnagar,1,7,1.5
+21,Weekend,Sunny,Kukatpally,1,9,1.85
+19,Weekday,Rainy,Dilsukhnagar,1,10,1.86
+1,Weekday,Windy,Madhapur,0,4,1.12
+15,Weekday,Rainy,Banjara Hills,1,8,1.79
+20,Weekend,Rainy,Madhapur,0,8,1.65
+7,Weekday,Cloudy,Dilsukhnagar,1,4,1.17
+0,Weekend,Sunny,Kukatpally,0,1,0.96
+7,Weekday,Rainy,Hitech City,1,8,1.55
+23,Weekend,Windy,Madhapur,1,6,1.49
+19,Weekend,Rainy,Madhapur,0,8,1.4
+0,Weekday,Cloudy,Kukatpally,1,6,1.71
+4,Weekend,Windy,Hitech City,1,9,1.97
+10,Weekend,Sunny,Banjara Hills,0,8,1.76
+10,Weekday,Rainy,Banjara Hills,1,13,2.15
+10,Weekend,Cloudy,Banjara Hills,1,9,2.33
+19,Weekend,Rainy,Banjara Hills,1,12,1.91
+9,Weekend,Cloudy,Madhapur,1,11,2.13
+1,Weekend,Sunny,Kukatpally,0,1,0.99
+1,Weekend,Sunny,Madhapur,1,7,1.7
+15,Weekday,Windy,Hitech City,0,2,1.0
+9,Weekday,Sunny,Banjara Hills,1,9,2.37
+9,Weekend,Windy,Banjara Hills,1,8,1.46
+5,Weekend,Cloudy,Kukatpally,1,6,1.76
+5,Weekend,Sunny,Kukatpally,1,7,1.5
+0,Weekend,Windy,Banjara Hills,0,6,1.78
+22,Weekday,Cloudy,Banjara Hills,1,9,2.09
+4,Weekend,Rainy,Banjara Hills,1,12,2.23
+13,Weekday,Cloudy,Dilsukhnagar,1,8,1.47
+22,Weekend,Cloudy,Banjara Hills,1,7,1.54
+0,Weekday,Windy,Banjara Hills,1,5,1.39
+10,Weekend,Windy,Madhapur,0,6,1.48
+20,Weekend,Windy,Kukatpally,0,7,1.6
+14,Weekend,Cloudy,Madhapur,1,10,2.11
+2,Weekday,Rainy,Dilsukhnagar,1,7,1.74
+15,Weekday,Windy,Banjara Hills,1,6,1.47
+22,Weekday,Rainy,Banjara Hills,1,8,1.44
+2,Weekend,Cloudy,Kukatpally,1,5,1.39
+3,Weekend,Rainy,Hitech City,1,10,2.23
+17,Weekend,Sunny,Madhapur,1,8,1.63
+7,Weekday,Cloudy,Banjara Hills,0,6,1.78
+0,Weekday,Rainy,Banjara Hills,0,6,1.7
+18,Weekday,Sunny,Madhapur,0,4,1.18
+2,Weekday,Windy,Dilsukhnagar,0,0,0.99
+0,Weekday,Sunny,Kukatpally,0,3,1.37
+1,Weekend,Sunny,Hitech City,1,7,1.48
+13,Weekend,Rainy,Madhapur,1,14,2.2
+3,Weekend,Rainy,Dilsukhnagar,1,10,2.1
+7,Weekday,Rainy,Dilsukhnagar,0,6,1.7
+10,Weekend,Sunny,Banjara Hills,1,10,1.88
+19,Weekday,Rainy,Banjara Hills,1,12,2.49
+15,Weekday,Sunny,Banjara Hills,0,5,1.17
+20,Weekday,Cloudy,Dilsukhnagar,1,7,1.45
+13,Weekend,Windy,Kukatpally,1,8,1.58
+5,Weekend,Cloudy,Banjara Hills,1,9,2.24
+20,Weekend,Sunny,Kukatpally,0,7,1.52
+0,Weekend,Windy,Madhapur,1,5,1.15
+17,Weekday,Sunny,Dilsukhnagar,0,0,0.93
+2,Weekend,Cloudy,Banjara Hills,0,6,1.5
+18,Weekday,Rainy,Banjara Hills,0,7,1.78
+7,Weekday,Rainy,Hitech City,0,6,1.54
+1,Weekday,Cloudy,Madhapur,1,5,1.13
+23,Weekday,Cloudy,Madhapur,1,5,1.17
+12,Weekend,Rainy,Dilsukhnagar,0,8,1.48
+5,Weekend,Rainy,Kukatpally,0,7,1.45
+17,Weekday,Cloudy,Dilsukhnagar,0,1,0.93
+8,Weekend,Sunny,Banjara Hills,0,8,1.71
+19,Weekend,Cloudy,Dilsukhnagar,0,5,1.14
+7,Weekend,Windy,Banjara Hills,0,6,1.58
+18,Weekend,Cloudy,Banjara Hills,0,4,1.22
+19,Weekend,Sunny,Dilsukhnagar,0,7,1.54
+3,Weekday,Rainy,Kukatpally,1,6,1.68
+3,Weekend,Cloudy,Banjara Hills,1,8,1.78
+8,Weekend,Cloudy,Banjara Hills,1,11,2.07
+4,Weekday,Windy,Hitech City,1,6,1.41
+18,Weekday,Cloudy,Madhapur,0,4,1.12
+5,Weekday,Sunny,Madhapur,0,3,1.21
+10,Weekday,Cloudy,Banjara Hills,0,5,1.27
+3,Weekend,Rainy,Hitech City,1,12,2.44
+14,Weekday,Cloudy,Kukatpally,0,6,1.68
+8,Weekday,Rainy,Hitech City,0,9,2.24
+21,Weekend,Sunny,Dilsukhnagar,0,4,1.19
+17,Weekend,Windy,Hitech City,1,9,2.24
+18,Weekday,Rainy,Banjara Hills,0,8,1.54
+11,Weekday,Rainy,Madhapur,1,9,2.47
+8,Weekday,Cloudy,Dilsukhnagar,1,7,1.73
+17,Weekday,Cloudy,Kukatpally,1,5,1.22
+5,Weekday,Cloudy,Kukatpally,1,5,1.3
+5,Weekend,Cloudy,Banjara Hills,1,9,1.86
+18,Weekend,Rainy,Dilsukhnagar,0,5,1.16
+11,Weekday,Sunny,Dilsukhnagar,0,2,1.05
+21,Weekend,Rainy,Madhapur,1,12,2.19
+6,Weekend,Rainy,Hitech City,0,7,1.72
+7,Weekend,Sunny,Madhapur,0,2,1.06
+19,Weekend,Windy,Banjara Hills,1,9,1.89
+12,Weekday,Cloudy,Madhapur,0,7,1.57
+5,Weekday,Windy,Madhapur,0,1,1.04
+19,Weekday,Sunny,Hitech City,0,6,1.55
+6,Weekday,Rainy,Banjara Hills,1,11,1.87
+18,Weekday,Windy,Hitech City,0,5,1.39
+16,Weekday,Windy,Kukatpally,0,2,0.98
+12,Weekday,Windy,Hitech City,1,11,2.41
+12,Weekend,Rainy,Dilsukhnagar,1,10,1.81
+10,Weekday,Windy,Banjara Hills,0,6,1.57
+14,Weekend,Rainy,Banjara Hills,0,10,2.49
+6,Weekend,Sunny,Hitech City,1,8,1.69
+13,Weekend,Rainy,Banjara Hills,0,12,2.04
+9,Weekday,Rainy,Kukatpally,0,8,1.59
+12,Weekend,Windy,Kukatpally,0,7,1.74
+6,Weekend,Cloudy,Banjara Hills,0,6,1.75
+2,Weekend,Cloudy,Madhapur,0,6,1.41
+2,Weekend,Rainy,Banjara Hills,1,10,1.83
+5,Weekend,Rainy,Kukatpally,1,9,2.34
+2,Weekend,Rainy,Banjara Hills,1,11,2.1
+10,Weekday,Windy,Dilsukhnagar,1,8,1.63
+0,Weekday,Cloudy,Madhapur,1,6,1.55
+4,Weekend,Sunny,Madhapur,1,6,1.48
+13,Weekend,Sunny,Hitech City,0,8,1.49
+10,Weekend,Windy,Madhapur,0,4,1.22
+8,Weekday,Cloudy,Dilsukhnagar,0,3,1.27
+7,Weekend,Sunny,Madhapur,1,5,1.19
+20,Weekend,Sunny,Madhapur,0,8,1.6
+16,Weekend,Cloudy,Banjara Hills,1,7,1.56
+12,Weekday,Windy,Madhapur,1,9,2.43
+14,Weekday,Windy,Banjara Hills,1,8,1.55
+9,Weekday,Cloudy,Dilsukhnagar,0,3,1.14
+15,Weekday,Sunny,Hitech City,1,7,1.42
+14,Weekend,Sunny,Madhapur,0,7,1.56
+13,Weekday,Cloudy,Hitech City,0,7,1.58
+13,Weekday,Rainy,Hitech City,1,14,2.25
+21,Weekday,Sunny,Kukatpally,1,6,1.62
+4,Weekday,Rainy,Kukatpally,1,9,2.44
+20,Weekend,Sunny,Dilsukhnagar,0,7,1.6
+16,Weekend,Cloudy,Banjara Hills,1,7,1.55
+6,Weekend,Rainy,Madhapur,0,8,1.79
+0,Weekend,Cloudy,Hitech City,1,8,1.46
+3,Weekend,Sunny,Madhapur,1,5,1.26
+12,Weekend,Sunny,Kukatpally,1,8,1.47
+1,Weekday,Windy,Banjara Hills,0,5,1.16
+18,Weekday,Sunny,Dilsukhnagar,0,3,1.14
+4,Weekend,Cloudy,Banjara Hills,0,7,1.44
+23,Weekday,Windy,Madhapur,1,5,1.22
+9,Weekday,Sunny,Banjara Hills,0,4,1.3
+7,Weekend,Cloudy,Dilsukhnagar,0,2,0.96
+18,Weekend,Windy,Hitech City,1,7,1.43
+10,Weekend,Rainy,Hitech City,1,13,2.5
+16,Weekday,Cloudy,Banjara Hills,1,7,1.72
+22,Weekday,Sunny,Kukatpally,0,3,1.24
+0,Weekend,Windy,Madhapur,0,2,0.97
+20,Weekday,Sunny,Kukatpally,1,7,1.76
+20,Weekday,Cloudy,Hitech City,0,9,2.34
+3,Weekend,Sunny,Dilsukhnagar,0,4,1.29
+1,Weekend,Sunny,Banjara Hills,0,3,1.26
+2,Weekend,Rainy,Kukatpally,0,5,1.28
+13,Weekday,Cloudy,Madhapur,1,8,1.66
+0,Weekend,Rainy,Dilsukhnagar,1,8,1.66
+14,Weekend,Sunny,Hitech City,1,9,2.1
+18,Weekday,Windy,Hitech City,0,5,1.22
+4,Weekday,Sunny,Dilsukhnagar,0,0,0.95
+3,Weekend,Sunny,Banjara Hills,1,7,1.67
+8,Weekend,Cloudy,Banjara Hills,1,12,2.24
+5,Weekend,Cloudy,Dilsukhnagar,1,5,1.12
+0,Weekend,Rainy,Madhapur,0,7,1.49
+19,Weekday,Sunny,Banjara Hills,0,8,1.55
+0,Weekday,Cloudy,Dilsukhnagar,1,7,1.73
+22,Weekday,Rainy,Dilsukhnagar,1,9,1.8
+9,Weekday,Windy,Madhapur,0,5,1.11
+11,Weekday,Windy,Madhapur,0,4,1.34
+8,Weekday,Rainy,Kukatpally,1,9,1.88
+22,Weekend,Windy,Banjara Hills,1,8,1.78
+12,Weekend,Rainy,Banjara Hills,0,10,2.1
+12,Weekend,Windy,Dilsukhnagar,1,9,2.21
+4,Weekend,Cloudy,Dilsukhnagar,1,6,1.45
+1,Weekend,Rainy,Dilsukhnagar,1,8,1.47
+13,Weekday,Sunny,Kukatpally,1,9,1.85
+14,Weekend,Rainy,Banjara Hills,1,15,2.23
+18,Weekday,Rainy,Banjara Hills,1,11,2.41
+12,Weekend,Windy,Kukatpally,0,6,1.77
+13,Weekday,Cloudy,Hitech City,0,8,1.61
+1,Weekend,Rainy,Hitech City,1,10,2.22
+23,Weekday,Sunny,Banjara Hills,0,5,1.1
+0,Weekday,Cloudy,Madhapur,0,5,1.38
+4,Weekday,Cloudy,Banjara Hills,0,5,1.32
+18,Weekday,Rainy,Madhapur,0,4,1.16
+18,Weekend,Cloudy,Banjara Hills,1,8,1.41
+19,Weekend,Cloudy,Kukatpally,1,9,2.32
+21,Weekday,Cloudy,Hitech City,1,10,1.84
+5,Weekday,Cloudy,Banjara Hills,0,6,1.8
+13,Weekday,Cloudy,Dilsukhnagar,1,8,1.77
+18,Weekday,Cloudy,Kukatpally,0,1,0.92
+21,Weekend,Rainy,Hitech City,1,15,2.09
+16,Weekend,Cloudy,Kukatpally,0,4,1.35
+0,Weekend,Rainy,Madhapur,1,10,1.88
+5,Weekend,Rainy,Hitech City,0,9,2.26
+10,Weekend,Sunny,Hitech City,0,8,1.6
+6,Weekday,Sunny,Kukatpally,1,3,1.17
+2,Weekday,Sunny,Banjara Hills,1,5,1.28
+16,Weekend,Rainy,Banjara Hills,1,9,1.93
+23,Weekday,Cloudy,Madhapur,1,8,1.51
+19,Weekday,Cloudy,Kukatpally,1,7,1.58
+17,Weekend,Rainy,Banjara Hills,1,9,2.45
+0,Weekend,Windy,Madhapur,0,2,1.06
+20,Weekday,Cloudy,Hitech City,1,10,2.47
+5,Weekend,Sunny,Madhapur,1,8,1.48
+8,Weekday,Sunny,Dilsukhnagar,1,5,1.2
+17,Weekday,Sunny,Madhapur,1,6,1.51
+19,Weekend,Cloudy,Banjara Hills,0,10,1.83
+15,Weekend,Sunny,Hitech City,1,6,1.64
+0,Weekend,Cloudy,Madhapur,0,5,1.4
+7,Weekday,Rainy,Hitech City,0,6,1.64
+12,Weekday,Sunny,Banjara Hills,1,11,2.28
+8,Weekday,Windy,Dilsukhnagar,0,3,1.22
+5,Weekend,Sunny,Kukatpally,1,7,1.68
+6,Weekday,Rainy,Madhapur,1,8,1.48
+6,Weekend,Cloudy,Madhapur,0,3,1.33
+13,Weekend,Sunny,Dilsukhnagar,1,7,1.64
+1,Weekday,Sunny,Dilsukhnagar,1,4,1.12
+6,Weekday,Windy,Kukatpally,0,0,0.97
+8,Weekend,Sunny,Madhapur,0,7,1.5
+21,Weekday,Sunny,Dilsukhnagar,1,6,1.52
+14,Weekday,Rainy,Hitech City,1,12,2.22
+15,Weekday,Windy,Kukatpally,1,5,1.31
+9,Weekend,Sunny,Dilsukhnagar,0,4,1.12
+2,Weekend,Windy,Hitech City,1,7,1.63
+13,Weekend,Windy,Kukatpally,0,7,1.47
+10,Weekend,Sunny,Madhapur,0,4,1.14
+12,Weekday,Cloudy,Hitech City,0,8,1.59
+17,Weekend,Sunny,Banjara Hills,1,9,1.83
+1,Weekend,Rainy,Hitech City,1,12,1.97
+0,Weekend,Sunny,Banjara Hills,0,6,1.51
+0,Weekday,Sunny,Banjara Hills,0,2,1.1
+1,Weekday,Sunny,Banjara Hills,1,6,1.41
+8,Weekend,Rainy,Banjara Hills,1,13,2.2
+22,Weekend,Rainy,Hitech City,0,9,1.83
+19,Weekend,Sunny,Banjara Hills,1,11,2.44
+15,Weekend,Cloudy,Madhapur,1,7,1.42
+9,Weekend,Cloudy,Madhapur,0,5,1.14
+0,Weekday,Windy,Madhapur,1,5,1.19
+9,Weekend,Windy,Kukatpally,0,4,1.28
+21,Weekend,Rainy,Hitech City,1,15,1.84
+22,Weekend,Windy,Hitech City,0,6,1.44
+13,Weekday,Cloudy,Dilsukhnagar,1,7,1.58
+9,Weekend,Rainy,Kukatpally,1,9,1.89
+11,Weekday,Cloudy,Dilsukhnagar,1,4,1.12
+6,Weekday,Sunny,Kukatpally,0,0,0.98
+3,Weekend,Windy,Hitech City,1,9,2.2
+11,Weekday,Rainy,Madhapur,1,7,1.48
+18,Weekend,Cloudy,Kukatpally,1,5,1.31
+8,Weekend,Rainy,Hitech City,1,14,2.21
+10,Weekend,Sunny,Dilsukhnagar,0,6,1.57
+23,Weekend,Windy,Dilsukhnagar,0,4,1.2
+3,Weekday,Rainy,Madhapur,1,9,2.24
+17,Weekend,Windy,Dilsukhnagar,0,3,1.31
+1,Weekday,Rainy,Kukatpally,1,6,1.62
+7,Weekday,Sunny,Dilsukhnagar,0,1,0.91
+11,Weekend,Windy,Banjara Hills,0,4,1.36
+4,Weekend,Rainy,Banjara Hills,0,9,2.0
+1,Weekday,Rainy,Madhapur,0,5,1.34
+14,Weekend,Rainy,Madhapur,0,11,2.13
+7,Weekday,Rainy,Dilsukhnagar,1,7,1.42
+7,Weekday,Sunny,Dilsukhnagar,0,2,1.04
+0,Weekday,Windy,Dilsukhnagar,0,1,1.05
+5,Weekend,Cloudy,Banjara Hills,0,6,1.6
+2,Weekday,Sunny,Kukatpally,1,5,1.36
+10,Weekend,Cloudy,Banjara Hills,1,9,2.44
+14,Weekend,Windy,Dilsukhnagar,0,5,1.27
+7,Weekday,Sunny,Hitech City,1,7,1.79
+6,Weekday,Rainy,Kukatpally,0,4,1.25
+14,Weekend,Rainy,Banjara Hills,0,12,2.42
+16,Weekday,Windy,Kukatpally,1,6,1.41
+14,Weekday,Rainy,Dilsukhnagar,1,9,1.97
+1,Weekend,Cloudy,Banjara Hills,1,8,1.65
+2,Weekday,Windy,Madhapur,0,2,1.08
+8,Weekday,Windy,Kukatpally,1,6,1.57
+13,Weekday,Cloudy,Dilsukhnagar,0,7,1.73
+0,Weekday,Rainy,Kukatpally,0,5,1.29
+12,Weekend,Windy,Hitech City,1,12,1.99
+19,Weekend,Rainy,Hitech City,0,12,2.32
+17,Weekend,Sunny,Madhapur,1,5,1.28
+19,Weekend,Cloudy,Hitech City,1,11,1.9
+13,Weekend,Cloudy,Banjara Hills,0,8,1.7
+18,Weekend,Windy,Hitech City,0,3,1.15
+17,Weekday,Sunny,Madhapur,1,6,1.49
+0,Weekday,Sunny,Banjara Hills,1,8,1.7
+5,Weekday,Rainy,Dilsukhnagar,1,9,2.01
+20,Weekday,Cloudy,Kukatpally,1,10,1.84
+16,Weekday,Rainy,Banjara Hills,1,11,1.84
+21,Weekend,Sunny,Kukatpally,0,7,1.68
+23,Weekday,Cloudy,Dilsukhnagar,1,7,1.52
+23,Weekend,Windy,Hitech City,1,9,2.28
+19,Weekend,Windy,Banjara Hills,0,6,1.74
+14,Weekday,Rainy,Kukatpally,0,6,1.74
+1,Weekday,Windy,Hitech City,1,8,1.45
+3,Weekend,Cloudy,Madhapur,1,9,2.28
+13,Weekend,Cloudy,Kukatpally,1,10,2.03
+11,Weekend,Cloudy,Hitech City,0,6,1.59
+8,Weekday,Sunny,Hitech City,1,10,2.04
+13,Weekday,Cloudy,Hitech City,1,9,2.09
+11,Weekend,Cloudy,Hitech City,0,5,1.37
+9,Weekend,Sunny,Dilsukhnagar,1,8,1.4
+6,Weekday,Windy,Dilsukhnagar,1,3,1.25
+7,Weekend,Windy,Hitech City,0,6,1.41
+7,Weekend,Rainy,Hitech City,1,11,1.91
+6,Weekend,Sunny,Banjara Hills,0,5,1.32
+17,Weekday,Sunny,Dilsukhnagar,1,3,1.16
+21,Weekday,Windy,Hitech City,1,11,2.41
+18,Weekend,Rainy,Madhapur,1,9,2.19
+3,Weekday,Cloudy,Kukatpally,1,4,1.19
+1,Weekend,Rainy,Madhapur,1,11,2.01
+16,Weekday,Cloudy,Kukatpally,0,3,1.3
+10,Weekday,Rainy,Kukatpally,0,6,1.69
+8,Weekend,Rainy,Hitech City,0,8,1.54
+16,Weekday,Cloudy,Dilsukhnagar,1,4,1.24
+9,Weekday,Sunny,Banjara Hills,0,7,1.67
+15,Weekend,Windy,Kukatpally,1,6,1.78
+3,Weekend,Sunny,Dilsukhnagar,1,6,1.8
+21,Weekday,Rainy,Hitech City,0,10,2.35
+16,Weekend,Cloudy,Hitech City,1,8,1.5
+7,Weekday,Windy,Hitech City,1,8,1.69
+8,Weekday,Windy,Kukatpally,1,7,1.77
+6,Weekday,Windy,Banjara Hills,0,5,1.22
+18,Weekday,Sunny,Madhapur,0,1,0.99
+16,Weekday,Cloudy,Banjara Hills,1,8,1.73
+18,Weekend,Windy,Dilsukhnagar,0,4,1.38
+7,Weekday,Windy,Banjara Hills,0,5,1.14
+19,Weekday,Rainy,Banjara Hills,0,11,2.28
+18,Weekday,Sunny,Kukatpally,1,5,1.36
+22,Weekend,Sunny,Dilsukhnagar,1,7,1.79
+18,Weekend,Cloudy,Hitech City,1,10,2.15
+10,Weekday,Sunny,Dilsukhnagar,0,5,1.32
+14,Weekday,Cloudy,Dilsukhnagar,0,6,1.6
+1,Weekend,Cloudy,Dilsukhnagar,1,6,1.56
+17,Weekday,Cloudy,Dilsukhnagar,1,7,1.48
+0,Weekday,Sunny,Kukatpally,1,3,1.15
+18,Weekend,Sunny,Banjara Hills,0,3,1.29
+10,Weekday,Sunny,Banjara Hills,1,7,1.6
+4,Weekday,Windy,Hitech City,1,8,1.69
+19,Weekday,Sunny,Hitech City,1,9,1.95
+4,Weekday,Windy,Dilsukhnagar,0,1,0.95
+22,Weekend,Cloudy,Dilsukhnagar,1,5,1.17
+10,Weekday,Windy,Kukatpally,1,8,1.6
+13,Weekday,Rainy,Madhapur,1,13,1.81
+15,Weekend,Rainy,Hitech City,0,7,1.44
+10,Weekend,Sunny,Madhapur,1,7,1.54
+20,Weekday,Windy,Dilsukhnagar,0,5,1.31
+8,Weekend,Sunny,Madhapur,1,8,1.44
+2,Weekend,Sunny,Madhapur,1,5,1.3
+22,Weekday,Rainy,Banjara Hills,1,8,1.48
+17,Weekend,Sunny,Madhapur,1,5,1.32
+18,Weekend,Windy,Dilsukhnagar,1,4,1.36
+4,Weekday,Cloudy,Madhapur,1,8,1.6
+8,Weekend,Windy,Dilsukhnagar,1,6,1.77
+7,Weekend,Windy,Madhapur,0,2,0.99
+4,Weekend,Windy,Banjara Hills,1,7,1.75
+11,Weekend,Cloudy,Kukatpally,0,3,1.3
+7,Weekday,Windy,Dilsukhnagar,0,0,0.93
+2,Weekend,Cloudy,Madhapur,0,4,1.17
+9,Weekday,Windy,Madhapur,0,5,1.29
+8,Weekday,Windy,Kukatpally,0,5,1.37
+9,Weekend,Windy,Kukatpally,1,9,1.92
+3,Weekend,Cloudy,Dilsukhnagar,1,5,1.38
+15,Weekend,Sunny,Kukatpally,0,4,1.1
+0,Weekday,Rainy,Hitech City,0,8,1.63
+2,Weekend,Sunny,Banjara Hills,1,8,1.67
+12,Weekday,Cloudy,Dilsukhnagar,0,7,1.72
+9,Weekday,Rainy,Dilsukhnagar,0,8,1.52
+20,Weekday,Rainy,Hitech City,0,11,2.47
+20,Weekend,Sunny,Dilsukhnagar,1,8,1.45
+6,Weekend,Windy,Kukatpally,1,4,1.28
+12,Weekend,Windy,Kukatpally,0,4,1.14
+10,Weekend,Rainy,Madhapur,0,7,1.45
+4,Weekday,Rainy,Madhapur,0,4,1.37
+6,Weekend,Windy,Dilsukhnagar,0,4,1.25
+19,Weekday,Sunny,Kukatpally,1,6,1.53
+20,Weekend,Cloudy,Kukatpally,0,7,1.52
+19,Weekday,Rainy,Banjara Hills,1,11,2.12
+12,Weekend,Windy,Madhapur,0,8,1.73
+3,Weekend,Rainy,Kukatpally,0,7,1.49
+18,Weekend,Windy,Dilsukhnagar,1,6,1.63
+5,Weekday,Windy,Kukatpally,1,5,1.34
+9,Weekday,Sunny,Banjara Hills,1,7,1.79
+23,Weekend,Cloudy,Hitech City,0,6,1.71
+21,Weekend,Windy,Kukatpally,0,5,1.26
+17,Weekday,Sunny,Madhapur,1,5,1.39
+2,Weekend,Cloudy,Madhapur,1,6,1.55
+15,Weekend,Rainy,Banjara Hills,1,9,1.88
+22,Weekend,Windy,Dilsukhnagar,1,5,1.12
+22,Weekday,Cloudy,Hitech City,1,8,1.5
+15,Weekend,Windy,Hitech City,0,3,1.31
+11,Weekday,Sunny,Hitech City,1,6,1.43
+6,Weekday,Cloudy,Hitech City,0,5,1.17
+15,Weekend,Rainy,Hitech City,0,9,2.36
+2,Weekend,Sunny,Hitech City,1,8,1.57
+4,Weekend,Windy,Hitech City,1,6,1.46
+13,Weekday,Rainy,Hitech City,1,13,1.93
+23,Weekday,Sunny,Kukatpally,0,0,0.94
+1,Weekday,Windy,Madhapur,1,4,1.3
+4,Weekday,Cloudy,Hitech City,0,5,1.34
+0,Weekend,Windy,Kukatpally,0,1,0.96
+8,Weekend,Rainy,Hitech City,0,11,2.1
+7,Weekday,Rainy,Banjara Hills,0,6,1.51
+1,Weekend,Rainy,Dilsukhnagar,0,5,1.3
+1,Weekend,Windy,Banjara Hills,0,3,1.39
+23,Weekday,Sunny,Hitech City,0,4,1.26
+6,Weekday,Sunny,Banjara Hills,0,3,1.21
+16,Weekend,Sunny,Banjara Hills,0,4,1.32
+8,Weekend,Windy,Madhapur,1,8,1.49
+5,Weekend,Cloudy,Madhapur,1,9,2.36
+5,Weekend,Windy,Kukatpally,0,3,1.15
+1,Weekend,Rainy,Kukatpally,1,10,2.24
+7,Weekend,Cloudy,Banjara Hills,1,8,1.54
+2,Weekend,Rainy,Kukatpally,1,9,2.37
+18,Weekday,Cloudy,Kukatpally,1,5,1.21
+7,Weekday,Windy,Kukatpally,1,3,1.18
+11,Weekday,Rainy,Kukatpally,1,7,1.52
+14,Weekend,Windy,Kukatpally,1,8,1.54
+17,Weekend,Rainy,Dilsukhnagar,1,8,1.46
+6,Weekend,Windy,Dilsukhnagar,0,3,1.13
+15,Weekday,Rainy,Kukatpally,1,7,1.7
+17,Weekday,Cloudy,Madhapur,0,4,1.22
+10,Weekend,Rainy,Dilsukhnagar,0,9,2.35
+12,Weekday,Cloudy,Dilsukhnagar,1,8,1.65
+17,Weekday,Windy,Hitech City,1,6,1.67
+16,Weekday,Sunny,Kukatpally,0,3,1.13
+7,Weekday,Windy,Banjara Hills,1,6,1.55
+15,Weekday,Sunny,Hitech City,1,8,1.73
+17,Weekday,Rainy,Kukatpally,1,7,1.45
+3,Weekend,Windy,Banjara Hills,1,9,2.08
+10,Weekend,Rainy,Dilsukhnagar,0,9,2.39
+9,Weekend,Windy,Banjara Hills,0,5,1.24
+23,Weekend,Sunny,Banjara Hills,1,8,1.6
+21,Weekday,Sunny,Banjara Hills,1,11,2.3
+18,Weekend,Sunny,Dilsukhnagar,1,7,1.8
+0,Weekend,Rainy,Banjara Hills,1,10,2.22
+1,Weekday,Windy,Hitech City,0,4,1.34
+18,Weekday,Sunny,Kukatpally,0,2,1.05
+1,Weekday,Rainy,Banjara Hills,0,7,1.79
+6,Weekend,Windy,Kukatpally,0,3,1.26
+3,Weekend,Sunny,Dilsukhnagar,1,4,1.32
+2,Weekend,Windy,Dilsukhnagar,0,1,0.91
+8,Weekday,Sunny,Kukatpally,0,4,1.27
+22,Weekday,Sunny,Hitech City,1,6,1.76
+1,Weekday,Windy,Kukatpally,0,3,1.37
+1,Weekday,Sunny,Banjara Hills,1,6,1.45
+6,Weekend,Cloudy,Madhapur,1,7,1.8
+6,Weekend,Rainy,Hitech City,1,9,2.29
+18,Weekday,Windy,Dilsukhnagar,0,1,1.08
+12,Weekday,Sunny,Madhapur,1,7,1.74
+2,Weekend,Sunny,Banjara Hills,0,3,1.27
+9,Weekday,Rainy,Madhapur,1,9,1.91
+16,Weekday,Cloudy,Hitech City,0,4,1.35
+14,Weekend,Cloudy,Banjara Hills,1,10,2.34
+19,Weekday,Windy,Kukatpally,1,9,2.07
+13,Weekday,Sunny,Banjara Hills,0,5,1.38
+15,Weekend,Sunny,Kukatpally,0,3,1.15
+20,Weekday,Sunny,Madhapur,1,7,1.43
+7,Weekday,Cloudy,Banjara Hills,1,6,1.56
+21,Weekend,Rainy,Kukatpally,0,10,2.18
+11,Weekend,Rainy,Madhapur,0,8,1.7
+2,Weekday,Rainy,Madhapur,1,10,2.3
+2,Weekend,Cloudy,Dilsukhnagar,1,8,1.56
+9,Weekday,Sunny,Hitech City,1,7,1.64
+20,Weekend,Windy,Kukatpally,1,10,1.95
+11,Weekend,Rainy,Banjara Hills,1,9,2.12
+12,Weekend,Rainy,Madhapur,1,13,1.82
+12,Weekday,Windy,Hitech City,0,5,1.19
+20,Weekend,Sunny,Banjara Hills,0,9,2.16
+13,Weekday,Cloudy,Hitech City,1,9,2.41
+0,Weekend,Windy,Dilsukhnagar,0,3,1.4
+3,Weekend,Rainy,Dilsukhnagar,0,4,1.24
+5,Weekday,Sunny,Hitech City,1,6,1.46
+4,Weekday,Rainy,Banjara Hills,0,7,1.41
+8,Weekend,Cloudy,Banjara Hills,0,8,1.8
+18,Weekend,Sunny,Hitech City,1,6,1.42
+17,Weekend,Windy,Dilsukhnagar,0,2,0.97
+3,Weekday,Rainy,Madhapur,0,6,1.48
+14,Weekday,Rainy,Dilsukhnagar,0,6,1.72
+13,Weekend,Sunny,Madhapur,1,8,1.64
+14,Weekday,Sunny,Banjara Hills,0,5,1.11
+9,Weekday,Cloudy,Madhapur,0,6,1.43
+10,Weekday,Sunny,Madhapur,1,9,2.19
+14,Weekend,Rainy,Dilsukhnagar,0,8,1.43
+16,Weekday,Sunny,Kukatpally,0,2,1.0
+17,Weekday,Rainy,Kukatpally,0,4,1.13
+21,Weekend,Cloudy,Banjara Hills,1,10,2.02
+10,Weekend,Cloudy,Kukatpally,1,9,2.29
+0,Weekend,Rainy,Dilsukhnagar,0,7,1.64
+13,Weekday,Cloudy,Madhapur,0,8,1.41
+2,Weekday,Windy,Madhapur,1,7,1.5
+14,Weekend,Cloudy,Kukatpally,0,5,1.22
+4,Weekend,Windy,Hitech City,0,6,1.67
+2,Weekend,Sunny,Banjara Hills,1,7,1.65
+16,Weekend,Rainy,Kukatpally,1,8,1.66
+12,Weekend,Cloudy,Madhapur,1,12,2.4
+5,Weekend,Sunny,Dilsukhnagar,1,5,1.17
+4,Weekend,Rainy,Banjara Hills,1,9,2.34
+8,Weekday,Windy,Banjara Hills,1,7,1.69
+10,Weekday,Windy,Dilsukhnagar,0,4,1.26
+10,Weekend,Cloudy,Dilsukhnagar,0,7,1.47
+15,Weekend,Sunny,Banjara Hills,1,7,1.55
+1,Weekday,Rainy,Banjara Hills,0,7,1.67
+9,Weekend,Rainy,Banjara Hills,0,10,2.25
+4,Weekend,Rainy,Hitech City,1,9,2.44
+4,Weekend,Windy,Banjara Hills,0,6,1.46
+15,Weekend,Rainy,Dilsukhnagar,0,5,1.11
+2,Weekend,Windy,Dilsukhnagar,0,1,0.97
+7,Weekday,Windy,Kukatpally,0,3,1.36
+0,Weekend,Rainy,Banjara Hills,1,9,2.48
+3,Weekday,Rainy,Dilsukhnagar,0,5,1.26
+11,Weekday,Rainy,Banjara Hills,0,8,1.44
+18,Weekday,Sunny,Dilsukhnagar,0,1,0.94
+19,Weekday,Windy,Dilsukhnagar,1,6,1.64
+0,Weekday,Sunny,Banjara Hills,1,8,1.44
+4,Weekday,Cloudy,Kukatpally,1,7,1.43
+23,Weekend,Cloudy,Dilsukhnagar,1,5,1.32
+18,Weekday,Rainy,Hitech City,1,10,2.31
+6,Weekday,Rainy,Hitech City,1,11,2.13
+17,Weekday,Cloudy,Madhapur,1,7,1.58
+9,Weekday,Windy,Hitech City,0,6,1.78
+11,Weekday,Sunny,Hitech City,1,8,1.57
+13,Weekend,Cloudy,Hitech City,1,11,2.26
+20,Weekend,Sunny,Banjara Hills,0,7,1.62
+22,Weekend,Windy,Dilsukhnagar,0,4,1.3
+23,Weekday,Rainy,Banjara Hills,0,5,1.3
+12,Weekend,Windy,Hitech City,1,12,2.24
+6,Weekend,Rainy,Banjara Hills,0,7,1.67
+3,Weekend,Rainy,Hitech City,0,9,2.37
+16,Weekend,Cloudy,Kukatpally,0,5,1.13
+9,Weekday,Cloudy,Banjara Hills,0,5,1.11
+23,Weekday,Windy,Madhapur,0,2,1.07
+22,Weekday,Rainy,Banjara Hills,1,11,2.04
+21,Weekend,Windy,Dilsukhnagar,0,5,1.39
+17,Weekend,Sunny,Kukatpally,0,4,1.22
+18,Weekday,Cloudy,Banjara Hills,0,3,1.13
+8,Weekday,Windy,Madhapur,0,6,1.56
+5,Weekend,Windy,Banjara Hills,1,6,1.72
+15,Weekday,Cloudy,Madhapur,1,6,1.78
+7,Weekend,Cloudy,Kukatpally,1,8,1.65
+13,Weekend,Windy,Dilsukhnagar,1,10,1.91
+8,Weekend,Cloudy,Hitech City,0,8,1.56
+4,Weekend,Sunny,Kukatpally,0,4,1.2
+17,Weekend,Sunny,Banjara Hills,0,6,1.71
+14,Weekend,Windy,Banjara Hills,0,8,1.68
+19,Weekend,Rainy,Madhapur,1,12,1.85
+18,Weekday,Cloudy,Kukatpally,1,4,1.16
+6,Weekend,Windy,Kukatpally,0,3,1.37
+15,Weekend,Rainy,Madhapur,0,7,1.68
+1,Weekend,Sunny,Banjara Hills,0,4,1.13
+14,Weekday,Rainy,Banjara Hills,1,12,2.29
+18,Weekend,Cloudy,Hitech City,1,10,2.08
+23,Weekend,Sunny,Kukatpally,0,4,1.29
+21,Weekday,Windy,Banjara Hills,0,5,1.12
+4,Weekday,Sunny,Hitech City,1,7,1.45
+8,Weekday,Rainy,Banjara Hills,1,13,2.27
+12,Weekday,Rainy,Dilsukhnagar,1,12,2.31
+20,Weekday,Rainy,Kukatpally,0,8,1.66
+8,Weekend,Windy,Dilsukhnagar,0,3,1.27
+11,Weekend,Cloudy,Dilsukhnagar,0,2,1.07
+4,Weekend,Cloudy,Hitech City,0,6,1.42
+20,Weekday,Sunny,Hitech City,1,10,2.07
+15,Weekend,Sunny,Dilsukhnagar,0,2,1.09
+23,Weekday,Cloudy,Madhapur,0,2,0.96
+8,Weekday,Sunny,Madhapur,1,9,2.43
+10,Weekday,Rainy,Madhapur,0,6,1.51
+20,Weekday,Windy,Madhapur,1,9,2.05
+1,Weekday,Sunny,Dilsukhnagar,0,0,1.08
+16,Weekend,Windy,Madhapur,1,5,1.25
+14,Weekend,Sunny,Hitech City,0,7,1.76
+21,Weekday,Windy,Dilsukhnagar,0,6,1.68
+13,Weekday,Sunny,Madhapur,1,10,2.49
+16,Weekend,Sunny,Hitech City,1,9,2.11
+18,Weekday,Rainy,Banjara Hills,1,8,1.59
+1,Weekend,Sunny,Madhapur,0,4,1.16
+11,Weekday,Cloudy,Kukatpally,1,7,1.68
+17,Weekend,Rainy,Madhapur,0,6,1.63
+18,Weekday,Cloudy,Banjara Hills,1,9,2.26
+3,Weekend,Windy,Madhapur,0,2,1.04
+17,Weekend,Windy,Kukatpally,1,5,1.1
+6,Weekday,Rainy,Dilsukhnagar,1,7,1.46
+14,Weekday,Windy,Kukatpally,1,7,1.5
+2,Weekend,Sunny,Banjara Hills,1,7,1.75
+11,Weekend,Windy,Hitech City,0,3,1.34
+14,Weekday,Sunny,Dilsukhnagar,1,7,1.75
+0,Weekend,Rainy,Dilsukhnagar,0,7,1.72
+15,Weekend,Sunny,Hitech City,1,7,1.53
+22,Weekend,Windy,Banjara Hills,0,3,1.1
+2,Weekday,Sunny,Hitech City,0,4,1.14
+9,Weekend,Windy,Banjara Hills,0,7,1.7
+15,Weekend,Windy,Hitech City,1,6,1.67
+18,Weekend,Sunny,Kukatpally,1,7,1.54
+12,Weekend,Windy,Kukatpally,1,7,1.64
+23,Weekend,Rainy,Banjara Hills,1,11,1.81
+19,Weekend,Rainy,Banjara Hills,1,13,2.49
+12,Weekend,Rainy,Kukatpally,0,8,1.45
+2,Weekday,Cloudy,Banjara Hills,0,6,1.41
+22,Weekend,Windy,Banjara Hills,1,6,1.7
+10,Weekend,Sunny,Hitech City,1,8,1.7
+3,Weekday,Sunny,Kukatpally,0,3,1.1
+16,Weekday,Rainy,Kukatpally,1,7,1.67
+14,Weekend,Windy,Dilsukhnagar,0,5,1.2
+16,Weekday,Cloudy,Kukatpally,0,2,0.92
+18,Weekend,Windy,Dilsukhnagar,0,3,1.22
+22,Weekend,Windy,Madhapur,0,3,1.11
+6,Weekday,Windy,Banjara Hills,1,8,1.55
+16,Weekday,Cloudy,Kukatpally,1,6,1.74
+18,Weekday,Windy,Banjara Hills,1,5,1.11
+1,Weekday,Sunny,Dilsukhnagar,1,3,1.13
+21,Weekend,Sunny,Madhapur,0,5,1.27
+10,Weekend,Rainy,Banjara Hills,1,11,2.08
+20,Weekday,Sunny,Banjara Hills,0,7,1.76
+20,Weekday,Windy,Dilsukhnagar,0,3,1.13
+1,Weekday,Sunny,Dilsukhnagar,0,1,0.91
+14,Weekday,Sunny,Madhapur,0,5,1.26
+7,Weekend,Cloudy,Hitech City,1,8,1.65
+1,Weekday,Sunny,Madhapur,0,4,1.23
+2,Weekday,Windy,Kukatpally,0,0,1.0
+2,Weekday,Rainy,Kukatpally,0,5,1.36
+18,Weekend,Windy,Madhapur,1,5,1.36
+22,Weekday,Sunny,Hitech City,0,4,1.3
+6,Weekday,Sunny,Dilsukhnagar,1,6,1.77
+19,Weekend,Cloudy,Banjara Hills,0,7,1.7
+4,Weekend,Rainy,Kukatpally,1,9,2.25
+23,Weekday,Windy,Kukatpally,1,6,1.68
+3,Weekend,Windy,Kukatpally,0,2,0.98
+7,Weekend,Cloudy,Hitech City,0,7,1.75
+20,Weekday,Windy,Kukatpally,0,4,1.16
+13,Weekend,Windy,Dilsukhnagar,0,5,1.23
+12,Weekday,Windy,Madhapur,0,5,1.27
+20,Weekday,Windy,Madhapur,0,6,1.63
+3,Weekday,Cloudy,Madhapur,1,8,1.59
+13,Weekend,Windy,Kukatpally,1,7,1.62
+6,Weekend,Sunny,Madhapur,0,2,1.08
+9,Weekday,Windy,Hitech City,1,9,2.14
+18,Weekday,Sunny,Banjara Hills,1,8,1.54
+2,Weekend,Sunny,Hitech City,1,9,1.83
+20,Weekend,Sunny,Hitech City,0,8,1.51
+22,Weekday,Windy,Dilsukhnagar,1,5,1.29
+1,Weekday,Sunny,Banjara Hills,0,2,0.92
+23,Weekday,Cloudy,Hitech City,0,6,1.73
+1,Weekend,Cloudy,Banjara Hills,0,7,1.66
+19,Weekend,Rainy,Banjara Hills,0,10,2.4
+13,Weekday,Sunny,Dilsukhnagar,0,6,1.47
+1,Weekday,Windy,Banjara Hills,0,3,1.34
+5,Weekend,Windy,Banjara Hills,1,9,2.05
+15,Weekend,Sunny,Madhapur,1,5,1.34
+8,Weekend,Windy,Dilsukhnagar,1,9,2.27
+15,Weekend,Sunny,Kukatpally,1,5,1.21
+9,Weekend,Cloudy,Banjara Hills,1,11,2.31
+8,Weekend,Windy,Dilsukhnagar,1,8,1.77
+16,Weekday,Cloudy,Dilsukhnagar,0,3,1.27
+7,Weekend,Windy,Banjara Hills,1,9,1.95
+12,Weekend,Cloudy,Banjara Hills,0,7,1.74
+14,Weekend,Cloudy,Dilsukhnagar,1,8,1.77
+19,Weekend,Rainy,Banjara Hills,1,13,2.26
+20,Weekend,Cloudy,Banjara Hills,1,12,2.41
+1,Weekend,Sunny,Madhapur,1,5,1.21
+23,Weekday,Rainy,Dilsukhnagar,1,9,2.12
+23,Weekday,Sunny,Kukatpally,0,2,0.93
+19,Weekday,Sunny,Kukatpally,1,7,1.77
+15,Weekday,Cloudy,Madhapur,1,5,1.17
+0,Weekday,Windy,Banjara Hills,1,7,1.44
+1,Weekday,Sunny,Madhapur,1,4,1.3
+17,Weekday,Cloudy,Banjara Hills,1,7,1.75
+4,Weekend,Cloudy,Banjara Hills,0,7,1.65
+10,Weekday,Sunny,Hitech City,0,5,1.17
+11,Weekday,Cloudy,Banjara Hills,1,8,1.47
+14,Weekend,Rainy,Dilsukhnagar,1,13,2.43
+21,Weekend,Sunny,Hitech City,1,12,1.96
+6,Weekend,Cloudy,Madhapur,1,6,1.5
+13,Weekday,Sunny,Dilsukhnagar,0,5,1.13
+15,Weekend,Cloudy,Madhapur,1,7,1.68
+22,Weekday,Windy,Banjara Hills,1,6,1.62
+3,Weekend,Windy,Banjara Hills,0,6,1.5
+3,Weekday,Sunny,Madhapur,1,6,1.79
+23,Weekday,Windy,Madhapur,0,2,1.05
+0,Weekend,Sunny,Dilsukhnagar,1,7,1.46
+18,Weekday,Windy,Dilsukhnagar,0,0,1.02
+13,Weekday,Sunny,Banjara Hills,1,8,1.57
+15,Weekday,Cloudy,Madhapur,0,4,1.32
+18,Weekday,Rainy,Kukatpally,1,7,1.67
+3,Weekday,Rainy,Madhapur,0,4,1.19
+11,Weekday,Cloudy,Banjara Hills,0,4,1.21
+7,Weekend,Cloudy,Madhapur,0,4,1.27
+23,Weekday,Sunny,Banjara Hills,1,6,1.59
+11,Weekend,Windy,Kukatpally,0,1,0.92
+10,Weekend,Sunny,Madhapur,1,8,1.76
+16,Weekday,Cloudy,Banjara Hills,1,8,1.49
+2,Weekday,Rainy,Dilsukhnagar,1,9,1.88
+20,Weekday,Cloudy,Hitech City,1,10,2.28
+3,Weekend,Rainy,Kukatpally,1,7,1.76
+6,Weekday,Sunny,Kukatpally,0,0,1.05
+23,Weekend,Rainy,Dilsukhnagar,0,5,1.13
+17,Weekday,Windy,Dilsukhnagar,0,2,0.99
+21,Weekend,Windy,Kukatpally,0,4,1.21
+18,Weekend,Windy,Hitech City,1,8,1.54
+19,Weekday,Cloudy,Banjara Hills,0,8,1.51
+1,Weekday,Rainy,Hitech City,0,8,1.7
+16,Weekday,Windy,Dilsukhnagar,0,1,1.05
+9,Weekend,Sunny,Banjara Hills,1,11,2.12
+12,Weekday,Rainy,Hitech City,1,11,2.22
+23,Weekday,Cloudy,Kukatpally,1,6,1.52
+2,Weekday,Rainy,Kukatpally,0,3,1.12
+7,Weekday,Windy,Banjara Hills,0,2,1.07
+10,Weekday,Rainy,Banjara Hills,1,13,1.84
+17,Weekend,Rainy,Banjara Hills,0,6,1.49
+21,Weekday,Cloudy,Banjara Hills,0,6,1.71
+23,Weekday,Sunny,Kukatpally,0,3,1.17
+0,Weekday,Sunny,Kukatpally,0,3,1.28
+14,Weekend,Windy,Kukatpally,1,8,1.42
+0,Weekend,Rainy,Hitech City,1,9,2.35
+15,Weekday,Windy,Hitech City,1,6,1.51
+11,Weekday,Cloudy,Hitech City,0,4,1.24
+16,Weekend,Sunny,Hitech City,0,5,1.34
+9,Weekend,Cloudy,Madhapur,1,11,1.9
+12,Weekend,Cloudy,Kukatpally,0,6,1.58
+15,Weekday,Rainy,Kukatpally,1,6,1.68
+21,Weekend,Rainy,Kukatpally,0,9,2.08
+4,Weekend,Windy,Kukatpally,0,1,0.97
+15,Weekday,Windy,Hitech City,0,5,1.32
+1,Weekday,Rainy,Banjara Hills,1,11,2.47
+9,Weekend,Windy,Kukatpally,0,6,1.57
+23,Weekday,Sunny,Madhapur,0,1,1.06
+13,Weekday,Cloudy,Banjara Hills,0,8,1.47
+16,Weekday,Sunny,Dilsukhnagar,1,6,1.48
+13,Weekend,Windy,Hitech City,1,12,2.02
+17,Weekend,Windy,Hitech City,0,6,1.62
+7,Weekday,Sunny,Madhapur,0,4,1.3
+20,Weekday,Windy,Banjara Hills,0,7,1.63
+5,Weekday,Sunny,Banjara Hills,1,5,1.21
+19,Weekday,Cloudy,Hitech City,0,8,1.42
+23,Weekday,Sunny,Hitech City,1,6,1.45
+5,Weekend,Windy,Hitech City,0,3,1.13
+3,Weekend,Windy,Hitech City,1,8,1.67
+16,Weekend,Windy,Madhapur,1,5,1.19
+4,Weekday,Windy,Hitech City,0,4,1.26
+13,Weekend,Windy,Madhapur,0,5,1.4
+0,Weekend,Sunny,Kukatpally,0,3,1.22
+7,Weekday,Windy,Banjara Hills,0,3,1.28
+11,Weekend,Windy,Banjara Hills,1,6,1.57
+9,Weekend,Rainy,Kukatpally,0,6,1.63
+6,Weekday,Windy,Dilsukhnagar,0,0,0.92
+6,Weekday,Windy,Hitech City,1,8,1.54
+21,Weekday,Sunny,Kukatpally,0,4,1.23
+3,Weekday,Sunny,Kukatpally,1,5,1.27
+1,Weekend,Sunny,Banjara Hills,1,7,1.64
+23,Weekend,Cloudy,Dilsukhnagar,1,6,1.54
+13,Weekday,Sunny,Banjara Hills,1,10,2.5
+6,Weekday,Rainy,Madhapur,1,7,1.58
+8,Weekday,Rainy,Madhapur,0,8,1.73
+13,Weekday,Sunny,Banjara Hills,0,8,1.72
+3,Weekend,Rainy,Dilsukhnagar,1,9,1.98
+6,Weekend,Cloudy,Banjara Hills,0,6,1.56
+1,Weekday,Sunny,Kukatpally,1,5,1.33
+19,Weekday,Windy,Madhapur,1,10,1.89
+8,Weekday,Rainy,Hitech City,1,13,2.25
+6,Weekend,Sunny,Kukatpally,1,4,1.12
+6,Weekday,Windy,Banjara Hills,1,8,1.41
+22,Weekday,Sunny,Kukatpally,0,2,1.09
+22,Weekday,Cloudy,Banjara Hills,0,4,1.32
+8,Weekday,Rainy,Hitech City,1,11,1.93
+7,Weekend,Cloudy,Madhapur,0,3,1.37
+3,Weekend,Cloudy,Madhapur,0,5,1.33
+17,Weekend,Rainy,Hitech City,0,8,1.5
+11,Weekday,Cloudy,Kukatpally,1,6,1.68
+2,Weekday,Windy,Hitech City,1,8,1.8
+0,Weekend,Sunny,Madhapur,1,7,1.48
+17,Weekday,Rainy,Kukatpally,0,5,1.19
+20,Weekday,Cloudy,Madhapur,0,5,1.25
+5,Weekend,Sunny,Hitech City,0,4,1.2
+10,Weekend,Rainy,Dilsukhnagar,0,6,1.65
+5,Weekday,Windy,Kukatpally,1,6,1.63
+13,Weekday,Rainy,Dilsukhnagar,1,10,1.96
+12,Weekday,Cloudy,Hitech City,0,7,1.64
+0,Weekday,Cloudy,Banjara Hills,1,7,1.52
+12,Weekend,Rainy,Dilsukhnagar,0,9,2.09
+6,Weekend,Rainy,Banjara Hills,1,10,2.13
+3,Weekend,Windy,Dilsukhnagar,1,4,1.25
+11,Weekend,Rainy,Madhapur,0,6,1.55
+19,Weekday,Cloudy,Madhapur,0,8,1.51
+10,Weekday,Cloudy,Banjara Hills,1,10,2.42
+15,Weekday,Rainy,Dilsukhnagar,1,9,2.0
+6,Weekend,Sunny,Kukatpally,1,6,1.42
+14,Weekday,Rainy,Hitech City,0,10,1.99
+17,Weekend,Rainy,Madhapur,1,11,2.27
+16,Weekend,Windy,Kukatpally,1,7,1.41
+22,Weekday,Windy,Hitech City,1,5,1.13
+8,Weekend,Sunny,Hitech City,0,6,1.72
+8,Weekend,Sunny,Madhapur,1,10,2.38
+13,Weekend,Cloudy,Hitech City,1,10,2.18
+16,Weekend,Sunny,Hitech City,1,9,2.26
+8,Weekday,Rainy,Madhapur,0,8,1.64
+20,Weekend,Cloudy,Hitech City,1,12,2.33
+0,Weekend,Windy,Kukatpally,0,4,1.2
+1,Weekday,Cloudy,Banjara Hills,1,6,1.59
+22,Weekday,Cloudy,Kukatpally,0,3,1.39
+4,Weekend,Sunny,Banjara Hills,1,9,2.1
+5,Weekend,Cloudy,Dilsukhnagar,0,5,1.33
+7,Weekend,Rainy,Kukatpally,0,7,1.48
+16,Weekend,Rainy,Hitech City,0,6,1.71
+4,Weekend,Windy,Dilsukhnagar,1,4,1.39
+19,Weekday,Sunny,Madhapur,1,8,1.76
+22,Weekend,Windy,Madhapur,1,8,1.42
+6,Weekend,Cloudy,Kukatpally,0,2,1.09
+23,Weekend,Rainy,Madhapur,1,10,1.95
+19,Weekend,Windy,Dilsukhnagar,1,8,1.49
+17,Weekday,Rainy,Banjara Hills,0,7,1.58
+13,Weekday,Windy,Hitech City,1,9,2.39
+14,Weekend,Cloudy,Madhapur,1,12,2.42
+5,Weekend,Rainy,Kukatpally,0,7,1.58
+10,Weekday,Windy,Kukatpally,1,8,1.79
+11,Weekend,Cloudy,Banjara Hills,1,9,1.9
+11,Weekday,Windy,Kukatpally,1,3,1.39
+7,Weekend,Windy,Kukatpally,1,7,1.51
+8,Weekday,Sunny,Kukatpally,1,8,1.54
+9,Weekend,Cloudy,Banjara Hills,1,9,1.85
+15,Weekday,Rainy,Hitech City,0,5,1.29
+1,Weekend,Sunny,Kukatpally,1,7,1.54
+16,Weekday,Rainy,Madhapur,1,9,1.97
+10,Weekend,Cloudy,Banjara Hills,1,10,2.44
+21,Weekday,Windy,Kukatpally,0,3,1.36
+1,Weekend,Windy,Hitech City,0,3,1.12
+7,Weekend,Cloudy,Kukatpally,0,2,1.02
+19,Weekend,Cloudy,Hitech City,0,7,1.67
+10,Weekday,Windy,Madhapur,1,9,1.85
+23,Weekend,Windy,Kukatpally,1,4,1.25
+20,Weekend,Windy,Hitech City,1,12,2.31
+13,Weekend,Windy,Dilsukhnagar,0,4,1.32
+22,Weekday,Cloudy,Kukatpally,1,6,1.41
+20,Weekday,Cloudy,Banjara Hills,0,7,1.4
+5,Weekday,Windy,Kukatpally,1,3,1.19
+15,Weekday,Windy,Banjara Hills,0,2,0.95
+11,Weekday,Rainy,Hitech City,1,11,1.82
+15,Weekend,Windy,Banjara Hills,0,3,1.18
+23,Weekend,Rainy,Madhapur,1,10,2.41
+4,Weekday,Rainy,Madhapur,1,9,1.87
+23,Weekday,Rainy,Dilsukhnagar,1,7,1.74
+2,Weekend,Windy,Madhapur,1,8,1.52
+6,Weekday,Rainy,Madhapur,0,5,1.1
+11,Weekend,Rainy,Madhapur,1,10,2.17
+2,Weekend,Rainy,Dilsukhnagar,1,8,1.68
+15,Weekend,Cloudy,Dilsukhnagar,0,4,1.31
+21,Weekday,Rainy,Dilsukhnagar,1,11,2.05
+16,Weekday,Windy,Kukatpally,1,4,1.16
+6,Weekday,Rainy,Madhapur,0,4,1.32
+6,Weekday,Cloudy,Kukatpally,0,3,1.14
+19,Weekday,Cloudy,Banjara Hills,0,8,1.63
+23,Weekday,Sunny,Dilsukhnagar,0,1,0.91
+10,Weekday,Windy,Banjara Hills,1,7,1.8
+9,Weekend,Sunny,Banjara Hills,0,5,1.2
+20,Weekend,Cloudy,Banjara Hills,0,7,1.53
+1,Weekday,Sunny,Madhapur,1,4,1.23
+17,Weekday,Sunny,Hitech City,1,7,1.65
+9,Weekend,Cloudy,Kukatpally,1,10,1.97
+9,Weekend,Cloudy,Hitech City,0,6,1.46
+19,Weekend,Cloudy,Banjara Hills,0,10,2.01
+2,Weekday,Sunny,Kukatpally,0,3,1.39
+12,Weekday,Sunny,Hitech City,0,6,1.67
+4,Weekday,Windy,Dilsukhnagar,0,3,1.35
+4,Weekday,Sunny,Kukatpally,1,6,1.47
+12,Weekend,Rainy,Hitech City,0,11,2.15
+22,Weekday,Sunny,Hitech City,1,6,1.46
+20,Weekend,Windy,Banjara Hills,0,9,1.83
+6,Weekday,Rainy,Hitech City,0,8,1.77
+8,Weekend,Windy,Banjara Hills,1,9,2.19
+3,Weekday,Cloudy,Hitech City,1,8,1.47
+22,Weekday,Cloudy,Dilsukhnagar,0,2,1.08
+16,Weekend,Sunny,Kukatpally,0,3,1.27
+5,Weekday,Cloudy,Hitech City,1,8,1.74
+15,Weekend,Windy,Kukatpally,1,4,1.32
+0,Weekend,Sunny,Dilsukhnagar,1,7,1.56
+22,Weekend,Rainy,Hitech City,0,9,2.03
+11,Weekend,Rainy,Banjara Hills,1,12,2.31
+12,Weekend,Windy,Dilsukhnagar,0,4,1.16
+21,Weekday,Windy,Banjara Hills,0,5,1.37
+3,Weekday,Windy,Hitech City,1,8,1.73
+8,Weekend,Sunny,Dilsukhnagar,0,4,1.25
+6,Weekend,Sunny,Madhapur,1,6,1.62
+22,Weekend,Cloudy,Hitech City,0,6,1.58
+18,Weekday,Cloudy,Banjara Hills,1,9,1.89
+7,Weekend,Sunny,Kukatpally,1,5,1.29
+18,Weekend,Rainy,Banjara Hills,1,12,1.81
+17,Weekend,Windy,Dilsukhnagar,1,6,1.55
+21,Weekday,Rainy,Madhapur,0,8,1.61
+5,Weekday,Sunny,Dilsukhnagar,0,1,0.95
+6,Weekday,Windy,Dilsukhnagar,1,6,1.61
+9,Weekend,Windy,Kukatpally,1,6,1.64
+12,Weekend,Cloudy,Dilsukhnagar,0,8,1.79
+23,Weekend,Cloudy,Dilsukhnagar,1,7,1.46
+7,Weekend,Rainy,Hitech City,1,11,2.43
+21,Weekend,Rainy,Dilsukhnagar,1,12,2.18
+14,Weekend,Sunny,Hitech City,1,12,2.28
+5,Weekend,Windy,Madhapur,0,2,1.06
+19,Weekend,Windy,Madhapur,1,9,1.99
+13,Weekend,Cloudy,Hitech City,1,13,2.02
+3,Weekend,Windy,Dilsukhnagar,1,5,1.38
+0,Weekday,Rainy,Madhapur,0,4,1.35
+12,Weekday,Sunny,Hitech City,1,11,2.26
+4,Weekday,Cloudy,Banjara Hills,0,5,1.33
+23,Weekday,Cloudy,Dilsukhnagar,0,4,1.21
+17,Weekday,Cloudy,Kukatpally,0,1,1.06
+16,Weekday,Cloudy,Hitech City,0,4,1.37
+17,Weekday,Sunny,Madhapur,0,4,1.32
+11,Weekend,Windy,Kukatpally,0,3,1.2
+8,Weekend,Sunny,Madhapur,0,5,1.37
+1,Weekend,Windy,Madhapur,1,6,1.6
+1,Weekend,Rainy,Kukatpally,1,7,1.44
+22,Weekday,Cloudy,Kukatpally,1,5,1.34
+11,Weekday,Rainy,Hitech City,1,10,2.31
+20,Weekday,Rainy,Hitech City,1,14,2.04
+10,Weekday,Sunny,Banjara Hills,1,8,1.57
+6,Weekend,Windy,Kukatpally,1,6,1.7
+0,Weekend,Sunny,Kukatpally,1,4,1.3
+18,Weekday,Sunny,Kukatpally,1,5,1.21
+4,Weekend,Cloudy,Hitech City,1,8,1.54
+21,Weekday,Windy,Madhapur,0,5,1.26
+20,Weekend,Windy,Madhapur,1,11,2.1
+12,Weekend,Sunny,Kukatpally,0,6,1.53
+23,Weekend,Rainy,Madhapur,0,8,1.61
+21,Weekend,Sunny,Madhapur,1,9,2.47
+23,Weekday,Cloudy,Dilsukhnagar,0,4,1.22
+22,Weekday,Cloudy,Hitech City,1,7,1.54
+14,Weekend,Sunny,Hitech City,0,6,1.45
+10,Weekend,Windy,Kukatpally,0,5,1.28
+8,Weekday,Sunny,Madhapur,1,7,1.47
+11,Weekend,Cloudy,Kukatpally,1,5,1.17
+8,Weekend,Cloudy,Hitech City,1,11,2.41
+11,Weekend,Rainy,Dilsukhnagar,1,8,1.5
+4,Weekend,Cloudy,Madhapur,0,5,1.25
+19,Weekend,Windy,Madhapur,0,8,1.56
+4,Weekend,Sunny,Banjara Hills,1,7,1.5
+23,Weekend,Windy,Hitech City,1,6,1.59
+8,Weekend,Windy,Hitech City,1,11,2.27
+15,Weekday,Cloudy,Hitech City,1,8,1.63
+1,Weekday,Windy,Madhapur,1,7,1.41
+14,Weekday,Rainy,Dilsukhnagar,1,9,1.81
+14,Weekend,Sunny,Hitech City,0,9,2.32
+12,Weekend,Cloudy,Dilsukhnagar,0,8,1.62
+22,Weekday,Cloudy,Madhapur,0,5,1.37
+4,Weekday,Cloudy,Dilsukhnagar,0,4,1.23
+21,Weekday,Cloudy,Banjara Hills,1,12,2.5
+11,Weekend,Windy,Hitech City,1,6,1.58
+4,Weekday,Cloudy,Hitech City,0,4,1.34
+3,Weekday,Sunny,Hitech City,1,6,1.42
+14,Weekend,Rainy,Kukatpally,1,11,2.1
+21,Weekday,Cloudy,Kukatpally,1,10,2.34
+2,Weekend,Sunny,Banjara Hills,0,3,1.37
+21,Weekday,Cloudy,Kukatpally,1,8,1.56
+0,Weekday,Cloudy,Banjara Hills,1,7,1.76
+15,Weekend,Sunny,Banjara Hills,1,9,2.46
+3,Weekday,Rainy,Banjara Hills,0,6,1.43
+20,Weekday,Cloudy,Banjara Hills,1,9,2.45
+18,Weekend,Rainy,Madhapur,1,11,2.48
+10,Weekend,Cloudy,Madhapur,1,10,2.29
+5,Weekend,Cloudy,Madhapur,1,6,1.44
+3,Weekend,Sunny,Banjara Hills,1,9,1.93
+0,Weekend,Rainy,Hitech City,0,6,1.68
+6,Weekend,Windy,Dilsukhnagar,1,4,1.26
+8,Weekend,Sunny,Madhapur,1,8,1.47
+2,Weekend,Rainy,Banjara Hills,0,8,1.51
+1,Weekday,Sunny,Banjara Hills,1,6,1.62
+12,Weekday,Rainy,Hitech City,1,14,2.44
+14,Weekend,Sunny,Dilsukhnagar,0,7,1.66
+15,Weekend,Sunny,Dilsukhnagar,0,4,1.21
+23,Weekend,Sunny,Kukatpally,1,7,1.68
+2,Weekend,Rainy,Hitech City,1,10,1.83
+17,Weekend,Sunny,Madhapur,0,5,1.34
+7,Weekday,Rainy,Banjara Hills,1,10,2.26
+12,Weekend,Windy,Kukatpally,1,7,1.64
+2,Weekend,Sunny,Madhapur,0,2,0.98
+8,Weekday,Windy,Hitech City,0,6,1.45
+21,Weekday,Windy,Hitech City,0,5,1.32
+11,Weekday,Rainy,Kukatpally,0,6,1.59
+0,Weekend,Cloudy,Banjara Hills,0,6,1.77
+2,Weekday,Windy,Banjara Hills,1,6,1.56
+0,Weekday,Rainy,Hitech City,1,8,1.62
+16,Weekend,Cloudy,Madhapur,0,4,1.36
+19,Weekday,Rainy,Madhapur,0,9,1.93
+19,Weekday,Sunny,Kukatpally,1,9,1.97
+10,Weekday,Windy,Madhapur,1,8,1.55
+6,Weekend,Sunny,Hitech City,0,3,1.19
+2,Weekday,Rainy,Banjara Hills,0,7,1.55
+20,Weekend,Sunny,Banjara Hills,1,12,1.87
+15,Weekday,Windy,Hitech City,0,2,0.97
+16,Weekend,Sunny,Dilsukhnagar,1,4,1.14
+22,Weekend,Sunny,Madhapur,0,5,1.18
+7,Weekend,Rainy,Banjara Hills,1,12,2.19
+3,Weekend,Windy,Kukatpally,1,7,1.74
+0,Weekend,Cloudy,Banjara Hills,1,9,2.46
+20,Weekend,Rainy,Hitech City,1,13,1.83
+7,Weekday,Cloudy,Dilsukhnagar,1,7,1.53
+15,Weekend,Cloudy,Hitech City,0,6,1.62
+17,Weekday,Cloudy,Kukatpally,0,1,1.01
+11,Weekend,Sunny,Madhapur,1,6,1.59
+14,Weekend,Cloudy,Kukatpally,1,8,1.44
+1,Weekend,Windy,Kukatpally,1,7,1.54
+21,Weekend,Windy,Madhapur,1,9,2.16
+14,Weekday,Rainy,Kukatpally,0,8,1.6
+8,Weekday,Rainy,Dilsukhnagar,0,7,1.78
+12,Weekend,Windy,Hitech City,1,12,2.31
+23,Weekday,Windy,Hitech City,0,3,1.38
+17,Weekend,Sunny,Dilsukhnagar,1,7,1.76
+14,Weekend,Windy,Hitech City,0,9,1.9
+7,Weekend,Windy,Dilsukhnagar,0,4,1.12
+2,Weekday,Windy,Banjara Hills,1,5,1.14
+19,Weekend,Rainy,Banjara Hills,0,12,2.18
+20,Weekday,Cloudy,Banjara Hills,0,7,1.48
+7,Weekday,Rainy,Banjara Hills,0,7,1.51
+0,Weekend,Sunny,Kukatpally,1,5,1.3
+0,Weekend,Cloudy,Banjara Hills,0,6,1.58
+12,Weekend,Rainy,Dilsukhnagar,1,10,1.9
+10,Weekday,Windy,Hitech City,0,7,1.74
+8,Weekend,Cloudy,Madhapur,1,10,1.97
+3,Weekday,Cloudy,Banjara Hills,1,8,1.79
+4,Weekday,Cloudy,Banjara Hills,1,9,2.33
+9,Weekday,Cloudy,Madhapur,0,7,1.62
+13,Weekend,Windy,Hitech City,0,6,1.49
+18,Weekday,Rainy,Hitech City,0,5,1.38
+1,Weekday,Cloudy,Dilsukhnagar,1,7,1.77
+18,Weekday,Windy,Dilsukhnagar,1,4,1.38
+16,Weekend,Rainy,Hitech City,1,10,2.36
+18,Weekend,Windy,Banjara Hills,0,6,1.77
+18,Weekend,Cloudy,Madhapur,0,6,1.4
+6,Weekday,Sunny,Kukatpally,0,0,0.96
+22,Weekday,Rainy,Dilsukhnagar,1,8,1.54
+2,Weekday,Sunny,Banjara Hills,0,2,0.92
+15,Weekend,Cloudy,Madhapur,1,6,1.56
+16,Weekend,Rainy,Hitech City,0,8,1.56
+4,Weekend,Cloudy,Hitech City,0,6,1.47
+21,Weekend,Cloudy,Madhapur,0,6,1.49
+23,Weekend,Sunny,Kukatpally,1,6,1.69
+6,Weekday,Sunny,Dilsukhnagar,1,6,1.46
+7,Weekday,Windy,Dilsukhnagar,0,3,1.11
+2,Weekend,Cloudy,Kukatpally,0,3,1.14
+15,Weekday,Cloudy,Dilsukhnagar,1,4,1.29
+14,Weekday,Sunny,Madhapur,0,4,1.27
+15,Weekend,Rainy,Hitech City,0,8,1.43
+4,Weekday,Sunny,Dilsukhnagar,0,2,0.93
+7,Weekday,Windy,Hitech City,1,6,1.7
+18,Weekend,Rainy,Dilsukhnagar,0,6,1.61
+20,Weekend,Cloudy,Hitech City,0,10,2.39
+19,Weekend,Sunny,Madhapur,0,5,1.37
+14,Weekend,Windy,Madhapur,0,7,1.77
+9,Weekend,Rainy,Dilsukhnagar,1,10,2.07
+11,Weekday,Rainy,Hitech City,0,7,1.66
+15,Weekend,Rainy,Kukatpally,1,10,1.92
+8,Weekend,Rainy,Madhapur,0,9,2.4
+19,Weekend,Windy,Banjara Hills,1,11,2.13
+10,Weekend,Cloudy,Banjara Hills,0,7,1.65
+18,Weekday,Rainy,Madhapur,0,6,1.45
+15,Weekend,Sunny,Hitech City,0,5,1.1
+2,Weekend,Cloudy,Kukatpally,0,5,1.22
+9,Weekday,Windy,Kukatpally,0,3,1.21
+19,Weekday,Sunny,Banjara Hills,1,9,1.84
+2,Weekend,Sunny,Hitech City,1,7,1.59
+3,Weekday,Windy,Banjara Hills,0,5,1.19
+2,Weekend,Windy,Madhapur,1,5,1.36
+20,Weekday,Cloudy,Banjara Hills,0,7,1.79
+19,Weekend,Windy,Madhapur,0,6,1.63
+20,Weekday,Cloudy,Dilsukhnagar,1,10,2.44
+15,Weekend,Sunny,Madhapur,0,2,1.06
+5,Weekend,Rainy,Madhapur,1,9,2.08
+0,Weekday,Rainy,Banjara Hills,0,5,1.31
+20,Weekday,Windy,Madhapur,1,10,1.85
+20,Weekend,Cloudy,Banjara Hills,1,13,1.97
+23,Weekend,Cloudy,Madhapur,0,5,1.15
+7,Weekday,Windy,Dilsukhnagar,1,4,1.32
+23,Weekday,Windy,Kukatpally,1,5,1.38
+7,Weekday,Cloudy,Banjara Hills,1,6,1.51
+6,Weekday,Cloudy,Banjara Hills,1,7,1.53
+6,Weekday,Sunny,Banjara Hills,0,2,1.09
+7,Weekend,Cloudy,Banjara Hills,0,4,1.15
+7,Weekend,Cloudy,Hitech City,0,5,1.19
+15,Weekend,Sunny,Dilsukhnagar,1,5,1.31
+14,Weekday,Sunny,Banjara Hills,0,7,1.42
+2,Weekend,Sunny,Banjara Hills,0,4,1.2
+0,Weekend,Sunny,Madhapur,1,7,1.61
+15,Weekday,Cloudy,Hitech City,1,7,1.46
+20,Weekend,Cloudy,Kukatpally,1,8,1.43
+19,Weekday,Cloudy,Madhapur,0,6,1.53
+16,Weekday,Windy,Dilsukhnagar,0,0,1.07
+23,Weekend,Sunny,Madhapur,0,4,1.28
+8,Weekday,Windy,Hitech City,1,10,2.4
+10,Weekend,Windy,Hitech City,1,11,2.36
+5,Weekday,Cloudy,Kukatpally,0,1,1.07
+13,Weekday,Windy,Banjara Hills,0,7,1.76
+22,Weekend,Rainy,Madhapur,0,5,1.36
+0,Weekend,Windy,Hitech City,1,6,1.52
+1,Weekend,Windy,Dilsukhnagar,1,7,1.64
+14,Weekday,Cloudy,Banjara Hills,0,9,1.82
+16,Weekday,Sunny,Hitech City,0,2,1.08
+13,Weekday,Sunny,Banjara Hills,0,8,1.73
+16,Weekday,Rainy,Hitech City,1,11,2.26
+12,Weekday,Sunny,Kukatpally,1,8,1.44
+21,Weekend,Windy,Dilsukhnagar,0,6,1.65
+21,Weekend,Cloudy,Kukatpally,0,8,1.59
+16,Weekday,Sunny,Kukatpally,0,3,1.15
+0,Weekday,Cloudy,Kukatpally,0,2,0.99
+11,Weekend,Cloudy,Hitech City,1,8,1.69
+22,Weekday,Rainy,Hitech City,1,11,2.47
+16,Weekend,Sunny,Madhapur,1,7,1.64
+6,Weekend,Windy,Hitech City,1,9,2.14
+18,Weekday,Windy,Kukatpally,1,6,1.55
+17,Weekend,Windy,Hitech City,0,6,1.52
+13,Weekday,Cloudy,Dilsukhnagar,1,10,1.95
+9,Weekday,Sunny,Dilsukhnagar,0,5,1.16
+4,Weekday,Sunny,Banjara Hills,1,7,1.57
+6,Weekday,Windy,Kukatpally,1,4,1.11
+6,Weekday,Windy,Kukatpally,1,3,1.28
+5,Weekend,Sunny,Madhapur,1,8,1.67
+0,Weekday,Rainy,Madhapur,0,5,1.39
+9,Weekend,Cloudy,Hitech City,0,8,1.52
+1,Weekday,Rainy,Dilsukhnagar,1,9,2.24
+7,Weekend,Rainy,Madhapur,1,8,1.56
+0,Weekday,Cloudy,Banjara Hills,0,3,1.11
+18,Weekday,Cloudy,Banjara Hills,1,7,1.65
+19,Weekday,Sunny,Kukatpally,1,6,1.58
+18,Weekend,Cloudy,Madhapur,1,9,1.91
+19,Weekend,Rainy,Madhapur,0,11,1.91
+10,Weekday,Windy,Madhapur,1,6,1.4
+4,Weekday,Sunny,Banjara Hills,0,4,1.11
+12,Weekend,Windy,Hitech City,0,8,1.43
+11,Weekday,Cloudy,Hitech City,0,3,1.2
+13,Weekend,Windy,Hitech City,0,7,1.49
+4,Weekend,Cloudy,Madhapur,1,6,1.63
+12,Weekday,Windy,Hitech City,1,9,2.13
+19,Weekend,Cloudy,Madhapur,1,10,1.81
+5,Weekend,Rainy,Madhapur,1,9,2.31
+7,Weekend,Rainy,Kukatpally,0,6,1.55
+7,Weekday,Sunny,Dilsukhnagar,0,1,0.98
+12,Weekday,Cloudy,Hitech City,0,9,1.8
+2,Weekday,Cloudy,Kukatpally,0,1,1.07
+18,Weekday,Cloudy,Kukatpally,0,3,1.32
+13,Weekday,Cloudy,Hitech City,0,7,1.5
+8,Weekday,Rainy,Hitech City,0,7,1.78
+17,Weekday,Cloudy,Hitech City,1,6,1.68
+7,Weekday,Cloudy,Hitech City,1,6,1.52
+14,Weekday,Cloudy,Kukatpally,0,6,1.72
+12,Weekend,Sunny,Madhapur,1,9,1.85
+6,Weekday,Cloudy,Madhapur,1,7,1.53
+4,Weekday,Windy,Madhapur,1,6,1.72
+14,Weekend,Sunny,Banjara Hills,0,9,1.99
+19,Weekend,Sunny,Dilsukhnagar,0,5,1.28
+22,Weekday,Windy,Dilsukhnagar,1,3,1.16
+20,Weekend,Cloudy,Hitech City,0,10,1.81
+5,Weekend,Windy,Madhapur,0,2,1.04
+17,Weekday,Cloudy,Kukatpally,1,5,1.13
+1,Weekday,Sunny,Dilsukhnagar,1,5,1.19
+3,Weekday,Cloudy,Banjara Hills,1,6,1.56
+9,Weekday,Sunny,Madhapur,1,8,1.78
+12,Weekend,Cloudy,Dilsukhnagar,1,10,2.16
+16,Weekday,Windy,Hitech City,0,5,1.34
+0,Weekday,Windy,Kukatpally,0,0,0.99
+7,Weekend,Cloudy,Dilsukhnagar,1,6,1.72
+1,Weekend,Sunny,Hitech City,0,6,1.44
+22,Weekend,Sunny,Hitech City,1,6,1.47
+2,Weekend,Cloudy,Madhapur,0,5,1.2
+18,Weekend,Windy,Madhapur,0,3,1.17
+21,Weekend,Windy,Madhapur,1,9,1.96
+3,Weekend,Sunny,Banjara Hills,0,5,1.17
+0,Weekday,Cloudy,Dilsukhnagar,0,4,1.29
+11,Weekday,Windy,Hitech City,1,8,1.49
+14,Weekday,Cloudy,Kukatpally,0,6,1.6
+22,Weekday,Rainy,Dilsukhnagar,1,9,2.4
+21,Weekday,Rainy,Kukatpally,1,12,2.26
+8,Weekday,Rainy,Madhapur,0,6,1.76
+15,Weekend,Windy,Hitech City,1,6,1.55
+17,Weekday,Windy,Banjara Hills,1,8,1.64
+3,Weekday,Windy,Banjara Hills,1,5,1.22
+18,Weekday,Cloudy,Madhapur,1,7,1.56
+18,Weekend,Sunny,Hitech City,1,8,1.54
+0,Weekday,Rainy,Madhapur,0,7,1.68
+3,Weekend,Windy,Dilsukhnagar,0,3,1.2
+19,Weekday,Cloudy,Hitech City,0,9,2.49
+0,Weekday,Sunny,Hitech City,0,2,1.06
+13,Weekday,Windy,Hitech City,1,9,2.19
+8,Weekday,Rainy,Hitech City,0,7,1.42
+23,Weekday,Rainy,Dilsukhnagar,1,9,2.38
+19,Weekday,Windy,Kukatpally,0,4,1.3
+6,Weekday,Sunny,Madhapur,1,4,1.25
+14,Weekday,Windy,Madhapur,1,10,1.85
+4,Weekday,Sunny,Dilsukhnagar,0,1,0.9
+6,Weekday,Windy,Madhapur,0,4,1.22
+20,Weekday,Sunny,Banjara Hills,0,8,1.5
+3,Weekend,Rainy,Kukatpally,0,6,1.77
+19,Weekday,Windy,Kukatpally,1,8,1.41
+7,Weekday,Rainy,Dilsukhnagar,0,4,1.3
+10,Weekday,Rainy,Kukatpally,1,8,1.47
+19,Weekday,Windy,Dilsukhnagar,1,8,1.74
+5,Weekday,Cloudy,Banjara Hills,1,8,1.5
+21,Weekend,Rainy,Kukatpally,1,10,2.41
+3,Weekday,Cloudy,Banjara Hills,0,3,1.23
+0,Weekday,Cloudy,Dilsukhnagar,1,7,1.43
+10,Weekend,Cloudy,Dilsukhnagar,0,7,1.68
+5,Weekend,Windy,Dilsukhnagar,0,2,1.08
+18,Weekday,Rainy,Hitech City,1,11,2.47
+14,Weekday,Sunny,Kukatpally,0,6,1.56
+0,Weekday,Rainy,Banjara Hills,1,10,1.85
+0,Weekday,Cloudy,Madhapur,1,8,1.71
+23,Weekend,Rainy,Dilsukhnagar,1,10,2.4
+10,Weekend,Sunny,Dilsukhnagar,0,5,1.32
+8,Weekday,Sunny,Hitech City,1,8,1.8
+14,Weekday,Rainy,Dilsukhnagar,1,10,2.47
+12,Weekend,Windy,Hitech City,0,7,1.55
+17,Weekend,Rainy,Banjara Hills,0,6,1.72
+17,Weekday,Cloudy,Kukatpally,0,1,1.05
+16,Weekday,Rainy,Madhapur,0,7,1.49
+5,Weekday,Sunny,Kukatpally,0,0,0.93
+14,Weekday,Windy,Madhapur,1,9,1.9
+0,Weekend,Rainy,Hitech City,0,9,2.39
+17,Weekend,Rainy,Dilsukhnagar,1,9,2.38
+2,Weekend,Rainy,Kukatpally,1,8,1.65
+10,Weekday,Rainy,Dilsukhnagar,1,10,2.03
+21,Weekday,Sunny,Madhapur,0,4,1.25
+19,Weekend,Cloudy,Banjara Hills,0,10,2.41
+6,Weekday,Sunny,Banjara Hills,1,5,1.4
+4,Weekday,Rainy,Madhapur,0,5,1.32
+16,Weekday,Sunny,Banjara Hills,1,6,1.75
+20,Weekend,Rainy,Kukatpally,1,11,2.2
+13,Weekday,Sunny,Dilsukhnagar,0,6,1.68
+7,Weekday,Windy,Kukatpally,1,6,1.69
+9,Weekday,Rainy,Banjara Hills,0,9,2.06
+8,Weekday,Sunny,Kukatpally,0,5,1.22
+18,Weekend,Sunny,Hitech City,1,8,1.72
+10,Weekday,Sunny,Madhapur,0,6,1.56
+4,Weekend,Rainy,Dilsukhnagar,0,5,1.19
+3,Weekend,Sunny,Madhapur,0,5,1.28
+22,Weekend,Sunny,Banjara Hills,0,5,1.35
+22,Weekend,Cloudy,Banjara Hills,0,5,1.14
+17,Weekday,Cloudy,Dilsukhnagar,0,4,1.29
+20,Weekend,Rainy,Madhapur,1,11,2.47
+22,Weekend,Windy,Kukatpally,0,3,1.32
+21,Weekday,Cloudy,Hitech City,0,6,1.45
+10,Weekday,Cloudy,Madhapur,1,8,1.59
+22,Weekday,Windy,Hitech City,0,2,1.1
+8,Weekday,Rainy,Hitech City,1,12,2.36
+17,Weekday,Windy,Hitech City,1,5,1.34
+9,Weekday,Rainy,Dilsukhnagar,0,7,1.78
+10,Weekend,Cloudy,Dilsukhnagar,0,4,1.2
+11,Weekend,Windy,Madhapur,1,8,1.64
+2,Weekday,Rainy,Kukatpally,0,3,1.31
+10,Weekend,Windy,Banjara Hills,1,10,2.03
+21,Weekday,Sunny,Kukatpally,0,5,1.39
+18,Weekend,Sunny,Hitech City,1,7,1.47
+6,Weekday,Windy,Dilsukhnagar,1,3,1.1
+16,Weekday,Cloudy,Kukatpally,1,4,1.14
+16,Weekday,Sunny,Kukatpally,1,6,1.76
+23,Weekday,Rainy,Dilsukhnagar,1,7,1.59
+20,Weekend,Windy,Hitech City,0,7,1.61
+15,Weekend,Rainy,Dilsukhnagar,1,10,2.16
+3,Weekend,Rainy,Dilsukhnagar,1,10,2.29
+1,Weekday,Sunny,Kukatpally,0,3,1.28
+19,Weekend,Cloudy,Madhapur,1,11,2.41
+9,Weekend,Sunny,Hitech City,1,11,2.21
+5,Weekend,Rainy,Kukatpally,1,9,2.26
+9,Weekend,Cloudy,Dilsukhnagar,0,7,1.41
+23,Weekend,Rainy,Madhapur,0,7,1.78
+20,Weekday,Windy,Dilsukhnagar,1,8,1.6
+10,Weekend,Rainy,Kukatpally,1,12,2.27
+17,Weekday,Windy,Kukatpally,1,4,1.4
+21,Weekday,Windy,Banjara Hills,0,8,1.66
+3,Weekend,Windy,Kukatpally,0,2,0.96
+0,Weekday,Windy,Dilsukhnagar,0,3,1.28
+4,Weekday,Rainy,Dilsukhnagar,1,8,1.41
+6,Weekend,Cloudy,Banjara Hills,1,7,1.69
+7,Weekday,Rainy,Kukatpally,1,7,1.46
+7,Weekend,Cloudy,Hitech City,1,10,1.91
+19,Weekday,Rainy,Banjara Hills,0,9,1.99
+15,Weekday,Cloudy,Kukatpally,1,4,1.28
+22,Weekend,Cloudy,Madhapur,1,9,2.49
+1,Weekday,Sunny,Hitech City,1,5,1.24
+2,Weekday,Windy,Madhapur,1,6,1.63
+15,Weekend,Sunny,Banjara Hills,0,4,1.38
+19,Weekday,Rainy,Kukatpally,0,9,2.03
+14,Weekend,Sunny,Banjara Hills,0,7,1.76
+17,Weekday,Sunny,Madhapur,1,6,1.51
+17,Weekend,Rainy,Hitech City,1,11,2.06
+10,Weekend,Sunny,Banjara Hills,1,9,2.29
+13,Weekday,Windy,Kukatpally,1,8,1.77
+6,Weekday,Rainy,Kukatpally,1,7,1.63
+19,Weekday,Cloudy,Kukatpally,0,4,1.26
+22,Weekday,Windy,Dilsukhnagar,1,4,1.38
+13,Weekday,Rainy,Banjara Hills,0,8,1.63
+11,Weekend,Sunny,Kukatpally,0,4,1.33
+1,Weekend,Windy,Hitech City,0,5,1.3
+5,Weekday,Sunny,Banjara Hills,0,4,1.19
+1,Weekend,Windy,Dilsukhnagar,1,5,1.37
+12,Weekday,Sunny,Dilsukhnagar,0,4,1.33
+7,Weekday,Rainy,Dilsukhnagar,1,7,1.44
+10,Weekday,Sunny,Kukatpally,0,3,1.15
+13,Weekday,Sunny,Dilsukhnagar,0,4,1.25
+20,Weekend,Windy,Madhapur,0,8,1.71
+10,Weekend,Cloudy,Kukatpally,1,8,1.76
+4,Weekday,Windy,Banjara Hills,0,3,1.31
+16,Weekday,Sunny,Banjara Hills,1,5,1.37
+8,Weekend,Windy,Madhapur,1,8,1.7
+8,Weekend,Windy,Hitech City,1,8,1.66
+8,Weekend,Rainy,Madhapur,1,11,2.05
+6,Weekend,Windy,Madhapur,1,8,1.62
+17,Weekend,Sunny,Kukatpally,0,3,1.22
+15,Weekend,Windy,Hitech City,1,6,1.46
+19,Weekend,Rainy,Dilsukhnagar,1,11,2.08
+1,Weekday,Rainy,Kukatpally,0,6,1.5
+14,Weekday,Sunny,Madhapur,0,7,1.43
+16,Weekend,Sunny,Madhapur,1,8,1.62
+0,Weekday,Sunny,Kukatpally,1,5,1.4
+18,Weekend,Sunny,Banjara Hills,1,7,1.76
+5,Weekend,Rainy,Dilsukhnagar,1,8,1.79
+21,Weekend,Sunny,Kukatpally,0,4,1.27
+2,Weekend,Sunny,Dilsukhnagar,1,4,1.38
+3,Weekend,Sunny,Dilsukhnagar,1,7,1.75
+3,Weekend,Rainy,Hitech City,1,12,2.25
+23,Weekday,Windy,Madhapur,0,3,1.17
+13,Weekend,Windy,Dilsukhnagar,1,10,2.29
+20,Weekend,Windy,Hitech City,0,8,1.79
+2,Weekday,Sunny,Hitech City,1,5,1.34
+15,Weekend,Sunny,Banjara Hills,0,5,1.11
+11,Weekend,Windy,Banjara Hills,0,4,1.11
+0,Weekday,Windy,Madhapur,1,6,1.66
+21,Weekend,Rainy,Dilsukhnagar,1,12,2.22
+23,Weekend,Cloudy,Madhapur,0,5,1.15
+21,Weekend,Rainy,Hitech City,1,12,2.08
+3,Weekend,Rainy,Kukatpally,1,7,1.78
+21,Weekend,Sunny,Banjara Hills,0,9,2.46
+19,Weekday,Windy,Kukatpally,1,9,2.07
+3,Weekend,Sunny,Dilsukhnagar,1,6,1.6
+2,Weekend,Cloudy,Dilsukhnagar,0,4,1.26
+19,Weekend,Sunny,Madhapur,1,8,1.61
+6,Weekend,Windy,Banjara Hills,1,6,1.67
+14,Weekend,Cloudy,Madhapur,0,9,1.95
+8,Weekend,Rainy,Madhapur,0,10,2.32
+3,Weekday,Sunny,Hitech City,0,4,1.34
+2,Weekend,Windy,Kukatpally,1,5,1.35
+2,Weekday,Cloudy,Dilsukhnagar,1,4,1.25
+6,Weekday,Windy,Banjara Hills,1,5,1.36
+1,Weekday,Rainy,Kukatpally,1,7,1.54
+15,Weekday,Sunny,Madhapur,1,6,1.62
+5,Weekend,Sunny,Dilsukhnagar,0,1,1.07
+9,Weekend,Cloudy,Dilsukhnagar,1,10,2.01
+0,Weekend,Rainy,Dilsukhnagar,0,7,1.78
+15,Weekend,Windy,Banjara Hills,0,5,1.23
+14,Weekday,Windy,Madhapur,0,6,1.54
+4,Weekday,Windy,Kukatpally,1,6,1.64
+17,Weekend,Windy,Madhapur,1,7,1.53
+8,Weekend,Cloudy,Hitech City,0,8,1.4
+19,Weekday,Rainy,Kukatpally,0,8,1.79
+13,Weekday,Windy,Madhapur,0,5,1.18
+7,Weekday,Sunny,Banjara Hills,1,7,1.72
+15,Weekday,Windy,Madhapur,1,4,1.38
+2,Weekend,Windy,Dilsukhnagar,1,5,1.31
+22,Weekday,Sunny,Kukatpally,0,3,1.2
+8,Weekday,Cloudy,Banjara Hills,0,8,1.41
+22,Weekday,Windy,Madhapur,0,2,0.91
+14,Weekday,Windy,Hitech City,1,9,2.0
+14,Weekend,Windy,Banjara Hills,0,6,1.45
+2,Weekday,Sunny,Kukatpally,0,3,1.26
+1,Weekend,Windy,Hitech City,1,8,1.54
+16,Weekend,Windy,Kukatpally,0,3,1.23
+22,Weekend,Sunny,Dilsukhnagar,0,2,1.03
+17,Weekday,Cloudy,Banjara Hills,0,4,1.37
+16,Weekend,Windy,Dilsukhnagar,0,3,1.35
+19,Weekend,Windy,Dilsukhnagar,1,8,1.61
+5,Weekend,Windy,Hitech City,1,7,1.42
+2,Weekday,Rainy,Dilsukhnagar,1,6,1.72
+5,Weekday,Rainy,Hitech City,0,8,1.78
+16,Weekend,Cloudy,Banjara Hills,1,10,2.18
+4,Weekend,Cloudy,Banjara Hills,1,8,1.61
+23,Weekend,Sunny,Banjara Hills,0,3,1.25
+15,Weekend,Rainy,Madhapur,1,8,1.78
+0,Weekend,Rainy,Dilsukhnagar,0,5,1.18
+20,Weekend,Cloudy,Kukatpally,0,7,1.76
+5,Weekday,Rainy,Kukatpally,1,6,1.42
+10,Weekday,Cloudy,Dilsukhnagar,1,9,1.95
+4,Weekend,Rainy,Banjara Hills,0,8,1.73
+14,Weekday,Cloudy,Banjara Hills,1,9,2.33
+4,Weekend,Cloudy,Madhapur,1,9,2.16
+23,Weekday,Windy,Kukatpally,0,2,0.92
+13,Weekend,Sunny,Madhapur,1,10,2.08
+20,Weekend,Rainy,Dilsukhnagar,1,12,2.07
+0,Weekend,Cloudy,Dilsukhnagar,1,8,1.6
+7,Weekday,Rainy,Banjara Hills,0,6,1.51
+19,Weekend,Cloudy,Dilsukhnagar,1,11,1.82
+21,Weekend,Rainy,Banjara Hills,1,14,2.21
+18,Weekend,Rainy,Kukatpally,1,7,1.6
+0,Weekend,Rainy,Hitech City,0,7,1.78
+1,Weekday,Rainy,Dilsukhnagar,0,3,1.17
+16,Weekend,Sunny,Kukatpally,0,2,0.95
+13,Weekday,Cloudy,Dilsukhnagar,0,4,1.26
+0,Weekday,Cloudy,Banjara Hills,0,6,1.51
+6,Weekend,Windy,Kukatpally,0,2,1.03
+14,Weekend,Rainy,Dilsukhnagar,1,10,2.5
+12,Weekend,Windy,Dilsukhnagar,1,10,2.29
+18,Weekend,Cloudy,Kukatpally,1,7,1.64
+11,Weekend,Sunny,Madhapur,1,6,1.68
+12,Weekday,Sunny,Kukatpally,0,5,1.25
+9,Weekday,Rainy,Dilsukhnagar,1,9,2.28
+4,Weekend,Rainy,Hitech City,1,10,2.34
+2,Weekend,Cloudy,Hitech City,0,5,1.13
+11,Weekend,Cloudy,Madhapur,1,7,1.42
+6,Weekday,Rainy,Kukatpally,1,8,1.59
+0,Weekday,Cloudy,Hitech City,0,5,1.3
+7,Weekday,Sunny,Banjara Hills,1,7,1.4
+22,Weekday,Rainy,Kukatpally,0,5,1.29
+0,Weekend,Sunny,Banjara Hills,0,3,1.21
+21,Weekday,Cloudy,Kukatpally,1,7,1.68
+9,Weekend,Cloudy,Hitech City,0,7,1.76
+10,Weekend,Windy,Hitech City,0,5,1.39
+3,Weekday,Cloudy,Banjara Hills,1,8,1.59
+6,Weekday,Windy,Banjara Hills,1,8,1.62
+2,Weekday,Windy,Banjara Hills,1,6,1.45
+3,Weekday,Sunny,Banjara Hills,0,3,1.25
+7,Weekday,Sunny,Madhapur,1,4,1.15
+16,Weekday,Sunny,Dilsukhnagar,1,6,1.52
+11,Weekday,Rainy,Hitech City,0,5,1.25
+2,Weekday,Rainy,Madhapur,1,8,1.44
+4,Weekday,Windy,Kukatpally,1,3,1.4
+22,Weekday,Windy,Hitech City,0,3,1.31
+18,Weekday,Sunny,Dilsukhnagar,1,5,1.11
+0,Weekday,Rainy,Banjara Hills,0,5,1.33
+7,Weekend,Cloudy,Dilsukhnagar,1,8,1.41
+15,Weekday,Cloudy,Dilsukhnagar,1,7,1.54
+22,Weekend,Windy,Madhapur,0,4,1.31
+20,Weekend,Rainy,Banjara Hills,0,12,2.33
+6,Weekday,Windy,Hitech City,0,5,1.39
+16,Weekday,Sunny,Hitech City,1,8,1.79
+0,Weekday,Windy,Banjara Hills,0,5,1.22
+14,Weekday,Sunny,Madhapur,1,10,2.44
+12,Weekend,Rainy,Banjara Hills,0,10,2.28
+1,Weekday,Windy,Hitech City,1,5,1.33
+18,Weekend,Sunny,Madhapur,0,5,1.16
+5,Weekday,Cloudy,Banjara Hills,0,6,1.54
+17,Weekend,Cloudy,Madhapur,0,4,1.17
+10,Weekday,Windy,Banjara Hills,0,6,1.77
+22,Weekday,Cloudy,Dilsukhnagar,1,6,1.54
+3,Weekday,Sunny,Dilsukhnagar,1,3,1.39
+9,Weekday,Rainy,Kukatpally,1,9,2.18
+15,Weekday,Windy,Dilsukhnagar,0,1,1.09
+17,Weekday,Sunny,Madhapur,0,4,1.18
+11,Weekend,Windy,Kukatpally,1,7,1.7
+22,Weekend,Sunny,Kukatpally,0,4,1.33
+4,Weekday,Windy,Banjara Hills,0,5,1.2
+5,Weekend,Windy,Kukatpally,0,1,0.95
+16,Weekend,Sunny,Dilsukhnagar,0,1,1.05
+8,Weekend,Sunny,Madhapur,1,8,1.62
+22,Weekend,Rainy,Kukatpally,0,4,1.22
+12,Weekday,Sunny,Madhapur,1,7,1.74
+12,Weekday,Sunny,Dilsukhnagar,0,6,1.7
+0,Weekend,Cloudy,Madhapur,1,9,2.48
+8,Weekday,Windy,Dilsukhnagar,0,5,1.25
+8,Weekday,Windy,Kukatpally,0,4,1.34
+6,Weekend,Cloudy,Madhapur,1,8,1.74
+11,Weekend,Windy,Hitech City,0,4,1.4
+2,Weekday,Windy,Banjara Hills,0,5,1.33
+7,Weekend,Windy,Madhapur,0,2,1.03
+23,Weekend,Rainy,Kukatpally,0,6,1.66
+1,Weekend,Windy,Hitech City,0,5,1.11
+22,Weekday,Windy,Madhapur,0,1,0.91
+13,Weekend,Sunny,Banjara Hills,1,11,2.19
+6,Weekend,Windy,Hitech City,0,6,1.47
+15,Weekend,Cloudy,Hitech City,1,8,1.64
+11,Weekend,Cloudy,Dilsukhnagar,1,8,1.63
+9,Weekday,Sunny,Kukatpally,1,8,1.45
+10,Weekday,Sunny,Hitech City,0,7,1.79
+23,Weekday,Windy,Banjara Hills,1,7,1.58
+21,Weekend,Cloudy,Dilsukhnagar,0,6,1.53
+3,Weekend,Rainy,Dilsukhnagar,0,5,1.23
+23,Weekend,Sunny,Hitech City,0,3,1.23
+14,Weekday,Rainy,Dilsukhnagar,1,11,2.11
+2,Weekday,Sunny,Madhapur,1,6,1.44
+9,Weekday,Rainy,Madhapur,1,10,2.35
+17,Weekday,Rainy,Kukatpally,0,6,1.69
+12,Weekend,Sunny,Banjara Hills,0,7,1.57
+10,Weekend,Cloudy,Kukatpally,1,7,1.73
+10,Weekday,Sunny,Dilsukhnagar,1,5,1.3
+16,Weekend,Sunny,Hitech City,1,6,1.45
+13,Weekday,Sunny,Madhapur,1,9,1.98
+22,Weekday,Sunny,Dilsukhnagar,0,0,1.05
+14,Weekend,Cloudy,Banjara Hills,1,13,1.95
+23,Weekend,Rainy,Banjara Hills,1,12,2.48
+17,Weekend,Windy,Hitech City,0,6,1.62
+3,Weekday,Cloudy,Banjara Hills,0,5,1.38
+5,Weekday,Sunny,Dilsukhnagar,0,1,0.98
+18,Weekday,Windy,Kukatpally,1,3,1.14
+13,Weekend,Rainy,Dilsukhnagar,0,9,2.12
+13,Weekend,Windy,Dilsukhnagar,0,4,1.33
+0,Weekday,Rainy,Kukatpally,0,3,1.23
+7,Weekend,Sunny,Dilsukhnagar,1,7,1.7
+18,Weekday,Rainy,Hitech City,1,8,1.63
+16,Weekday,Cloudy,Dilsukhnagar,1,5,1.3
+22,Weekend,Windy,Madhapur,1,8,1.77
+5,Weekend,Cloudy,Hitech City,1,9,2.27
+8,Weekend,Windy,Madhapur,1,8,1.57
+12,Weekend,Cloudy,Hitech City,0,7,1.58
+18,Weekend,Windy,Kukatpally,1,4,1.36
+1,Weekday,Cloudy,Madhapur,0,3,1.12
+13,Weekday,Windy,Dilsukhnagar,0,3,1.17
+23,Weekend,Cloudy,Madhapur,0,5,1.39
+7,Weekday,Sunny,Dilsukhnagar,0,3,1.33
+8,Weekday,Windy,Banjara Hills,1,7,1.57
+10,Weekday,Rainy,Madhapur,1,12,2.32
+11,Weekday,Rainy,Madhapur,0,7,1.7
+18,Weekday,Sunny,Madhapur,0,4,1.32
+13,Weekday,Rainy,Banjara Hills,1,14,1.96
+8,Weekday,Rainy,Dilsukhnagar,1,11,1.91
+16,Weekday,Windy,Banjara Hills,0,5,1.3
+5,Weekend,Rainy,Hitech City,0,7,1.72
+22,Weekend,Sunny,Hitech City,1,7,1.66
+8,Weekday,Rainy,Kukatpally,0,7,1.48
+7,Weekday,Sunny,Dilsukhnagar,0,2,0.97
+20,Weekday,Rainy,Madhapur,1,10,1.99
+7,Weekend,Sunny,Dilsukhnagar,1,4,1.24
+13,Weekend,Sunny,Kukatpally,1,9,2.39
+11,Weekend,Cloudy,Banjara Hills,0,6,1.6
+22,Weekday,Windy,Dilsukhnagar,0,3,1.19
+10,Weekday,Rainy,Kukatpally,0,8,1.61
+11,Weekday,Cloudy,Banjara Hills,0,3,1.17
+14,Weekend,Rainy,Banjara Hills,0,11,1.82
+5,Weekday,Cloudy,Dilsukhnagar,1,6,1.72
+2,Weekday,Rainy,Madhapur,0,7,1.57
+23,Weekend,Sunny,Kukatpally,1,5,1.4
+15,Weekend,Windy,Hitech City,1,9,1.97
+17,Weekend,Sunny,Hitech City,0,5,1.16
+4,Weekend,Windy,Banjara Hills,0,3,1.2
+18,Weekend,Rainy,Kukatpally,1,8,1.63
+13,Weekday,Cloudy,Dilsukhnagar,1,9,1.81
+17,Weekend,Cloudy,Madhapur,1,8,1.57
+21,Weekend,Rainy,Hitech City,1,12,2.16
+6,Weekday,Sunny,Banjara Hills,0,2,1.03
+23,Weekend,Rainy,Kukatpally,1,8,1.67
+5,Weekend,Windy,Kukatpally,0,2,0.93
+23,Weekday,Cloudy,Dilsukhnagar,1,6,1.63
+19,Weekday,Windy,Kukatpally,0,3,1.27
+1,Weekday,Cloudy,Dilsukhnagar,1,7,1.69
+23,Weekday,Windy,Banjara Hills,0,5,1.19
+14,Weekday,Windy,Dilsukhnagar,1,8,1.65
+8,Weekday,Windy,Kukatpally,0,2,1.02
+15,Weekday,Windy,Madhapur,1,4,1.1
+11,Weekend,Rainy,Madhapur,1,11,2.47
+9,Weekend,Windy,Banjara Hills,0,8,1.71
+1,Weekend,Rainy,Dilsukhnagar,0,6,1.56
+11,Weekday,Rainy,Kukatpally,1,9,2.11
+18,Weekday,Windy,Madhapur,0,3,1.21
+19,Weekend,Cloudy,Dilsukhnagar,0,5,1.22
+23,Weekend,Sunny,Banjara Hills,0,3,1.25
+18,Weekend,Cloudy,Kukatpally,0,4,1.38
+9,Weekday,Cloudy,Madhapur,1,9,1.92
+3,Weekday,Sunny,Madhapur,1,4,1.35
+16,Weekend,Sunny,Hitech City,0,4,1.2
+9,Weekend,Cloudy,Kukatpally,1,7,1.76
+18,Weekday,Rainy,Kukatpally,1,8,1.58
+14,Weekend,Sunny,Hitech City,1,9,1.93
+3,Weekend,Sunny,Banjara Hills,1,8,1.79
+17,Weekend,Sunny,Dilsukhnagar,0,1,1.06
+9,Weekday,Cloudy,Dilsukhnagar,0,4,1.17
+4,Weekend,Windy,Hitech City,0,4,1.25
+10,Weekday,Sunny,Banjara Hills,1,10,1.94
+16,Weekday,Sunny,Hitech City,0,3,1.36
+11,Weekend,Sunny,Dilsukhnagar,0,3,1.27
+12,Weekday,Cloudy,Dilsukhnagar,0,5,1.37
+20,Weekend,Sunny,Madhapur,1,8,1.63
+21,Weekday,Windy,Dilsukhnagar,1,6,1.6
+21,Weekend,Sunny,Kukatpally,0,4,1.29
+19,Weekday,Rainy,Banjara Hills,1,11,2.14
+22,Weekday,Windy,Hitech City,0,3,1.16
+4,Weekday,Rainy,Madhapur,1,8,1.78
+1,Weekend,Sunny,Hitech City,0,6,1.75
+2,Weekend,Windy,Madhapur,1,8,1.46
+14,Weekend,Sunny,Kukatpally,1,7,1.43
+5,Weekend,Rainy,Hitech City,0,6,1.8
+18,Weekend,Sunny,Kukatpally,1,7,1.67
+5,Weekday,Sunny,Dilsukhnagar,1,3,1.35
+2,Weekday,Sunny,Banjara Hills,0,3,1.16
+5,Weekend,Cloudy,Dilsukhnagar,1,6,1.42
+4,Weekday,Sunny,Madhapur,1,7,1.62
+22,Weekday,Sunny,Dilsukhnagar,1,3,1.27
+12,Weekday,Cloudy,Madhapur,0,7,1.47
+2,Weekday,Sunny,Banjara Hills,1,5,1.26
+12,Weekend,Sunny,Dilsukhnagar,0,6,1.5
+13,Weekday,Sunny,Dilsukhnagar,1,6,1.5
+17,Weekday,Cloudy,Kukatpally,1,6,1.51
+11,Weekday,Windy,Hitech City,1,5,1.22
+4,Weekend,Cloudy,Madhapur,1,9,2.22
+7,Weekend,Sunny,Kukatpally,1,5,1.28
+8,Weekday,Cloudy,Banjara Hills,0,7,1.65
+14,Weekend,Windy,Banjara Hills,1,10,2.27
+20,Weekend,Windy,Kukatpally,1,7,1.75
+11,Weekday,Sunny,Hitech City,1,7,1.6
+16,Weekend,Sunny,Kukatpally,1,7,1.76
+10,Weekday,Rainy,Kukatpally,0,8,1.78
+2,Weekday,Windy,Kukatpally,0,3,1.23
+6,Weekend,Rainy,Madhapur,1,11,2.14
+1,Weekday,Windy,Madhapur,1,5,1.35
+23,Weekend,Cloudy,Hitech City,0,4,1.37
+15,Weekday,Rainy,Hitech City,0,7,1.46
+5,Weekday,Cloudy,Banjara Hills,1,9,2.38
+0,Weekend,Cloudy,Dilsukhnagar,1,5,1.24
+3,Weekend,Sunny,Madhapur,0,2,1.03
+23,Weekday,Cloudy,Banjara Hills,0,4,1.32
+16,Weekend,Cloudy,Kukatpally,0,4,1.28
+19,Weekday,Cloudy,Banjara Hills,0,7,1.45
+22,Weekday,Sunny,Dilsukhnagar,0,1,1.08
+18,Weekend,Cloudy,Banjara Hills,0,6,1.76
+20,Weekday,Cloudy,Hitech City,1,10,1.99
+6,Weekend,Windy,Dilsukhnagar,0,3,1.11
+4,Weekday,Sunny,Kukatpally,0,1,0.92
+15,Weekday,Sunny,Hitech City,0,5,1.15
+9,Weekday,Windy,Madhapur,1,9,2.37
+21,Weekend,Cloudy,Dilsukhnagar,1,11,2.48
+11,Weekday,Windy,Banjara Hills,1,6,1.48
+15,Weekday,Cloudy,Madhapur,1,6,1.45
+10,Weekday,Cloudy,Hitech City,0,8,1.79
+21,Weekday,Sunny,Madhapur,0,5,1.18
+11,Weekday,Rainy,Dilsukhnagar,1,7,1.4
+8,Weekend,Windy,Kukatpally,1,9,2.44
+22,Weekday,Rainy,Dilsukhnagar,1,8,1.53
+22,Weekend,Sunny,Banjara Hills,0,6,1.53
+2,Weekday,Windy,Dilsukhnagar,1,4,1.13
+22,Weekday,Windy,Banjara Hills,0,2,1.0
+9,Weekday,Cloudy,Madhapur,0,4,1.29
+3,Weekday,Windy,Hitech City,1,7,1.54
+18,Weekend,Cloudy,Madhapur,1,8,1.51
+6,Weekday,Sunny,Dilsukhnagar,1,3,1.34
+21,Weekend,Rainy,Banjara Hills,0,11,2.35
+14,Weekday,Windy,Dilsukhnagar,1,6,1.44
+1,Weekday,Cloudy,Banjara Hills,1,8,1.64
+15,Weekend,Cloudy,Dilsukhnagar,1,5,1.32
+16,Weekday,Windy,Dilsukhnagar,1,3,1.38
+4,Weekday,Cloudy,Dilsukhnagar,0,4,1.28
+6,Weekend,Windy,Banjara Hills,0,6,1.76

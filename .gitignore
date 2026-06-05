@@ -1,0 +1,10 @@
+spevenv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+model.pkl
+le_day.pkl
+le_weather.pkl
+le_location.pkl
