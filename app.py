@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import requests
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 import os
 
@@ -45,20 +45,9 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-/* Hide top toolbar */
-header[data-testid="stHeader"] {
-    display: none !important;
-}
-
-/* Hide bottom manage app bar */
-footer {
-    display: none !important;
-}
-
-/* Hide the deploy button */
-.stDeployButton {
-    display: none !important;
-}
+header[data-testid="stHeader"] { display: none !important; }
+footer { display: none !important; }
+.stDeployButton { display: none !important; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -367,27 +356,43 @@ label {{
 st.markdown('<div class="main-title">⚡ SURGE ENGINE</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-title">Hyper-Local Dynamic Pricing System</div>', unsafe_allow_html=True)
 
-# ── Auto Fetch Time and Date ──────────────────────────────
-from datetime import timezone, timedelta
-IST = timezone(timedelta(hours=5, minutes=30))
-now = datetime.now(IST)
+# ── Auto Fetch Time and Date (IST) ────────────────────────
+IST      = timezone(timedelta(hours=5, minutes=30))
+now      = datetime.now(IST)
 hour     = now.hour
 day_name = now.strftime("%A")
 date_str = now.strftime("%d %b %Y")
 time_str = now.strftime("%I:%M %p")
 day_type = "Weekend" if day_name in ["Saturday", "Sunday"] else "Weekday"
 
-# ── Location ──────────────────────────────────────────────
+# ── Location Input ────────────────────────────────────────
 st.markdown(f'<div class="neon-card"><div class="card-label">📍 Delivery Zone</div>', unsafe_allow_html=True)
-location = st.selectbox(
-    "Select area",
-    ["Hitech City", "Banjara Hills", "Madhapur", "Kukatpally", "Dilsukhnagar"],
-    label_visibility="collapsed"
+location = st.text_input(
+    "Enter delivery area",
+    placeholder      = "e.g. Gachibowli, Ameerpet, Hitech City...",
+    label_visibility = "collapsed"
 )
+if not location:
+    location = "Kukatpally"
+location = location.strip().title()
 st.markdown('</div>', unsafe_allow_html=True)
 
+# ── Check if Known Location ───────────────────────────────
+known_locations = ["Hitech City", "Banjara Hills", "Madhapur", "Kukatpally", "Dilsukhnagar"]
+is_known_loc    = location in known_locations
+
+# ── Show Warning if Unknown ───────────────────────────────
+if not is_known_loc and location != "Kukatpally":
+    st.markdown(f"""
+    <div style="font-family:'Rajdhani',sans-serif; font-size:0.75rem;
+    color:{label_color}; letter-spacing:1px; margin-top:-0.8rem;
+    margin-bottom:1rem; padding-left:0.5rem;">
+    ⚠️ "{location}" is a new area — using estimated demand
+    </div>
+    """, unsafe_allow_html=True)
+
 # ── API + Weather ─────────────────────────────────────────
-API_KEY = os.getenv("OPENWEATHER_API_KEY", "your_api_key_here")
+API_KEY  = os.getenv("OPENWEATHER_API_KEY", "your_api_key_here")
 city_map = {
     "Hitech City"   : "Hyderabad",
     "Banjara Hills" : "Hyderabad",
@@ -395,15 +400,16 @@ city_map = {
     "Kukatpally"    : "Hyderabad",
     "Dilsukhnagar"  : "Hyderabad"
 }
-weather, weather_emoji = get_weather(city_map[location], API_KEY)
+weather_city           = city_map.get(location, "Hyderabad")
+weather, weather_emoji = get_weather(weather_city, API_KEY)
 
 # ── Event Input ───────────────────────────────────────────
 st.markdown(f'<div class="neon-card"><div class="card-label">🎯 Local Event Status</div>', unsafe_allow_html=True)
 event_choice = st.radio(
     "Event",
     ["No active event", "Event happening today"],
-    label_visibility="collapsed",
-    horizontal=True
+    label_visibility = "collapsed",
+    horizontal       = True
 )
 event = 1 if "Event" in event_choice else 0
 st.markdown('</div>', unsafe_allow_html=True)
@@ -414,10 +420,10 @@ base_price = st.number_input(
     "₹ Enter base delivery fee",
     min_value = 10,
     max_value = 500,
-    value     = st.session_state.base_price,  # ← uses session state
+    value     = st.session_state.base_price,
     step      = 5,
 )
-st.session_state.base_price = base_price  # ← saves to session state
+st.session_state.base_price = base_price
 st.markdown('</div>', unsafe_allow_html=True)
 
 # ── Live Conditions ───────────────────────────────────────
@@ -461,12 +467,16 @@ else:                     demand += 1
 if event == 1:            demand += 3
 if location in ["Hitech City", "Banjara Hills"]: demand += 2
 elif location == "Madhapur":                     demand += 1
+elif not is_known_loc:                           demand += 1
 demand = max(0, demand)
 
 # ── Encode + Predict ──────────────────────────────────────
 day_enc = le_day.transform([day_type])[0]
 wea_enc = le_weather.transform([weather])[0]
-loc_enc = le_location.transform([location])[0]
+if is_known_loc:
+    loc_enc = le_location.transform([location])[0]
+else:
+    loc_enc = le_location.transform(["Kukatpally"])[0]
 
 input_data       = np.array([[hour, day_enc, wea_enc, loc_enc, event, demand]])
 price_multiplier = round(model.predict(input_data)[0], 2)
