@@ -368,7 +368,9 @@ st.markdown('<div class="main-title">⚡ SURGE ENGINE</div>', unsafe_allow_html=
 st.markdown('<div class="sub-title">Hyper-Local Dynamic Pricing System</div>', unsafe_allow_html=True)
 
 # ── Auto Fetch Time and Date ──────────────────────────────
-now      = datetime.now()
+from datetime import timezone, timedelta
+IST = timezone(timedelta(hours=5, minutes=30))
+now = datetime.now(IST)
 hour     = now.hour
 day_name = now.strftime("%A")
 date_str = now.strftime("%d %b %Y")
