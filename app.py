@@ -52,80 +52,37 @@ footer { display: none !important; }
 """, unsafe_allow_html=True)
 
 # ── Session State Defaults ────────────────────────────────
-if "dark_mode" not in st.session_state:
-    st.session_state.dark_mode = True
 if "base_price" not in st.session_state:
     st.session_state.base_price = 30
 
-# ── Theme Toggle ──────────────────────────────────────────
-col_toggle1, col_toggle2, col_toggle3 = st.columns([6, 1, 1])
-with col_toggle3:
-    if st.session_state.dark_mode:
-        if st.button("☀️", help="Switch to Light Mode"):
-            st.session_state.dark_mode = False
-            st.rerun()
-    else:
-        if st.button("🌙", help="Switch to Dark Mode"):
-            st.session_state.dark_mode = True
-            st.rerun()
-
-dark = st.session_state.dark_mode
 
 # ── Theme Variables ───────────────────────────────────────
-if dark:
-    app_bg         = "#020408"
-    card_bg        = "rgba(255,255,255,0.02)"
-    card_border    = "rgba(0, 255, 163, 0.2)"
-    card_top_line  = "rgba(0,255,163,0.5)"
-    item_bg        = "rgba(0,0,0,0.4)"
-    item_border    = "rgba(0,255,163,0.15)"
-    title_gradient = "linear-gradient(90deg, #00ffa3, #00c8ff, #b400ff)"
-    subtitle_color = "rgba(0, 200, 255, 0.6)"
-    label_color    = "rgba(0, 200, 255, 0.7)"
-    value_color    = "#00ffa3"
-    key_color      = "rgba(255,255,255,0.3)"
-    price_color    = "#ffffff"
-    arrow_color    = "rgba(0,200,255,0.5)"
-    footer_color   = "rgba(255,255,255,0.3)"
-    bar_bg         = "rgba(255,255,255,0.05)"
-    glow_from      = "rgba(0,255,163,0.3)"
-    glow_to        = "rgba(0,200,255,0.5)"
-    radial1        = "rgba(0, 255, 163, 0.04)"
-    radial2        = "rgba(0, 200, 255, 0.04)"
-    radial3        = "rgba(180, 0, 255, 0.04)"
-    input_bg       = "rgba(0,0,0,0.5)"
-    input_border   = "rgba(0,255,163,0.3)"
-    input_color    = "#00ffa3"
-    radio_color    = "rgba(255,255,255,0.7)"
-    mult_gradient  = "linear-gradient(90deg, #00ffa3, #00c8ff)"
-    multiplier_sub = "rgba(255,255,255,0.3)"
-else:
-    app_bg         = "#f0f4f8"
-    card_bg        = "rgba(255,255,255,0.9)"
-    card_border    = "rgba(0, 150, 100, 0.3)"
-    card_top_line  = "rgba(0,150,100,0.6)"
-    item_bg        = "rgba(240,250,245,0.8)"
-    item_border    = "rgba(0,150,100,0.2)"
-    title_gradient = "linear-gradient(90deg, #00875a, #0077aa, #6600cc)"
-    subtitle_color = "rgba(0, 100, 160, 0.8)"
-    label_color    = "rgba(0, 100, 160, 0.9)"
-    value_color    = "#00875a"
-    key_color      = "rgba(0,0,0,0.4)"
-    price_color    = "#111111"
-    arrow_color    = "rgba(0,100,180,0.6)"
-    footer_color   = "rgba(0,0,0,0.35)"
-    bar_bg         = "rgba(0,0,0,0.08)"
-    glow_from      = "rgba(0,180,120,0.2)"
-    glow_to        = "rgba(0,150,200,0.3)"
-    radial1        = "rgba(0, 200, 130, 0.06)"
-    radial2        = "rgba(0, 150, 220, 0.06)"
-    radial3        = "rgba(120, 0, 200, 0.04)"
-    input_bg       = "rgba(255,255,255,0.9)"
-    input_border   = "rgba(0,150,100,0.4)"
-    input_color    = "#00875a"
-    radio_color    = "rgba(0,0,0,0.7)"
-    mult_gradient  = "linear-gradient(90deg, #00875a, #0077aa)"
-    multiplier_sub = "rgba(0,0,0,0.35)"
+app_bg         = "#020408"
+card_bg        = "rgba(255,255,255,0.02)"
+card_border    = "rgba(0, 255, 163, 0.2)"
+card_top_line  = "rgba(0,255,163,0.5)"
+item_bg        = "rgba(0,0,0,0.4)"
+item_border    = "rgba(0,255,163,0.15)"
+title_gradient = "linear-gradient(90deg, #00ffa3, #00c8ff, #b400ff)"
+subtitle_color = "rgba(0, 200, 255, 0.6)"
+label_color    = "rgba(0, 200, 255, 0.7)"
+value_color    = "#00ffa3"
+key_color      = "rgba(255,255,255,0.3)"
+price_color    = "#ffffff"
+arrow_color    = "rgba(0,200,255,0.5)"
+footer_color   = "rgba(255,255,255,0.3)"
+bar_bg         = "rgba(255,255,255,0.05)"
+glow_from      = "rgba(0,255,163,0.3)"
+glow_to        = "rgba(0,200,255,0.5)"
+radial1        = "rgba(0, 255, 163, 0.04)"
+radial2        = "rgba(0, 200, 255, 0.04)"
+radial3        = "rgba(180, 0, 255, 0.04)"
+input_bg       = "rgba(0,0,0,0.5)"
+input_border   = "rgba(0,255,163,0.3)"
+input_color    = "#00ffa3"
+radio_color    = "rgba(255,255,255,0.7)"
+mult_gradient  = "linear-gradient(90deg, #00ffa3, #00c8ff)"
+multiplier_sub = "rgba(255,255,255,0.3)"
 
 # ── Custom CSS ────────────────────────────────────────────
 st.markdown(f"""
@@ -486,56 +443,30 @@ final_price      = round(st.session_state.base_price * price_multiplier, 2)
 max_demand = 13
 demand_pct = min(int((demand / max_demand) * 100), 100)
 
-if dark:
-    if price_multiplier >= 1.8:
-        bar_color    = "linear-gradient(90deg, #ff6b00, #ff0055)"
-        status_txt   = "🔴 CRITICAL SURGE"
-        badge_bg     = "rgba(255,0,85,0.15)"
-        badge_color  = "#ff0055"
-        badge_border = "rgba(255,0,85,0.4)"
-    elif price_multiplier >= 1.4:
-        bar_color    = "linear-gradient(90deg, #ffaa00, #ff6b00)"
-        status_txt   = "🟡 HIGH DEMAND"
-        badge_bg     = "rgba(255,170,0,0.15)"
-        badge_color  = "#ffaa00"
-        badge_border = "rgba(255,170,0,0.4)"
-    elif price_multiplier >= 1.1:
-        bar_color    = "linear-gradient(90deg, #00c8ff, #00ffa3)"
-        status_txt   = "🔵 MODERATE SURGE"
-        badge_bg     = "rgba(0,200,255,0.15)"
-        badge_color  = "#00c8ff"
-        badge_border = "rgba(0,200,255,0.4)"
-    else:
-        bar_color    = "linear-gradient(90deg, #00ffa3, #00c8ff)"
-        status_txt   = "🟢 NORMAL PRICING"
-        badge_bg     = "rgba(0,255,163,0.15)"
-        badge_color  = "#00ffa3"
-        badge_border = "rgba(0,255,163,0.4)"
+if price_multiplier >= 1.8:
+    bar_color    = "linear-gradient(90deg, #ff6b00, #ff0055)"
+    status_txt   = "🔴 CRITICAL SURGE"
+    badge_bg     = "rgba(255,0,85,0.15)"
+    badge_color  = "#ff0055"
+    badge_border = "rgba(255,0,85,0.4)"
+elif price_multiplier >= 1.4:
+    bar_color    = "linear-gradient(90deg, #ffaa00, #ff6b00)"
+    status_txt   = "🟡 HIGH DEMAND"
+    badge_bg     = "rgba(255,170,0,0.15)"
+    badge_color  = "#ffaa00"
+    badge_border = "rgba(255,170,0,0.4)"
+elif price_multiplier >= 1.1:
+    bar_color    = "linear-gradient(90deg, #00c8ff, #00ffa3)"
+    status_txt   = "🔵 MODERATE SURGE"
+    badge_bg     = "rgba(0,200,255,0.15)"
+    badge_color  = "#00c8ff"
+    badge_border = "rgba(0,200,255,0.4)"
 else:
-    if price_multiplier >= 1.8:
-        bar_color    = "linear-gradient(90deg, #cc4400, #cc0033)"
-        status_txt   = "🔴 CRITICAL SURGE"
-        badge_bg     = "rgba(200,0,50,0.1)"
-        badge_color  = "#cc0033"
-        badge_border = "rgba(200,0,50,0.3)"
-    elif price_multiplier >= 1.4:
-        bar_color    = "linear-gradient(90deg, #cc8800, #cc4400)"
-        status_txt   = "🟡 HIGH DEMAND"
-        badge_bg     = "rgba(200,130,0,0.1)"
-        badge_color  = "#996600"
-        badge_border = "rgba(200,130,0,0.3)"
-    elif price_multiplier >= 1.1:
-        bar_color    = "linear-gradient(90deg, #0077aa, #00875a)"
-        status_txt   = "🔵 MODERATE SURGE"
-        badge_bg     = "rgba(0,100,170,0.1)"
-        badge_color  = "#0077aa"
-        badge_border = "rgba(0,100,170,0.3)"
-    else:
-        bar_color    = "linear-gradient(90deg, #00875a, #0077aa)"
-        status_txt   = "🟢 NORMAL PRICING"
-        badge_bg     = "rgba(0,135,90,0.1)"
-        badge_color  = "#00875a"
-        badge_border = "rgba(0,135,90,0.3)"
+    bar_color    = "linear-gradient(90deg, #00ffa3, #00c8ff)"
+    status_txt   = "🟢 NORMAL PRICING"
+    badge_bg     = "rgba(0,255,163,0.15)"
+    badge_color  = "#00ffa3"
+    badge_border = "rgba(0,255,163,0.4)"
 
 # ── Price Card ────────────────────────────────────────────
 st.markdown(f"""
