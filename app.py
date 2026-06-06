@@ -43,6 +43,25 @@ st.set_page_config(
     layout     = "centered"
 )
 
+st.markdown("""
+<style>
+/* Hide top toolbar */
+header[data-testid="stHeader"] {
+    display: none !important;
+}
+
+/* Hide bottom manage app bar */
+footer {
+    display: none !important;
+}
+
+/* Hide the deploy button */
+.stDeployButton {
+    display: none !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
 # ── Session State Defaults ────────────────────────────────
 if "dark_mode" not in st.session_state:
     st.session_state.dark_mode = True
